@@ -129,11 +129,53 @@
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
+## Preguntas para el segmento Estudiates Universitarios
+
+### Objetivo: Entender la manera en que los estudiantes universitarios organizan su tiempo, conocer las razones por las cuales muchos de ellos sienten motivación/desmotivación para realizar sus actividades y que es lo que esperan de una herramienta que ayuda a combatir la procastinación
+
+- ¿Cómo sueles organizar tus tareas académicas? ¿ Usas alguna app o método en específico ?
+- ¿Qué tan seguido sueles dejar tus tareas para último momento? ¿A que crees que se deba eso?
+- ¿Qué herramientas digitales usas para organizar tus actividades?
+- ¿Cómo te sueles sentir cuando sabes que tienes muchas tareas pendientes?
+- ¿Qué te motiva a empezar una tarea que inicialmente no querías hacer?
+- ¿Sientes que las herramientas y métodos que usas actualmente influyen emocionalmente en ti o simplemente te ayudan a organizarte?
+- ¿Tienes alguna técnica que te ayude a concentrarte cuando tienes que estudiar o trabajar?
+- ¿Cómo te sentirías si vieras tu progreso reflejado en estadísticas o dashboards?
+- ¿Qué opinas de las apps que usan recompensas simbólicas como medallas, frases motivadoras o niveles?
+- ¿Te sentirías más motivado si la app reconociera tus logros aunque sean pequeños?
+- ¿Qué características debería tener una app para que realmente la uses todos los días?
+- ¿Qué te haría abandonar una app después de pocos días de usarla?
+- ¿Cómo te gustaría que se vea o sienta la app ideal para ayudarte a ser más productivo y sentirte mejor emocionalmente?
+- ¿Estarías dispuesto a pagar por una app que te ayude a mejorar tu productividad?
+
+
+## Preguntas para el segmento Jóvenes Profesionales 
+
+- ¿Cómo organizas tus actividades laborales y personales durante el día?
+- ¿Qué dificultades enfrentas para mantenerte enfocado o cumplir tus tareas?
+- ¿Qué aplicaciones o métodos usas actualmente para gestionar tu productividad?
+- ¿En qué momentos sientes que más procrastinas o te desconcentras?
+- ¿Qué tipo de tareas tiendes a postergar más y por qué?
+- ¿Qué estrategias has intentado para evitar la procrastinación?
+- ¿De qué maera manejas el estrés cuando tienes muchas responsabilidades?
+- ¿Usas algún tipo de recurso como meditar o pausas activas para controlar la ansiedad ? ¿ Consideras que si te están funcionando?
+- ¿Cual es tu motivación para realizar tu rutina diaria y tus actividades laborales?
+- ¿Que buscas cuando te animas a descargar una app sobre productividad?
+- ¿Que te hace seguir utilizando una app después de los primeros días?
+- ¿Te resulta interesante la idea de recibir estadísticas o retroalimentación sobre tu progreso?
+- ¿Qué opinas de tener un sistema de recompensas dentro de una app que premie tus logros diarios?
+- ¿Estarías dispuesto a pagar por una app que te ayude a mejorar tu productividad?
 
 ## Preguntas generales
 
 - ¿Qué navegador es el que usa con mayor frecuencia?
-- ¿Qué dispositivo utiliza con frecuencia para realizar las actividades relacionadas a esta problemática? 
+- ¿Qué dispositivo utiliza con frecuencia para realizar tus actividades (móvil, laptop o pc) ? 
+- ¿Qué sistema operativo usa el dispositivo que más frecuentas?
+- ¿A qué te dedicas?
+- ¿Donde vives actualmente?
+- ¿Cual es tu edad?
+- ¿Qué aplicaciones o marcas reconoces que trabajen para ayudar a las personas a mejorar su productividad?
+
 
 
 
