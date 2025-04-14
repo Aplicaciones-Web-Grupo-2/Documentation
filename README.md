@@ -16,6 +16,7 @@
 
 **Team Members:**
 - Vásquez Villalobos, Elverth Jair **U202213070**
+- Huaman Hinostroza, Milenio **U20211C245**
 
 
 
