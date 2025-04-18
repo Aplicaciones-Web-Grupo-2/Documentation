@@ -291,6 +291,25 @@ Para comprender mejor a nuestros usuarios objetivo, hemos desarrollado perfiles 
 ## 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
+
+Para comprender mejor las necesidades, frustraciones y comportamientos de nuestros usuarios objetivo, hemos desarrollado un As-Is Scenario Mapping. Esta herramienta nos permite visualizar cómo interactúan actualmente con soluciones existentes (o la ausencia de ellas), identificando los puntos de dolor y oportunidades de mejora.
+
+Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente enlace [https://lucid.app/lucidspark/92b841d0-08ce-4fd3-b87d-7a17b662cafc/edit?viewport_loc=7154%2C-1841%2C2390%2C2345%2C0_0&invitationId=inv_fc4d10a1-d450-4682-93eb-fb2c0d8a6412](https://lucid.app/lucidspark/92b841d0-08ce-4fd3-b87d-7a17b662cafc/edit?viewport_loc=7154%2C-1841%2C2390%2C2345%2C0_0&invitationId=inv_fc4d10a1-d450-4682-93eb-fb2c0d8a6412)
+
+Figura :
+
+User Persona 1: Estudiantes Universitarios - Gestión del Tiempo
+
+![Image](https://github.com/user-attachments/assets/4606088d-0d59-40d2-b69d-b186e3204eff)
+Nota: Este mapeo describe las experiencias actuales de los Estudiantes Universitarios en su busqueda de gestionar su tiempo.
+
+Figura :
+
+User Persona 2: Jóvenes Profesionales - Manejo de Distracciones
+
+![Image](https://github.com/user-attachments/assets/03def514-b141-4497-a0c7-f62bcd33f8a2)
+Nota: Este mapeo describe las experiencias actuales de los Jóvenes Profesionales en su manejo de distracciones.
+
 ## 2.4. Ubiquitous Language.
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
