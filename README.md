@@ -127,6 +127,47 @@
 ## 2.1 Competidores
 ### 2.1.1. Análisis competitivo.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+##### Gestión del Tiempo y Técnicas de Estudio (Pomodoro)
+
+- Estrategia: Ofrecer un módulo de gestión del tiempo que integre la técnica Pomodoro, diseñado específicamente para estudiantes y freelancers, orientado a combatir la procrastinación.
+
+- Táctica: 
+  - Temporizador Pomodoro: Un temporizador integrado que permite sesiones de enfoque, con alarmas y notificaciones de pausas cortas y descansos largos.
+  - Personalización de Sesiones: Posibilidad de ajustar la duración de los intervalos de trabajo y descanso según la preferencia o el tipo de tarea.
+
+Mientras aplicaciones como FocusMate utilizan el método Pomodoro en un formato de coworking virtual, nuestra solución se enfoca en adaptar la técnica de manera individual, permitiendo una mayor personalización del usuario sin necesidad de interacción externa.
+
+##### Creación de Metas y Hábitos
+
+- Estrategia: Facilitar el establecimiento y seguimiento de metas y hábitos, creando una estructura que motive a los usuarios a comprometerse con sus objetivos académicos o profesionales.
+
+- Táctica:
+  - Definición de Objetivos: Herramientas para que el usuario defina metas a corto y mediano plazo, con recordatorios y seguimiento de su progreso.
+  - Plan de Hábitos: Integrar un sistema para registrar hábitos diarios (por ejemplo, lectura, ejercicio o estudio) y ver estadísticas sobre la consistencia en su ejecución.
+
+A diferencia de las aplicaciones orientadas a listas de tareas genéricas (como Todoist o Trello), nuestro enfoque consiste en una planificación que fomente la mejora personal continua, priorizando la creación de hábitos que respalden la productividad y el bienestar.
+
+##### Seguimiento del Progreso
+
+- Estrategia: Proporcionar a los usuarios una visión clara y dinámica de su progreso para mantener la motivación y poder realizar ajustes en su estrategia de trabajo.
+
+- Táctica:
+  - Dashboard de Progreso: Un panel central que muestre estadísticas de sesiones Pomodoro completadas, metas alcanzadas y evolución en la formación de hábitos.
+  - Análisis y Retroalimentación: Gráficos y reportes semanales que permitan identificar patrones, logros y áreas de mejora.
+
+Al consolidar los datos en un formato visual y de fácil comprensión, se facilita la autogestión y la toma de decisiones, generando un valor diferencial frente a aplicaciones que solo registran tareas sin ofrecer análisis profundos.
+
+##### Sistema de Recompensas Motivacionales
+
+- Estrategia: Incentivar el cumplimiento de metas y la constancia a través de un sistema de recompensas que potencie la motivación intrínseca del usuario.
+
+- Táctica:
+  - Recompensas Virtuales: Otorgar medallas, puntos o logros digitales por completar sesiones de trabajo, alcanzar metas o mantener hábitos.
+  - Gamificación Ligera: Integrar dinámicas simples de gamificación que reconozcan el esfuerzo y fomenten la competencia sana, sin sobrecargar el sistema.
+
+Al combinar técnicas de gamificación con seguimiento concreto del progreso, la aplicación logra mantener a los usuarios comprometidos, diferenciándose de herramientas enfocadas únicamente en la organización de tareas.
+
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
