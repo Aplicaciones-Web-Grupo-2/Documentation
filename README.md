@@ -17,6 +17,7 @@
 **Team Members:**
 - Vásquez Villalobos, Elverth Jair **U202213070**
 - Huaman Hinostroza, Milenio **U20211C245**
+- Inga Hernandez, Ayrton **U201924756**
 
 
 
@@ -126,6 +127,56 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1. Análisis competitivo.
+
+<table>
+   <tr>
+      <td align="center" colspan="6">Competitive Analysis Landscape</td>
+   </tr>
+   <tr>
+      <td colspan="2" rowspan="2">¿Porqué llevar a cabo este análisis?</td><td colspan="4">Este análisis nos permitirá conocer nuestra posición frente a nuestros competidores. Además, podremos identificar nuestras fortalezas y debilidades.</td>
+   </tr>
+   <tr>
+      <td colspan="4">¿Cómo podríamos resolver el problema de procrastinación en los jóvenes estudiantes y emprendedores de manera que no se desmotiven durante el intento?</td>
+   </tr>
+   <tr align="center">
+      <td colspan="2"></td><td>FOCUST</td><td>TODOIST</td><td>TRELLO</td><td>FOREST</td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil</td><td>Overview</td><td>Es una aplicación de gestión de tareas con recursos de bienestar emocional para ayudar en la productividad y el cansancio mental.</td><td>Es una aplicación de gestión de tareas y listas por hacer, que ayuda a organizar la vida personal y profesional de un usuario.</td><td>Es una herramienta colaborativa que ayuda a individuos o equipos a organizar tareas para una mayor productividad.</td><td>Es una app de productividad que te ayuda a mantenerte enfocado alejándote del celular.</td>
+   </tr>
+   <tr>
+      <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td><td>Planificación de tareas y técnicas de estudio, fomento de la motivación productiva y evaluación de mejora.</td><td>Agrupa tareas dependiendo de áreas de la vida y división de tareas principales en subtareas.</td><td>Organización de tareas flexible tanto para uso personal o profesional.</td><td>Uso de técnicas para mejorar la concentración evitar usar el celular.</td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil de Marketing</td><td>Mercado objetivo</td><td>Estudiantes universitarios y jóvenes profesionales.</td><td>Profesionales independientes, estudiantes y pequeños equipos.</td><td>Freelancers, planificadores de eventos y para uso personal.</td><td>Estudiantes y FreeLancers que quieran enfocarse sin distracciones.</td>
+   </tr>
+   <tr>
+      <td>Estrategias de marketing</td><td>Enfoque en que el producto se venda solo por su funcionalidad y anuncios por Google.</td><td>Enfoque en que el producto se venda solo por su experiencia y simplicidad, historias de usuarios y anuncios.</td><td>Enfoque en que el producto se venda solo, blog con artículos sobre productividad e integraciones con herramientas populares.</td><td>Asociación con ONGs y promueve su enfoque como acción con impacto ambiental.</td>
+   </tr>
+   <tr>
+      <td rowspan="3">Perfil de Producto</td><td>Productos & Servicios</td><td>Ofrece una plataforma que integre herramientas de enfoque y motivacionales para la continua salud mental.</td><td>Ofrece una plataforma de ayuda para aumentar la productividad por medio de tareas.</td><td>Ofrece un aumento de productividad por medio de tarjetas y colaboración en tiempo real.</td><td>Ofrece el establecimiento de un temporizador para mantenerte fuera del celular.</td>
+   </tr>
+   <tr>
+      <td>Precios & Costos</td><td>Versión gratuita con funciones principales y suscripción de bajo costo para mayores herramientas.</td><td>Gratuito hasta 5 proyectos y suscripción de bajo costo por usuario.</td><td>Ofrece versión gratuita y suscripciones de bajo costo por usuario.</td><td>Versión gratis con funciones limitadas y versión de paga única de bajo costo.</td>
+   </tr>
+   <tr>
+      <td>Canales de distribución (Web y/o Móvil)</td><td>- Plataforma web y móvil</td><td>- Plataforma web y móvil</td><td>- Plataforma web y móvil</td><td>- Plataforma web y móvil</td>
+   </tr>
+   <tr>
+      <td rowspan="4">Análisis SWOT</td><td>Fortalezas</td><td>Enfoque en la salud mental para mejorar la motivación del usuario, multiplataforma y simplicidad de interfaz.</td><td>Simplicidad de interfaz, multiplataforma y posicionado mundialmente.</td><td>Facilidad de aprendizaje, atractivo visual y altamente personalizable.</td><td>Enfoque ambiental, recompensas visuales y diseño atractivo.</td>
+   </tr>
+   <tr>
+      <td>Debilidades</td><td>Desarrollo aun en la fase inicial y poca experiencia dentro del mercado laboral.</td><td>Falta de herramientas para gestión de proyectos complejos y funciones importantes bloqueadas en la versión de prueba.</td><td>Funciones avanzadas bloqueadas por pago y propenso a ser caótico por una mala organización.</td><td>Funciones limitadas más allá del enfoque individual, no es adaptable al trabajo en equipo.</td>
+   </tr>
+   <tr>
+      <td>Oportunidades</td><td>Potencial para expandir funciones, integración de extensiones y tendencia creciente de la salud mental.</td><td>Enfocado en el público que prefiere una interfaz menos visual.</td><td>Enfocado en la colaboración de equipos y el uso de extensiones para aumentar la funcionalidad.</td><td>Integracion con herramientas de productividad y expansión a empresas o escuelas</td>
+   </tr>
+   <tr>
+      <td>Amenazas</td><td>Competencia con apps ya establecidas con otros tipos de funcionalidades, limitado desarrollo por el periodo de tiempo establecido.</td><td>Personalización limitada y falta de uso de calendarios.</td><td>EUsuarios avanzados migran a plataformas más complejas y fuerte competencia entre plataformas colaborativas.</td><td>Desmotivación por mecánica repetitiva y apps gratuitas pueden ofrecer alternativas similares.</td>
+   </tr>
+</table>
+<br/>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
