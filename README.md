@@ -184,6 +184,17 @@
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
+
+Para comprender mejor a nuestros usuarios objetivo, hemos desarrollado perfiles detallados que representan sus características, necesidades, motivaciones y frustraciones. Estos User Personas nos permiten diseñar soluciones más alineadas con sus expectativas y comportamientos reales. A continuación, presentamos a los perfiles que guiarán las decisiones de diseño y desarrollo del proyecto.
+
+##### Segmento principal: Estudiantes universitarios (18 a 25 años)
+
+![Image](https://github.com/user-attachments/assets/fa51535e-f641-487d-827e-e721bff115a9)
+
+##### Segmento secundario: Jóvenes profesionales (22 a 30 años)
+
+![Image](https://github.com/user-attachments/assets/29a3c9c7-c40a-4346-a7a1-31dd2c36a204)
+
 ### 2.3.2. User Task Matrix.
 ## 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
