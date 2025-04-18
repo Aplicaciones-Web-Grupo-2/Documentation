@@ -189,6 +189,42 @@
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
+
+El Lenguaje Ubicuo establece un vocabulario común entre desarrolladores, diseñadores de experiencia de usuario y usuarios finales, asegurando una comunicación clara y coherente durante todo el desarrollo de la plataforma. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la aplicación, la documentación y la interacción con los stakeholders.
+
+| Term | Definition |
+|------|-----------------|
+| User | Persona que lo utiliza para mejorar su productividad y bienestar emocional. Puede ser estudiante universitario o joven profesional. |
+| Focus Session | Periodo de trabajo o estudio en el que el usuario se concentra en una tarea específica usando . |
+| Emotional State | Autoevaluación que el usuario realiza sobre su estado de ánimo antes y después de una Sesión de Enfoque. |
+| Task | Actividad o compromiso que el usuario registra en   para trabajar durante una sesión. |
+| Focus Streak | Serie consecutiva de días en que el usuario completa al menos una Sesión de Enfoque. |
+| Microbreak | Pequeña pausa recomendada por la app para promover el bienestar entre sesiones largas. | 
+| Focus Space | Ambiente virtual donde el usuario personaliza su experiencia de trabajo (música, mensajes motivacionales, etc.). |
+| Daily Plan | Lista de tareas y sesiones planificadas para un día específico. |
+| Wellness Reminder | Notificación que invita al usuario a evaluar su bienestar emocional o a tomar un descanso. |
+| Productivity Report | Resumen visual de las sesiones completadas, tareas realizadas y estados emocionales registrados. |
+| Energy Level | Valor que representa cómo se siente el usuario respecto a su capacidad para trabajar (alto, medio, bajo). |
+| Focus Technique | Estrategia sugerida para mejorar la concentración (ejemplo: Técnica Pomodoro, trabajo profundo). |
+| Personal Goal | Objetivo a largo plazo que el usuario define y divide en tareas más pequeñas dentro de la app. |
+| Emotional Feedback | Reflexión corta que el usuario escribe al finalizar una sesión para registrar cómo se sintió. |
+| Gamification | Elementos de juego (logros, medallas, niveles) incorporados para motivar el uso continuo de la app. |
+| Focus Buddy | Funcionalidad que conecta a usuarios que desean compartir sesiones virtuales de trabajo de forma anónima o entre amigos. |
+| Quality Time | Métrica que combina la duración de sesiones efectivas con el bienestar emocional reportado. |
+| Offline Mode | Permite al usuario usar sin conexión a internet, sincronizando los datos luego automáticamente. |
+| Productivity Calendar | Vista semanal o mensual de las sesiones realizadas, tareas completadas y estados emocionales. |
+| Environment Personalization | Opciones para configurar temas visuales, sonidos y mensajes dentro del Espacio de Enfoque. |
+| Focus Challenges | Retos opcionales que los usuarios pueden aceptar para mejorar su hábito de concentración. |
+| Smart Notification | Alertas adaptativas basadas en el historial de uso y el estado emocional del usuario. |
+| Wellness Dashboard | Sección de la app donde se visualizan tendencias emocionales y consejos personalizados. |
+|   Community | Espacio donde los usuarios pueden compartir experiencias, consejos y logros. |
+| Guided Session | Sesión de Enfoque acompañada por instrucciones o meditaciones breves para iniciar o cerrar la actividad. |
+| User Profile | Información personal, metas, historial de productividad y configuración de preferencias. |
+| Progress Evaluation | Análisis automático de los avances del usuario en relación con sus metas personales. |
+| Obstacles Log | Función donde el usuario identifica barreras o distracciones que afectaron su sesión. |
+| Mindful State | Estado de conciencia plena que promueve antes y después de las sesiones. |
+| Emotional Recovery | Proceso guiado para que el usuario gestione emociones negativas detectadas tras sesiones difíciles. |
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
