@@ -323,6 +323,82 @@ Al combinar técnicas de gamificación con seguimiento concreto del progreso, la
 
 
 ### 2.2.2. Registro de entrevistas.
+En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: Estudiantes universitarios (18 a 25 años) y Jóvenes profesionales (22 a 30 años). El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación, enfocada en mejorar la productividad de nuestros usuarios.
+
+&nbsp;
+
+| **Entrevista 1** |
+|------------------|
+| <strong>Nombre:</strong> XXXXX |
+| <strong>Edad:</strong> XX |
+| <strong>Procedencia:</strong> XX |
+| <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
+| <strong>Resumen:</strong> XXXXXX |
+| <strong>Enlace de video:</strong> XXXX |
+| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 2** |
+|------------------|
+| <strong>Nombre:</strong> XXXXX |
+| <strong>Edad:</strong> XX |
+| <strong>Procedencia:</strong> XX |
+| <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
+| <strong>Resumen:</strong> XXXXXX |
+| <strong>Enlace de video:</strong> XXXX |
+| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 3** |
+|------------------|
+| <strong>Nombre:</strong> XXXXX |
+| <strong>Edad:</strong> XX |
+| <strong>Procedencia:</strong> XX |
+| <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
+| <strong>Resumen:</strong> XXXXXX |
+| <strong>Enlace de video:</strong> XXXX |
+| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 4** |
+|------------------|
+| <strong>Nombre:</strong> XXXXX |
+| <strong>Edad:</strong> XX |
+| <strong>Procedencia:</strong> XX |
+| <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
+| <strong>Resumen:</strong> XXXXXX |
+| <strong>Enlace de video:</strong> XXXX |
+| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 5** |
+|------------------|
+| <strong>Nombre:</strong> XXXXX |
+| <strong>Edad:</strong> XX |
+| <strong>Procedencia:</strong> XX |
+| <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
+| <strong>Resumen:</strong> XXXXXX |
+| <strong>Enlace de video:</strong> XXXX |
+| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 6** |
+|------------------|
+| <strong>Nombre:</strong> XXXXX |
+| <strong>Edad:</strong> XX |
+| <strong>Procedencia:</strong> XX |
+| <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
+| <strong>Resumen:</strong> XXXXXX |
+| <strong>Enlace de video:</strong> XXXX |
+| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+
+&nbsp;
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
