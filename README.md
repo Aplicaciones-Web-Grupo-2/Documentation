@@ -129,10 +129,10 @@ Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada
 
 ---
 
-#### **XXXXX – Ingeniería de Software – XXXXX**  
-<img src="XXXX" alt="XXX" height="200"/>
+#### **Ayrton Damian Inga Hernandez – Ingeniería de Software – U201924756  **  
+<img src="https://private-user-images.githubusercontent.com/93557644/435319039-7072f7df-88f3-4be0-9a69-262391344bf5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwMTQ0NjQsIm5iZiI6MTc0NTAxNDE2NCwicGF0aCI6Ii85MzU1NzY0NC80MzUzMTkwMzktNzA3MmY3ZGYtODhmMy00YmUwLTlhNjktMjYyMzkxMzQ0YmY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE4VDIyMDkyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmMTMwYTFlMTI1MTA4NjQ4MDY3NjBmMWJhMWQxOWYxYTkxOGZlZDg1NWM0ZGUyZjJlYmMxNzg0NmRhOWE3YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7Jnz9WwWi4JMiciGKZeRsV2b70gK7UeFVSNh09UX7Wc" alt="Ayrton Inga" height="200"/>
 
-XXXXXX
+Soy estudiante de Ingenieria de Software en la UPC. Me caracterizo por dar todo lo posible tanto en los trabajos como en la vida personal, cuento con conocimientos impartidos anteriormente que me ayudarán a desarrollar este nuevo projecto de forma correcta y a llevar un buen trabajo en equipo.
 
 
 ---
@@ -377,13 +377,13 @@ En esta sección se documenta la recolección de información a través de entre
 
 | **Entrevista 5** |
 |------------------|
-| <strong>Nombre:</strong> XXXXX |
-| <strong>Edad:</strong> XX |
-| <strong>Procedencia:</strong> XX |
+| <strong>Nombre:</strong> Antonella Silva Hernandez |
+| <strong>Edad:</strong> 27 |
+| <strong>Procedencia:</strong> Lima, Lima Metropolitana, SJL |
 | <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
-| <strong>Resumen:</strong> XXXXXX |
+| <strong>Resumen:</strong> La entrevistada, Antonella Silva, destaca su dificultad para mantener actividades en su vida privada debido a su rol como administradora y la alta carga de tareas que conlleva ese tipo de trabajo impidiendole realizar sus ejercicios para reducir estres. Nos comenta que la forma en la que trata de gestionar su productividad para tener mas tiempo privado es por medio de la creacion de horarios ya sea por excel o en una hoja fisica, pero continua buscando mas formas de lidiar con la falta de tiempo. Ademas nos menciona que, con respecto al uso de aplicaciones, es necesario que tenga una version movil y estaria dispuesta a pagar con tal de encontrar una aplicacion que sea dinamica y que principalmente le ayude en verdad a mejorar su productividad.|
 | <strong>Enlace de video:</strong> XXXX |
-| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+| <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/ad965a4b-ed03-4df1-ae51-6b87abe807f2" alt="Antonella Silva" height="200"/> |
 
 &nbsp;
 
