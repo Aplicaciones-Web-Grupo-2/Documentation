@@ -17,7 +17,9 @@
 **Team Members:**
 - Vásquez Villalobos, Elverth Jair **U202213070**
 - Huaman Hinostroza, Milenio **U20211C245**
+- Asmad Padilla, Fatima **U20221B490**
 - Inga Hernandez, Ayrton **U201924756**
+
 
 
 
@@ -116,6 +118,54 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
+
+---
+
+#### **Fatima Andrea Asmad Padilla – Ingeniería de Software – U20221B490**  
+<img src="https://github.com/user-attachments/assets/e5bb3149-5856-49e3-aa0b-297cedcfe94c" alt="Fatima Asmad" height="200"/>
+
+Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada tarea que realizo, buscando siempre dar lo mejor de mí en cualquier proyecto o actividad asignada. Actualmente curso el sexto ciclo de la carrera de Ingeniería de Software, lo cual me ha permitido adquirir una base sólida en distintas áreas del desarrollo tecnológico.
+
+
+---
+
+#### **XXXXX – Ingeniería de Software – XXXXX**  
+<img src="XXXX" alt="XXX" height="200"/>
+
+XXXXXX
+
+
+---
+
+#### **XXXXX – Ingeniería de Software – XXXXX**  
+<img src="XXXX" alt="XXX" height="200"/>
+
+XXXXXX
+
+---
+
+#### **XXXXX – Ingeniería de Software – XXXXX**  
+<img src="XXXX" alt="XXX" height="200"/>
+
+XXXXXX
+
+
+---
+
+#### **XXXXX – Ingeniería de Software – XXXXX**  
+<img src="XXXX" alt="XXX" height="200"/>
+
+XXXXXX
+
+---
+
+#### **XXXXX – Ingeniería de Software – XXXXX**  
+<img src="XXXX" alt="XXX" height="200"/>
+
+XXXXXX
+
+
+---
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
