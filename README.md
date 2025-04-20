@@ -19,7 +19,7 @@
 - Huaman Hinostroza, Milenio **U20211C245**
 - Asmad Padilla, Fatima **U20221B490**
 - Inga Hernandez, Ayrton **U201924756**
-
+- Ramirez Tello, Sebastian **U202316122**
 
 
 
@@ -389,15 +389,14 @@ En esta sección se documenta la recolección de información a través de entre
 
 | **Entrevista 6** |
 |------------------|
-| <strong>Nombre:</strong> XXXXX |
-| <strong>Edad:</strong> XX |
-| <strong>Procedencia:</strong> XX |
+| <strong>Nombre:</strong> Mario Pinedo del Río |
+| <strong>Edad:</strong> 22 |
+| <strong>Procedencia:</strong> Lima, Lima Metropolitana, San Miguel |
 | <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
-| <strong>Resumen:</strong> XXXXXX |
-| <strong>Enlace de video:</strong> XXXX |
-| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+| <strong>Resumen:</strong> El entrevistado, Mario Pinedo, es un desarrollador web que trabaja de forma híbrida. Suele procrastinar tareas repetitivas o que requieren mucha concentración, especialmente cuando se siente abrumado o distraído. Ha usado herramientas como Pomodoro y Todoist, pero le cuesta ser constante por lo tedioso de configurarlas. Le interesaría una app sencilla que combine tareas, bienestar emocional y recompensas simbólicas como logros o niveles. También valora mensajes motivacionales, retroalimentación rápida y funciones que lo ayuden a dar el primer paso al comenzar sus tareas. |
+| <strong>Enlace de video:</strong> ![Dar clic aquí](https://youtu.be/rHTrGCGv6i0) |
+| <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/9dd3c22f-e2e0-47f1-8625-1549520e05a9" alt="Mario Pinedo del Río" height="200"/> |
 
-&nbsp;
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
