@@ -137,10 +137,10 @@ Soy estudiante de Ingenieria de Software en la UPC. Me caracterizo por dar todo 
 
 ---
 
-#### **XXXXX – Ingeniería de Software – XXXXX**  
-<img src="XXXX" alt="XXX" height="200"/>
+#### **Elverth Jair Vasquez Villalobos – Ingeniería de Software – U202213070**  
+<img src="./assets/foto_Elverth.jpg" alt="Elverth Vasquez" height="200"/>
 
-XXXXXX
+Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde hasta encontrar una solución. Considero que tengo una buena capacidad de análisis al momento de realizar algoritmos necesarios para el funcionamiento de algunos requerimientos en el software. Así mismo, me gusta siempre estar en comunicación con mi equipo de trabajo de una manera asertiva. Me apasiona el mundo de la tecnología y el emprendimiento, por ello trato de aportar al desarrollo del startup con mis habilidades en programación e investigación.
 
 ---
 
@@ -365,13 +365,13 @@ En esta sección se documenta la recolección de información a través de entre
 
 | **Entrevista 4** |
 |------------------|
-| <strong>Nombre:</strong> XXXXX |
-| <strong>Edad:</strong> XX |
-| <strong>Procedencia:</strong> XX |
+| <strong>Nombre:</strong> Iván Jesús Lavado Vallejos |
+| <strong>Edad:</strong> 20 |
+| <strong>Procedencia:</strong> Chiclayo, Lambayeque |
 | <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
-| <strong>Resumen:</strong> XXXXXX |
+| <strong>Resumen:</strong> Iván Lavado Vallejos es un joven de 20 años que estudia Ingeniería Civil y realiza prácticas en el consorcio JJ en Chiclayo, organiza sus actividades con agendas digitales en su laptop y celular. Aunque él reconoce que la procrastinación, especialmente en las mañanas, y las distracciones como el celular dificultan su enfoque, intenta combatirlas apagando el dispositivo durante tareas importantes. Usa métodos como escuchar música y meditar para manejar el estrés. Su motivación diaria es convertirse en un profesional exitoso. Está interesado en aplicaciones de productividad que ofrezcan estadísticas, retroalimentación y recompensas, y estaría dispuesto a pagar si estas funciones lo ayudan a mejorar. Usa principalmente laptop y celular con Windows e iOS. Iván no conoce muchas marcas de apps de productividad pero está dispuesto a explorar soluciones tecnológicas que lo ayuden a ser más eficiente. |
 | <strong>Enlace de video:</strong> XXXX |
-| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/entrevista_Ivan.png" alt="Entrevista Ivan" height="200"/> |
 
 &nbsp;
 
