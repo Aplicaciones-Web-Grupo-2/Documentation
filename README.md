@@ -394,7 +394,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima, Lima Metropolitana, San Miguel |
 | <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
 | <strong>Resumen:</strong> El entrevistado, Mario Pinedo, es un desarrollador web que trabaja de forma híbrida. Suele procrastinar tareas repetitivas o que requieren mucha concentración, especialmente cuando se siente abrumado o distraído. Ha usado herramientas como Pomodoro y Todoist, pero le cuesta ser constante por lo tedioso de configurarlas. Le interesaría una app sencilla que combine tareas, bienestar emocional y recompensas simbólicas como logros o niveles. También valora mensajes motivacionales, retroalimentación rápida y funciones que lo ayuden a dar el primer paso al comenzar sus tareas. |
-| <strong>Enlace de video:</strong> ![Dar clic aquí](https://youtu.be/rHTrGCGv6i0) |
+| <strong>Enlace de video:</strong> [Dar clic aquí](https://youtu.be/rHTrGCGv6i0) |
 | <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/9dd3c22f-e2e0-47f1-8625-1549520e05a9" alt="Mario Pinedo del Río" height="200"/> |
 
 
@@ -475,8 +475,92 @@ El Lenguaje Ubicuo establece un vocabulario común entre desarrolladores, diseñ
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
+
+Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevistas realizadas a los segmentos de clientes, enfocándose en sus necesidades para mejorar la gestión del tiempo, reducir la procrastinación y fortalecer el bienestar emocional. Cada historia refleja los desafíos identificados y las soluciones o funcionalidades que la app debe ofrecer para ayudar a estudiantes universitarios y jóvenes profesionales a mantenerse enfocados, motivados y organizados en su vida diaria.
+
+
+| HU-ID | HU-01 |
+|-------|-------|
+| **Epic ID** | 1 |
+| **Título** | Organización y gestión de tareas personales y laborales |
+| **Descripción** | Como joven profesional, quiero organizar mis tareas en una sola aplicación fácil de usar, para tener un mejor control de mis actividades y evitar postergar responsabilidades. |
+| **Criterios de aceptación** | - La aplicación debe permitir registrar tareas con fechas y categorías.<br> - Debe incluir recordatorios configurables para cada tarea.<br> - El diseño debe ser intuitivo y amigable para nuevos usuarios. |
+
+
+| HU-ID | HU-02 |
+|-------|-------|
+| **Epic ID** | 2 |
+| **Título** | Bienestar emocional a través de frases motivacionales |
+| **Descripción** | Como usuario que se frustra fácilmente, quiero recibir frases motivacionales mientras uso la app, para sentirme más animado y mantenerme constante en mis tareas. |
+| **Criterios de aceptación** | - La app debe mostrar frases motivadoras al completar tareas o iniciar el día.<br> - Las frases deben ser personalizadas según el estado de ánimo del usuario.<br> - Debe haber una opción para guardar frases favoritas. |
+
+| HU-ID | HU-03 |
+|-------|-------|
+| **Epic ID** | 2 |
+| **Título** | Recompensas simbólicas por progreso |
+| **Descripción** | Como usuario que se aburre fácilmente, quiero recibir logros o niveles cada vez que cumplo mis metas, para sentir que estoy avanzando y mantenerme motivado. |
+| **Criterios de aceptación** | - La app debe otorgar logros al completar tareas o metas semanales.<br> - Debe mostrar el progreso mediante barras o niveles.<br> - Debe permitir al usuario revisar su historial de logros. |
+
+| HU-ID | HU-04 |
+|-------|-------|
+| **Epic ID** | 2 |
+| **Título** | Registro y monitoreo del estado emocional |
+| **Descripción** | Como usuario, quiero registrar cómo me siento antes y después de trabajar, para identificar cómo mis emociones afectan mi productividad y bienestar. |
+| **Criterios de aceptación** | - La app debe permitir seleccionar o escribir el estado emocional.<br> - Debe generar reportes simples que muestren cambios en el ánimo.<br> - El sistema debe sugerir descansos o frases de ánimo si detecta estados negativos frecuentes. |
+
+| HU-ID | HU-05 |
+|-------|-------|
+| **Epic ID** | 3 |
+| **Título** | Personalización del entorno de trabajo digital |
+| **Descripción** | Como usuario visual, quiero personalizar sonidos, colores y fondos en la app, para hacer más agradable y motivadora mi experiencia de trabajo. |
+| **Criterios de aceptación** | - La app debe permitir elegir entre varios temas visuales y sonidos.<br> - La personalización no debe afectar la funcionalidad ni distraer al usuario.<br> - Debe ser posible guardar y cambiar fácilmente entre configuraciones. |
+
+| HU-ID | HU-06 |
+|-------|-------|
+| **Epic ID** | 3 |
+| **Título** | Comunidad y progreso compartido |
+| **Descripción** | Como usuario, quiero ver el progreso de otras personas o compartir el mío, para sentirme acompañado y motivado por una comunidad. |
+| **Criterios de aceptación** | - La app debe permitir mostrar estadísticas generales de la comunidad.<br> - Debe ofrecer la opción de crear grupos o retos con amigos.<br> - El usuario debe tener control sobre qué información comparte. |
+
+| HU-ID | HU-07 |
+|-------|-------|
+| **Epic ID** | 1 |
+| **Título** | Compatibilidad entre tareas personales y profesionales |
+| **Descripción** | Como usuario con múltiples roles, quiero separar mis tareas por áreas (trabajo, estudios, vida personal), para organizarme mejor y no mezclar prioridades. |
+| **Criterios de aceptación** | - La app debe permitir crear categorías personalizadas de tareas.<br> - Debe ser posible filtrar y ver solo las tareas de una categoría.<br> - Debe haber indicadores visuales para diferenciar cada área. |
+
+| HU-ID | HU-08 |
+|-------|-------|
+| **Epic ID** | 4 |
+| **Título** | Asistente virtual de motivación y seguimiento |
+| **Descripción** | Como usuario que trabaja solo, quiero contar con un asistente o bot que me motive y me recuerde mis avances, para sentirme acompañado y seguir adelante. |
+| **Criterios de aceptación** | - La app debe tener un asistente con mensajes programados de aliento.<br> - El bot debe recordar tareas pendientes o sugerir descansos.<br> - Debe adaptarse al progreso del usuario para no ser invasivo. |
+
+| HU-ID | HU-09 |
+|-------|-------|
+| **Epic ID** | 1 |
+| **Título** | Inicio rápido de tareas para evitar postergación |
+| **Descripción** | Como usuario que se paraliza al empezar, quiero una función que me ayude a iniciar mis tareas con un solo clic, para dejar de pensarlo tanto y comenzar de inmediato. |
+| **Criterios de aceptación** | - La app debe tener un botón de “comenzar ahora” visible en la interfaz.<br> - Al hacer clic, debe iniciar una sesión corta de enfoque (por ejemplo, 5 min).<br> - Puede mostrar una frase motivacional o sonora al inicio para animar al usuario. |
+
+
+
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
+
+| Orden | HU-ID  | Título                                                                 | Descripción                                                                                                                                                               | Story Points |
+|-------|--------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | HU-03  | Seguimiento visual del progreso                                        | Como usuario, quiero ver mi progreso en forma de barras o gráficos para sentir que avanzo y mantenerme motivado.                                                         | 8            |
+| 2     | HU-06  | Recompensas simbólicas y niveles                                       | Como usuario, quiero recibir recompensas o subir de nivel al completar tareas para que mi experiencia sea más divertida y satisfactoria.                                | 8            |
+| 3     | HU-09  | Compatibilidad multiplataforma                                         | Como usuario, quiero poder usar la aplicación tanto en el navegador como en dispositivos móviles para tener acceso en todo momento.                                     | 5            |
+| 4     | HU-01  | Registro rápido de tareas                                              | Como usuario, quiero poder registrar mis tareas de forma rápida y sencilla para no perder tiempo y enfocarme en hacerlas.                                               | 5            |
+| 5     | HU-05  | Recordatorios motivacionales personalizados                            | Como usuario, quiero recibir mensajes motivacionales personalizados que me ayuden a mantenerme enfocado y animado durante el día.                                       | 5            |
+| 6     | HU-08  | Sección de bienestar emocional                                         | Como usuario, quiero acceder a una sección dedicada al manejo emocional para mejorar mi estado de ánimo y productividad.                                                | 5            |
+| 7     | HU-10  | Consejos iniciales para evitar la procrastinación                      | Como usuario, quiero recibir sugerencias o tips cuando no sé por dónde empezar para poder iniciar con una tarea sin bloquearme.                                         | 5            |
+| 8     | HU-07  | Bot de acompañamiento                                                  | Como usuario, quiero interactuar con un bot que me acompañe y anime para no sentirme solo al trabajar.                                                                  | 3            |
+| 9    | HU-02  | Integración de tareas y hábitos                                        | Como usuario, quiero organizar tanto mis tareas como mis hábitos en un solo lugar para tener un mayor control de mis actividades diarias.                               | 3            |
+
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
