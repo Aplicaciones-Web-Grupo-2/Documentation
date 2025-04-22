@@ -329,13 +329,13 @@ En esta sección se documenta la recolección de información a través de entre
 
 | **Entrevista 1** |
 |------------------|
-| <strong>Nombre:</strong> XXXXX |
-| <strong>Edad:</strong> XX |
-| <strong>Procedencia:</strong> XX |
+| <strong>Nombre:</strong> Fabián Alonso Reyes Trujillano |
+| <strong>Edad:</strong> 20 años |
+| <strong>Procedencia:</strong> San Martin de Porres |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
-| <strong>Resumen:</strong> XXXXXX |
+| <strong>Resumen:</strong> Fabián es un joven de 20 años que estudia Ingeniería de Software en la UPC y vive en San Martín de Porres. Realiza sus actividades principalmente en su laptop, y utiliza su celular cuando está fuera de casa. Aunque tiende a procrastinar debido a la distracción, trata de ser responsable y está trabajando en mejorar ese hábito. Se organiza usando Notion y a veces anota en un cuaderno físico. Fabián reconoce que tener muchas tareas pendientes lo hace sentir ansioso, pero las fechas límite lo motivan a actuar. Está interesado en apps de productividad que permitan ver el progreso mediante dashboards, ofrezcan recompensas simbólicas y notificaciones. Considera importante que una app se sincronice con sus dispositivos y lo ayude a mantenerse organizado. Estaría dispuesto a pagar por una aplicación si demuestra ser realmente útil. Usa principalmente navegadores como Chrome y ha probado otros como Brave y Opera. |
 | <strong>Enlace de video:</strong> XXXX |
-| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+| <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/f61b8bef-edc2-43a1-b498-66c8299d3fb7" alt="Entrevista1" height="200"/> |
 
 &nbsp;
 
