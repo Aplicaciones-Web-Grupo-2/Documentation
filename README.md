@@ -10,7 +10,8 @@
 
 **Nombre del Startup**
 
-**Docente:** COLOCAR NOMBRE
+**Docente:**  
+   - Oscar Ivan Villafuerte Bazan
 
 **Grupo 2**
 
@@ -20,9 +21,6 @@
 - Asmad Padilla, Fatima **U20221B490**
 - Inga Hernandez, Ayrton **U201924756**
 - Ramirez Tello, Sebastian **U202316122**
-
-
-
 
 
 
@@ -117,6 +115,13 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+**FOCUST** es una startup que surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación y el equilibrio emocional durante todo el proceso.
+
+FOCUST ofrece una aplicación web que integra múltiples funcionalidades: gestión de metas de hábito y del día, técnicas de estudio como el método Pomodoro, herramientas de meditación con sonidos relajantes o integración con Spotify, y un sistema de recompensas basado en niveles y puntos. Además, proporciona frases motivacionales, notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio, meditación y hábitos.
+
+La visión de FOCUST no es simplemente que los usuarios sean más productivos, sino que también se sientan mejor consigo mismos, aprendan a gestionar su energía mental y conviertan el avance en sus metas en un proceso gratificante y sostenible. Creemos que la verdadera productividad surge de la conexión entre el propósito personal y la acción diaria.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ---
@@ -144,11 +149,11 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 
 ---
 
-#### **XXXXX – Ingeniería de Software – XXXXX**  
-<img src="XXXX" alt="XXX" height="200"/>
+#### **Milenio Huaman Hinostroza – Ingeniería de Software – U20211c245**  
+<img src="https://github.com/Milenioupc/SOBREMI/blob/3666ba585878dfe5d565f57f50b131990712d330/image.png" alt="Milenio Huaman" height="200"/>
+Soy estudiante de Ingeniería de Software con enfoque en el desarrollo de aplicaciones web y soluciones digitales. Manejo tecnologías como HTML5, CSS3, JavaScript, Vue.js para el frontend, y C# con ASP.NET Core para el backend, permitiéndome contribuir de forma integral al proyecto.
 
-XXXXXX
-
+Dentro del equipo FOCUST, aporto en la planificación de funcionalidades, el diseño de arquitecturas eficientes, la implementación de módulos clave como el sistema de recompensas, así como en la organización de tareas y gestión de versiones en GitHub. Mi interés principal es crear soluciones tecnológicas que impacten positivamente en el bienestar y la eficiencia de las personas, siguiendo metodologías ágiles de desarrollo como Lean UX y Scrum.
 
 ---
 
@@ -167,13 +172,163 @@ XXXXXX
 
 ---
 ## 1.2. Solution Profile
-## 1.2.1 Antecedentes y problemática
+### 1.2.1. Antecedentes y Problemática
+
+##### Enunciado del problema
+
+La procrastinación académica es un fenómeno ampliamente documentado en la literatura científica, caracterizado por la postergación voluntaria de actividades académicas a pesar de conocer las consecuencias negativas que esto conlleva. En el contexto universitario peruano, estudios recientes han evidenciado que un porcentaje significativo de estudiantes presenta altos niveles de procrastinación, asociados a factores como la ansiedad, la baja motivación y la falta de estrategias de autorregulación ([Steel, 2007]; [Picho & Salaman, 2020]).
+
+La procrastinación impacta negativamente en el rendimiento académico y el bienestar emocional de los estudiantes, manifestándose principalmente en la postergación de tareas hasta el último momento. A pesar de la disponibilidad de herramientas digitales de gestión de tiempo, muchas de ellas carecen de componentes motivacionales o de apoyo emocional, lo que contribuye a su abandono temprano.
+
+---
+
+#### Aplicación de la técnica 5W2H
+
+- **Who (¿Quiénes son los afectados?)**  
+  Estudiantes universitarios y jóvenes profesionales que enfrentan desafíos para gestionar eficazmente su tiempo y cumplir con sus responsabilidades académicas o laborales.
+
+- **What (¿Qué sucede?)**  
+  Tienden a posponer tareas importantes, lo que conduce a bajo rendimiento académico y altos niveles de estrés y ansiedad.
+
+- **Where (¿Dónde ocurre?)**  
+  Principalmente en entornos educativos y laborales que requieren autodisciplina y autogestión del tiempo.
+
+- **When (¿Cuándo ocurre?)**  
+  Durante períodos de alta carga académica o laboral, especialmente ante tareas percibidas como difíciles, extensas o poco atractivas.
+
+- **Why (¿Por qué ocurre?)**  
+  Debido a factores como ansiedad ante evaluaciones, falta de motivación, deficiencias en estrategias de autorregulación y perfeccionismo ([Amelica; ResearchGate]).
+
+- **How (¿Cómo se manifiesta?)**  
+  A través de la acumulación de pendientes, la postergación constante y sentimientos de culpa o frustración al no cumplir con las obligaciones.
+
+- **How Much (¿Qué tan grave es el impacto?)**  
+  Se estima que entre el 80% y el 95% de los estudiantes universitarios procrastinan, y aproximadamente el 50% lo hace de manera crónica ([Steel, 2007]; [Revista Científica de Sevilla, 2023]; [Repositorio Continental, 2020]).
+
+---
+
+#### Puntos clave que debe resolver la solución
+
+- Proporcionar herramientas que permitan establecer y cumplir metas personales y académicas de manera estructurada.
+- Incorporar técnicas de gestión del tiempo, como el método Pomodoro, para mejorar concentración y eficiencia.
+- Ofrecer recursos de meditación y relajación que ayuden a disminuir los niveles de estrés y ansiedad.
+- Implementar un sistema de recompensas y niveles para motivar al usuario a mantener hábitos productivos.
+
+---
+
+#### Objetivos del proyecto
+
+- Desarrollar una aplicación web que ayude a combatir la procrastinación mediante la planificación de tareas, métodos de estudio efectivos y recursos de bienestar emocional.
+- Fomentar la autorregulación emocional y la motivación intrínseca en los usuarios para mejorar su rendimiento académico y profesional.
+- Evaluar la efectividad de la aplicación en la reducción de la procrastinación y en el incremento del bienestar general de los usuarios.
+
+---
+
+#### Restricciones del proyecto
+
+- La aplicación debe ser accesible y funcional en múltiples dispositivos y plataformas (responsive design).
+- Se debe proteger estrictamente la privacidad y los datos personales de los usuarios, cumpliendo con normativas vigentes.
+- El desarrollo debe realizarse en un tiempo limitado y priorizando las funcionalidades críticas para la validación inicial.
+
+---
 ### 1.2.2 Lean UX Process.
+
+Esta sección desarrolla la visión del modelo de negocio que soporta nuestra solución, basado en el enfoque Lean UX. Se identifican los segmentos de clientes, sus principales necesidades (pain points), los vacíos actuales (gaps), la estrategia de valor, y el segmento inicial al que se enfocará la primera versión del producto. Además, se detallan los supuestos (assumptions) e hipótesis de diseño (hypothesis statements) que guiarán la validación del producto.
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+| Elemento | Detalle |
+|:--------:|:-------:|
+| **Domain** | Productividad personal, gestión de metas académicas y reducción de la procrastinación en estudiantes y jóvenes profesionales. |
+| **Customer Segments** | - Estudiantes universitarios entre 18 y 25 años.<br>- Jóvenes profesionales de 22 a 30 años que trabajan en modalidad remota o freelance. |
+| **Pain Points** | - Procrastinación crónica incluso cuando existen metas claras.<br>- Sensación de frustración, ansiedad y culpa por postergar tareas.<br>- Abandono de apps de organización por falta de motivación emocional. |
+| **Gap** | Las herramientas actuales de productividad se enfocan únicamente en la gestión de tareas, pero no abordan la motivación personal ni el bienestar emocional, factores clave para la constancia. |
+| **Vision/Strategy** | Crear una app web que combine planificación de tareas, técnicas de estudio efectivas, acompañamiento motivacional y recursos de bienestar emocional para fomentar hábitos sostenibles. |
+| **Initial Segment** | Estudiantes universitarios de 18 a 25 años que ya han utilizado apps como Notion, Google Keep o Trello, pero las han abandonado por falta de conexión emocional o motivación intrínseca. |
+
 #### 1.2.2.2. Lean UX Assumptions
+
+- Asumimos que los estudiantes universitarios y jóvenes profesionales son conscientes de que procrastinan y buscan formas de mejorar su productividad personal.
+- Asumimos que la falta de motivación emocional es una de las principales razones por las cuales abandonan apps de productividad convencionales.
+- Asumimos que integrar técnicas de enfoque como el método Pomodoro y herramientas de bienestar como la meditación aumentará la constancia de uso de la app.
+- Asumimos que un sistema de recompensas basado en logros y niveles mantendrá a los usuarios más motivados a largo plazo.
+- Asumimos que mostrar estadísticas de progreso visual reforzará el sentido de avance y pertenencia, reduciendo la sensación de estancamiento.
+- Asumimos que los usuarios prefieren experiencias simples, visuales y emocionalmente positivas, antes que sistemas rígidos y únicamente técnicos.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. **Creemos que** permitir a los usuarios establecer metas personales conectadas a un propósito emocional **ayudará a mantener su constancia en el cumplimiento diario**,  
+   **y sabremos que estamos en lo correcto** cuando al menos el 70% de los usuarios registren actividades por 7 días consecutivos.
+
+2. **Creemos que** ofrecer frases motivacionales y micro-recompensas en momentos críticos **disminuirá los eventos de procrastinación**,  
+   **y sabremos que estamos en lo correcto** cuando la tasa de "snoozes" sin acción posterior se reduzca en un 30%.
+
+3. **Creemos que** mostrar un dashboard de progreso visual **mejorará el nivel de satisfacción de los usuarios con respecto a su avance personal**,  
+   **y sabremos que estamos en lo correcto** cuando el 60% de los usuarios consulte su dashboard al menos 3 veces por semana.
+
+4. **Creemos que** integrar sesiones de meditación breve como herramienta de pausa activa **reducirá los niveles de estrés asociados al estudio o trabajo**,  
+   **y sabremos que estamos en lo correcto** mediante encuestas donde al menos el 50% de usuarios reporten menor sensación de ansiedad después de 2 semanas de uso.
+
+5. **Creemos que** gamificar el avance mediante niveles y recompensas simbólicas **incrementará la retención semanal de usuarios**,  
+   **y sabremos que estamos en lo correcto** si superamos una retención semanal del 50% en el primer mes posterior al lanzamiento de la versión beta.
+
 #### 1.2.2.4. Lean UX Canvas
-## 1.3. Segmentos objetivo.
+
+[Tablero de Miro - Lean UX Canvas](https://miro.com/app/board/uXjVI_NGxCU=/?share_link_id=304749331451)
+
+| **N°** | **Elemento**                         | **Descripción** |
+|:------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | **Business Problem** (Problema de negocio) | La procrastinación académica y profesional afecta gravemente el rendimiento y bienestar emocional de estudiantes y jóvenes profesionales. Actualmente, existe una falta de herramientas digitales que aborden esta problemática combinando organización de metas, motivación emocional y bienestar personal, lo que mantiene altos los niveles de procrastinación. |
+| 5      | **Solution Ideas** (Ideas de solución) | - Creación de metas de hábito y metas diarias.<br>- Método Pomodoro y Flashcards.<br>- Meditación y relajación.<br>- Dashboard de progreso.<br>- Recompensas y frases motivacionales. |
+| 2      | **Business Outcomes** (Resultados de negocio) | - Aumentar la retención semanal de usuarios.<br>- Mejorar la tasa de cumplimiento de metas.<br>- Obtener datos de uso para iteraciones futuras. |
+| 3      | **Users and Customers** (Usuarios y clientes) | - Estudiantes universitarios (18 a 25 años).<br>- Jóvenes profesionales (22 a 30 años), trabajadores remotos o freelancers. |
+| 4      | **User Benefits** (Beneficios del usuario) | - Reducción de la procrastinación.<br>- Mayor sensación de logro.<br>- Desarrollo de hábitos positivos.<br>- Reducción del estrés y la ansiedad. |
+| 6      | **Hypotheses** (Hipótesis) | Creemos que integrar organización personal, motivación emocional y bienestar ayudará a reducir la procrastinación y mejorar la constancia. |
+| 7      | **What’s the most important thing we need to learn first?** (¿Qué necesitamos aprender primero?) | Saber cuál es el principal factor emocional que lleva a los usuarios a abandonar apps de productividad tradicionales. |
+| 8      | **What’s the least amount of work we need to do to learn the next most important thing?** (¿Cuál es el menor trabajo para validar?) | Lanzar un prototipo funcional que permita establecer metas, registrar avances y recibir frases motivacionales, testeándolo con 5 usuarios reales durante una semana. |
+
+---
+## 1.3. Segmentos Objetivo
+
+Esta sección describe los segmentos de usuarios asociados al dominio del problema de la procrastinación académica y profesional, incluyendo sus características demográficas principales y sustentándolos con información estadística.
+
+---
+
+###  Segmento principal: Estudiantes universitarios (16 a 25 años)
+
+**Descripción:**  
+Estudiantes de pregrado que, debido a la carga académica, la presión de plazos y la exposición constante a distracciones digitales, tienden a postergar actividades académicas importantes. Este segmento experimenta altos niveles de procrastinación, afectando su desempeño académico y bienestar emocional.
+
+**Características demográficas:**
+- Edad: 16 a 25 años.
+- Nivel educativo: Estudios universitarios en curso.
+- Ocupación: Estudiantes a tiempo completo o parcial.
+- Ubicación: Principalmente en zonas urbanas con acceso a internet y dispositivos digitales.
+- Dispositivos principales: Smartphone y laptop.
+- Competencia digital: Alta (uso de plataformas de gestión académica, apps de productividad, redes sociales).
+
+**Información estadística de respaldo:**
+- Entre el 80% y el 95% de los estudiantes universitarios procrastinan, y aproximadamente el 50% lo hace de manera crónica ([Steel, 2007]).
+- Un estudio peruano de la Universidad Continental (Picho & Salaman, 2020) concluye que la procrastinación académica es un fenómeno altamente prevalente, asociado con bajos niveles de autorregulación emocional y mayores niveles de ansiedad.
+
+---
+
+### Segmento secundario: Jóvenes profesionales (22 a 30 años)
+
+**Descripción:**  
+Jóvenes egresados que inician su vida laboral en entornos flexibles o remotos. Debido a la falta de supervisión directa y la necesidad de autogestionar su tiempo, experimentan dificultades similares en la organización de sus actividades, lo que genera procrastinación y disminución en su productividad personal y profesional.
+
+**Características demográficas:**
+- Edad: 22 a 30 años.
+- Nivel educativo: Egresados técnicos o universitarios.
+- Ocupación: Freelancers, trabajadores remotos o profesionales en sus primeros años de carrera.
+- Ubicación: Zonas urbanas y zonas conectadas digitalmente.
+- Dispositivos principales: Laptop y smartphone.
+- Competencia digital: Muy alta (uso de herramientas colaborativas, plataformas de trabajo remoto, apps de gestión de proyectos).
+
+**Información estadística de respaldo:**
+- Estudios recientes revelan que la procrastinación no desaparece tras el egreso universitario: cerca del 50% de jóvenes profesionales sigue procrastinando tareas importantes, impactando su desempeño laboral y su bienestar emocional ([Revista Científica Fuentes, 2023]; [Repositorio Continental, 2020]).
+---
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1. Análisis competitivo.
