@@ -157,10 +157,10 @@ Dentro del equipo FOCUST, aporto en la planificación de funcionalidades, el dis
 
 ---
 
-#### **XXXXX – Ingeniería de Software – XXXXX**  
-<img src="XXXX" alt="XXX" height="200"/>
+#### **Sebastian Ramirez Tello – Ingeniería de Software – U202316122**  
+<img src="xxx" alt="XXX" height="200"/>
 
-XXXXXX
+Me llamo Sebastián Ramírez, y estoy cursando el 5to ciclo de Ingeniería de Software. Me considero una persona que se destaca en el trabajo en equipo. Me adapto rápidamente a nuevas situaciones y aprendo con facilidad, lo que me permite enfrentar desafíos con confianza. Valoro mucho el respeto y la cooperación en un entorno de equipo, y siempre busco contribuir a un ambiente positivo.
 
 ---
 
@@ -633,70 +633,74 @@ El Lenguaje Ubicuo establece un vocabulario común entre desarrolladores, diseñ
 
 Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevistas realizadas a los segmentos de clientes, enfocándose en sus necesidades para mejorar la gestión del tiempo, reducir la procrastinación y fortalecer el bienestar emocional. Cada historia refleja los desafíos identificados y las soluciones o funcionalidades que la app debe ofrecer para ayudar a estudiantes universitarios y jóvenes profesionales a mantenerse enfocados, motivados y organizados en su vida diaria.
 
+| Epic / Story ID | Título                                | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|------------------|----------------------------------------|-------------|--------------------------|----------------------------|
+| US-01 | Iniciar Sesión | Como usuario, quiero iniciar sesión para acceder a mis sesiones y progreso. | - Given el usuario está registrado, when ingresa sus credenciales correctamente, then accede a su cuenta.<br>- Given el usuario ingresa mal las credenciales, then se muestra un mensaje de error. | EP-01 |
+| US-02 | Registro de Usuario | Como visitante, quiero poder registrarme para comenzar a usar la aplicación. | - Given el visitante accede al registro, when completa los datos válidamente, then se crea su cuenta.<br>- Given los datos son inválidos, then se muestra un mensaje indicando el error. | EP-01 |
+| US-03 | Comenzar sesión de enfoque | Como usuario, quiero iniciar una sesión Pomodoro para concentrarme mejor. | - Given el usuario tiene tareas pendientes, when inicia una sesión, then se activa el temporizador.<br>- Given finaliza la sesión, then se registra en su progreso. | EP-02 |
+| US-04 | Recibir frases motivacionales | Como usuario, quiero recibir frases motivacionales al iniciar o completar tareas para mantenerme motivado. | - Given el usuario completa una tarea, when finaliza, then se muestra una frase positiva.<br>- Given el día inicia, when el usuario accede a la app, then se le muestra una frase diaria. | EP-03 |
+| US-05 | Ver progreso semanal | Como usuario, quiero ver un resumen semanal de mis logros para evaluar mi constancia. | - Given ha usado la app durante la semana, when accede al resumen, then se muestran tareas y sesiones completadas.<br>- Given no hay datos, then se muestra un mensaje indicándolo. | EP-02 |
+| US-06 | Personalizar espacio de trabajo | Como usuario, quiero configurar el tema visual y sonidos para trabajar en un ambiente agradable. | - Given el usuario accede a configuración, when selecciona un tema, then la vista se actualiza.<br>- Given cambia los sonidos, then se actualizan para la próxima sesión. | EP-01 |
+| US-07 | Evaluar estado emocional | Como usuario, quiero registrar cómo me siento antes y después de cada sesión para monitorear mi bienestar. | - Given inicia una sesión, when accede a la evaluación, then puede registrar su estado.<br>- Given termina la sesión, then puede registrar su estado final. | EP-03 |
+| US-08 | Definir metas personales | Como usuario, quiero establecer metas a corto plazo para avanzar hacia mis objetivos personales. | - Given accede a la sección de metas, when define una nueva, then se guarda y aparece en su tablero.<br>- Given cumple una meta, then se actualiza el estado. | EP-02 |
+| US-09 | Recibir notificaciones | Como usuario, quiero recibir notificaciones de tareas pendientes para mantenerme al tanto. | - Given tiene tareas próximas, when se acerca la hora, then se envía una notificación.<br>- Given desactiva las notificaciones, then no se le envían. | EP-01 |
+| US-10 | Compartir progreso | Como usuario, quiero compartir mis logros con amigos para sentirme acompañado. | - Given ha alcanzado un logro, when selecciona compartir, then puede enviarlo por redes sociales.<br>- Given elige no compartir, then su información permanece privada. | EP-02 |
+| US-11 | Explorar beneficios de la app | Como visitante, quiero visualizar los beneficios principales de la app para entender cómo puede ayudarme. | - Given el visitante accede al sitio, when entra a la sección “¿Por qué usar esta app?”, then visualiza beneficios como enfoque, bienestar y productividad.<br>- Given no interactúa, then los elementos permanecen visibles. | EP-04 |
+| US-12 | Conocer testimonios de usuarios | Como visitante, quiero leer opiniones de otros usuarios para confiar más en la app. | - Given accede a la sección de testimonios, when hace scroll, then se le muestran experiencias positivas.<br>- Given no hay testimonios, then se muestra un mensaje indicándolo. | EP-04 |
+| US-13 | Acceder a preguntas frecuentes | Como visitante, quiero acceder a preguntas frecuentes sobre el funcionamiento de la app para resolver mis dudas. | - Given el visitante entra a la sección FAQ, when selecciona una pregunta, then se despliega la respuesta.<br>- Given no hay respuesta disponible, then se muestra un mensaje genérico. | EP-04 |
+| US-14 | Contactar al equipo | Como visitante, quiero poder escribir al equipo desde el sitio para resolver inquietudes sobre el uso o suscripción. | - Given accede al formulario de contacto, when llena los campos y envía, then el mensaje es recibido.<br>- Given los campos están incompletos, then se le notifica. | EP-04 |
+| US-15 | Ver planes y precios | Como visitante, quiero conocer los planes disponibles para decidir si la app se adapta a mi presupuesto. | - Given accede a la sección de precios, when selecciona un plan, then ve sus beneficios.<br>- Given no hay información disponible, then se le muestra un aviso. | EP-04 |
+| US-16 | Crear sesión de enfoque | Como developer, quiero crear sesiones de enfoque mediante POST para almacenar el inicio de la actividad. | - Given se envía una request POST válida, when incluye duración y userID, then se crea una sesión.<br>- Given los datos son inválidos, then retorna error. | EP-05 |
+| US-17 | Obtener tareas del usuario | Como developer, quiero obtener todas las tareas del usuario con una petición GET para mostrarlas en su tablero. | - Given se hace una request GET con token válido, when el userID existe, then retorna la lista de tareas.<br>- Given el userID no existe, then retorna error. | EP-05 |
+| US-18 | Registrar estado emocional | Como developer, quiero registrar el estado emocional del usuario con una petición POST para almacenarlo en la base de datos. | - Given se recibe una request válida con userID y estado, when es procesada, then retorna.<br>- Given el formato es incorrecto, then retorna. | EP-05 |
+| US-19 | Ver progreso semanal | Como developer, quiero obtener el resumen de progreso semanal de un usuario mediante GET para mostrarlo en el dashboard. | - Given hay sesiones registradas, when se hace la request con token válido, then retorna el resumen.<br>- Given no hay datos, then retorna una respuesta vacía. | EP-05 |
+| US-20 | Actualizar una meta personal | Como developer, quiero actualizar metas del usuario mediante PUT para reflejar cambios en sus objetivos. | - Given la meta existe, when se hace PUT con datos válidos, then se actualiza y retorna 200.<br>- Given la meta no existe, then retorna error. | EP-05 |
 
-| HU-ID | HU-01 |
-|-------|-------|
-| **Epic ID** | 1 |
-| **Título** | Organización y gestión de tareas personales y laborales |
-| **Descripción** | Como joven profesional, quiero organizar mis tareas en una sola aplicación fácil de usar, para tener un mejor control de mis actividades y evitar postergar responsabilidades. |
-| **Criterios de aceptación** | - La aplicación debe permitir registrar tareas con fechas y categorías.<br> - Debe incluir recordatorios configurables para cada tarea.<br> - El diseño debe ser intuitivo y amigable para nuevos usuarios. |
 
+##  Epic 01: Creación y Gestión de Cuenta
 
-| HU-ID | HU-02 |
-|-------|-------|
-| **Epic ID** | 2 |
-| **Título** | Bienestar emocional a través de frases motivacionales |
-| **Descripción** | Como usuario que se frustra fácilmente, quiero recibir frases motivacionales mientras uso la app, para sentirme más animado y mantenerme constante en mis tareas. |
-| **Criterios de aceptación** | - La app debe mostrar frases motivadoras al completar tareas o iniciar el día.<br> - Las frases deben ser personalizadas según el estado de ánimo del usuario.<br> - Debe haber una opción para guardar frases favoritas. |
+| Story ID | Título                          |
+|----------|----------------------------------|
+| US-01    | Iniciar Sesión                  |
+| US-02    | Registro de Usuario             |
+| US-09    | Recibir notificaciones          |
+| US-06    | Personalizar espacio de trabajo |
 
-| HU-ID | HU-03 |
-|-------|-------|
-| **Epic ID** | 2 |
-| **Título** | Recompensas simbólicas por progreso |
-| **Descripción** | Como usuario que se aburre fácilmente, quiero recibir logros o niveles cada vez que cumplo mis metas, para sentir que estoy avanzando y mantenerme motivado. |
-| **Criterios de aceptación** | - La app debe otorgar logros al completar tareas o metas semanales.<br> - Debe mostrar el progreso mediante barras o niveles.<br> - Debe permitir al usuario revisar su historial de logros. |
+##  Epic 02: Enfoque, Progreso y Metas Personales
 
-| HU-ID | HU-04 |
-|-------|-------|
-| **Epic ID** | 2 |
-| **Título** | Registro y monitoreo del estado emocional |
-| **Descripción** | Como usuario, quiero registrar cómo me siento antes y después de trabajar, para identificar cómo mis emociones afectan mi productividad y bienestar. |
-| **Criterios de aceptación** | - La app debe permitir seleccionar o escribir el estado emocional.<br> - Debe generar reportes simples que muestren cambios en el ánimo.<br> - El sistema debe sugerir descansos o frases de ánimo si detecta estados negativos frecuentes. |
+| Story ID | Título                           |
+|----------|-----------------------------------|
+| US-03    | Comenzar sesión de enfoque       |
+| US-05    | Ver progreso semanal             |
+| US-08    | Definir metas personales         |
+| US-10    | Compartir progreso               |
 
-| HU-ID | HU-05 |
-|-------|-------|
-| **Epic ID** | 3 |
-| **Título** | Personalización del entorno de trabajo digital |
-| **Descripción** | Como usuario visual, quiero personalizar sonidos, colores y fondos en la app, para hacer más agradable y motivadora mi experiencia de trabajo. |
-| **Criterios de aceptación** | - La app debe permitir elegir entre varios temas visuales y sonidos.<br> - La personalización no debe afectar la funcionalidad ni distraer al usuario.<br> - Debe ser posible guardar y cambiar fácilmente entre configuraciones. |
+##  Epic 03: Bienestar y Motivación
 
-| HU-ID | HU-06 |
-|-------|-------|
-| **Epic ID** | 3 |
-| **Título** | Comunidad y progreso compartido |
-| **Descripción** | Como usuario, quiero ver el progreso de otras personas o compartir el mío, para sentirme acompañado y motivado por una comunidad. |
-| **Criterios de aceptación** | - La app debe permitir mostrar estadísticas generales de la comunidad.<br> - Debe ofrecer la opción de crear grupos o retos con amigos.<br> - El usuario debe tener control sobre qué información comparte. |
+| Story ID | Título                            |
+|----------|------------------------------------|
+| US-04    | Recibir frases motivacionales     |
+| US-07    | Evaluar estado emocional          |
 
-| HU-ID | HU-07 |
-|-------|-------|
-| **Epic ID** | 1 |
-| **Título** | Compatibilidad entre tareas personales y profesionales |
-| **Descripción** | Como usuario con múltiples roles, quiero separar mis tareas por áreas (trabajo, estudios, vida personal), para organizarme mejor y no mezclar prioridades. |
-| **Criterios de aceptación** | - La app debe permitir crear categorías personalizadas de tareas.<br> - Debe ser posible filtrar y ver solo las tareas de una categoría.<br> - Debe haber indicadores visuales para diferenciar cada área. |
+##  Epic 04: Landing Page
 
-| HU-ID | HU-08 |
-|-------|-------|
-| **Epic ID** | 4 |
-| **Título** | Asistente virtual de motivación y seguimiento |
-| **Descripción** | Como usuario que trabaja solo, quiero contar con un asistente o bot que me motive y me recuerde mis avances, para sentirme acompañado y seguir adelante. |
-| **Criterios de aceptación** | - La app debe tener un asistente con mensajes programados de aliento.<br> - El bot debe recordar tareas pendientes o sugerir descansos.<br> - Debe adaptarse al progreso del usuario para no ser invasivo. |
+| Story ID | Título                               |
+|----------|---------------------------------------|
+| US-11    | Explorar beneficios de la app         |
+| US-12    | Conocer testimonios de usuarios       |
+| US-13    | Acceder a preguntas frecuentes        |
+| US-14    | Contactar al equipo                   |
+| US-15    | Ver planes y precios                  |
 
-| HU-ID | HU-09 |
-|-------|-------|
-| **Epic ID** | 1 |
-| **Título** | Inicio rápido de tareas para evitar postergación |
-| **Descripción** | Como usuario que se paraliza al empezar, quiero una función que me ayude a iniciar mis tareas con un solo clic, para dejar de pensarlo tanto y comenzar de inmediato. |
-| **Criterios de aceptación** | - La app debe tener un botón de “comenzar ahora” visible en la interfaz.<br> - Al hacer clic, debe iniciar una sesión corta de enfoque (por ejemplo, 5 min).<br> - Puede mostrar una frase motivacional o sonora al inicio para animar al usuario. |
+##  Epic 05: Features Técnicos
+
+| Story ID | Título                                    |
+|----------|--------------------------------------------|
+| US-16    | Crear sesión de enfoque                   |
+| US-17    | Obtener tareas del usuario                |
+| US-18    | Registrar estado emocional                |
+| US-19    | Ver progreso semanal                      |
+| US-20    | Actualizar una meta personal              |
 
 
 
@@ -735,4 +739,5 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
 
