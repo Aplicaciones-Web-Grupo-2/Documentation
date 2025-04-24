@@ -9,7 +9,7 @@
 #### TF REPORT
 
 **Nombre del Startup**
-
+   - BloomTech
 **Docente:**  
    - Oscar Ivan Villafuerte Bazan
 
@@ -116,11 +116,11 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
-**FOCUST** es una startup que surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación y el equilibrio emocional durante todo el proceso.
+**TimeBloom** es una startup que surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación y el equilibrio emocional durante todo el proceso.
 
-FOCUST ofrece una aplicación web que integra múltiples funcionalidades: gestión de metas de hábito y del día, técnicas de estudio como el método Pomodoro, herramientas de meditación con sonidos relajantes o integración con Spotify, y un sistema de recompensas basado en niveles y puntos. Además, proporciona frases motivacionales, notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio, meditación y hábitos.
+TimeBloom ofrece una aplicación web que integra múltiples funcionalidades: gestión de metas de hábito y del día, técnicas de estudio como el método Pomodoro, herramientas de meditación con sonidos relajantes o integración con Spotify, y un sistema de recompensas basado en niveles y puntos. Además, proporciona frases motivacionales, notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio, meditación y hábitos.
 
-La visión de FOCUST no es simplemente que los usuarios sean más productivos, sino que también se sientan mejor consigo mismos, aprendan a gestionar su energía mental y conviertan el avance en sus metas en un proceso gratificante y sostenible. Creemos que la verdadera productividad surge de la conexión entre el propósito personal y la acción diaria.
+La visión de TimeBloom no es simplemente que los usuarios sean más productivos, sino que también se sientan mejor consigo mismos, aprendan a gestionar su energía mental y conviertan el avance en sus metas en un proceso gratificante y sostenible. Creemos que la verdadera productividad surge de la conexión entre el propósito personal y la acción diaria.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -153,7 +153,7 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 <img src="https://github.com/Milenioupc/SOBREMI/blob/3666ba585878dfe5d565f57f50b131990712d330/image.png" alt="Milenio Huaman" height="200"/>
 Soy estudiante de Ingeniería de Software con enfoque en el desarrollo de aplicaciones web y soluciones digitales. Manejo tecnologías como HTML5, CSS3, JavaScript, Vue.js para el frontend, y C# con ASP.NET Core para el backend, permitiéndome contribuir de forma integral al proyecto.
 
-Dentro del equipo FOCUST, aporto en la planificación de funcionalidades, el diseño de arquitecturas eficientes, la implementación de módulos clave como el sistema de recompensas, así como en la organización de tareas y gestión de versiones en GitHub. Mi interés principal es crear soluciones tecnológicas que impacten positivamente en el bienestar y la eficiencia de las personas, siguiendo metodologías ágiles de desarrollo como Lean UX y Scrum.
+Dentro del equipo BloomTech, aporto en la planificación de funcionalidades, el diseño de arquitecturas eficientes, la implementación de módulos clave como el sistema de recompensas, así como en la organización de tareas y gestión de versiones en GitHub. Mi interés principal es crear soluciones tecnológicas que impacten positivamente en el bienestar y la eficiencia de las personas, siguiendo metodologías ágiles de desarrollo como Lean UX y Scrum.
 
 ---
 
@@ -294,13 +294,13 @@ Esta sección describe los segmentos de usuarios asociados al dominio del proble
 
 ---
 
-###  Segmento principal: Estudiantes universitarios (16 a 25 años)
+###  Segmento principal: Estudiantes universitarios (18 a 25 años)
 
 **Descripción:**  
 Estudiantes de pregrado que, debido a la carga académica, la presión de plazos y la exposición constante a distracciones digitales, tienden a postergar actividades académicas importantes. Este segmento experimenta altos niveles de procrastinación, afectando su desempeño académico y bienestar emocional.
 
 **Características demográficas:**
-- Edad: 16 a 25 años.
+- Edad: 18 a 25 años.
 - Nivel educativo: Estudios universitarios en curso.
 - Ocupación: Estudiantes a tiempo completo o parcial.
 - Ubicación: Principalmente en zonas urbanas con acceso a internet y dispositivos digitales.
@@ -344,7 +344,7 @@ Jóvenes egresados que inician su vida laboral en entornos flexibles o remotos. 
       <td colspan="4">¿Cómo podríamos resolver el problema de procrastinación en los jóvenes estudiantes y emprendedores de manera que no se desmotiven durante el intento?</td>
    </tr>
    <tr align="center">
-      <td colspan="2"></td><td>FOCUST</td><td>TODOIST</td><td>TRELLO</td><td>FOREST</td>
+      <td colspan="2"></td><td>TimeBloom</td><td>TODOIST</td><td>TRELLO</td><td>FOREST</td>
    </tr>
    <tr>
       <td rowspan="2">Perfil</td><td>Overview</td><td>Es una aplicación de gestión de tareas con recursos de bienestar emocional para ayudar en la productividad y el cansancio mental.</td><td>Es una aplicación de gestión de tareas y listas por hacer, que ayuda a organizar la vida personal y profesional de un usuario.</td><td>Es una herramienta colaborativa que ayuda a individuos o equipos a organizar tareas para una mayor productividad.</td><td>Es una app de productividad que te ayuda a mantenerte enfocado alejándote del celular.</td>
@@ -484,13 +484,15 @@ En esta sección se documenta la recolección de información a través de entre
 
 | **Entrevista 1** |
 |------------------|
-| <strong>Nombre:</strong> XXXXX |
-| <strong>Edad:</strong> XX |
-| <strong>Procedencia:</strong> XX |
+| <strong>Nombre:</strong> liz Espinal Hinostroza |
+| <strong>Edad:</strong> 18 |
+| <strong>Procedencia:</strong> La Molina, Lima |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
-| <strong>Resumen:</strong> XXXXXX |
-| <strong>Enlace de video:</strong> XXXX |
-| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+| <strong>Resumen:</strong> Liz es una estudiante universitaria de 18 años que cursa Derecho en la UPC. Se describe como una persona organizada, aunque reconoce que **procrastina con mucha frecuencia**, especialmente cuando siente falta de motivación o presión. Su forma principal de organización es **un calendario académico**, y a veces usa el método Pomodoro. No utiliza herramientas avanzadas de productividad y prefiere **tecnologías simples y funcionales**.
+En cuanto a su estado emocional frente a la procrastinación, expresó que suele sentirse **estresada, frustrada y molesta consigo misma**, especialmente cuando acumula tareas pendientes. Su estrategia para empezar una tarea es **dividirla en partes pequeñas**, lo que le permite reducir la carga visual y emocional. A pesar de no usar muchas apps, valora que sean rápidas y visualmente atractivas, y **rechaza las que mandan muchas notificaciones**, ya que le causan ansiedad.
+Sobre TimeBloom, le pareció útil la idea de contar con un **dashboard visual de progreso**, y destacó que ver su avance en forma de gráficas la motivaría emocionalmente. Además, **las recompensas simbólicas** como medallas y frases motivadoras son vistas como elementos positivos que "activan el cerebro" para seguir cumpliendo metas. Afirmó que sí pagaría por una app como esta **si realmente ve mejoras en su desempeño académico**.|
+| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c245_upc_edu_pe/EfMFLBzK0FxLp8aQK6cduNUB-LL0zlQo3dn6grVk21SocQ?e=zGm9sp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c245_upc_edu_pe/EfMFLBzK0FxLp8aQK6cduNUB-LL0zlQo3dn6grVk21SocQ?e=IMgd2g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
+| <strong>Foto del entrevistado:</strong><br><img src="https://github.com/Milenioupc/SOBREMI/blob/696904b3e73c4735cb88635360bd0024ccfaddc1/Captura%20de%20pantalla%202025-04-24%20023334.png" alt="XXX" height="200"/> |
 
 &nbsp;
 
@@ -501,7 +503,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> XX |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
 | <strong>Resumen:</strong> XXXXXX |
-| <strong>Enlace de video:</strong> XXXX |
+| <strong>Enlace de video:</strong> XXX |   
 | <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
 
 &nbsp;
