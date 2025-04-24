@@ -741,5 +741,12 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+## 4.6. Domain Driven Software Arquitecture.
+### 4.6.1. Software Architecture Context Diagram.
+![Context](assets/SystemContext.png)
+### 4.6.2. Software Architecture Container Diagrams.
+![Container](assets/Container.png)
+### 4.6.3. Software Architecture Components Diagrams.
+![Component](assets/Component.png)
 
 
