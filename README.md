@@ -158,7 +158,8 @@ Dentro del equipo BloomTech, aporto en la planificación de funcionalidades, el 
 ---
 
 #### **Sebastian Ramirez Tello – Ingeniería de Software – U202316122**  
-<img src="xxx" alt="XXX" height="200"/>
+<img src="![image](https://github.com/user-attachments/assets/9f400ea1-a947-469b-84ab-fd2459afc902)
+" alt="Sebastian Ramirez" height="200"/>
 
 Me llamo Sebastián Ramírez, y estoy cursando el 5to ciclo de Ingeniería de Software. Me considero una persona que se destaca en el trabajo en equipo. Me adapto rápidamente a nuevas situaciones y aprendo con facilidad, lo que me permite enfrentar desafíos con confianza. Valoro mucho el respeto y la cooperación en un entorno de equipo, y siempre busco contribuir a un ambiente positivo.
 
@@ -707,19 +708,34 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 
 
 ## 3.3. Impact Mapping.
+
+![image](https://github.com/user-attachments/assets/edabcf18-ce0a-4fcc-a4f2-0d472328d9e3)
+
+
 ## 3.4. Product Backlog.
 
-| Orden | HU-ID  | Título                                                                 | Descripción                                                                                                                                                               | Story Points |
-|-------|--------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1     | HU-03  | Seguimiento visual del progreso                                        | Como usuario, quiero ver mi progreso en forma de barras o gráficos para sentir que avanzo y mantenerme motivado.                                                         | 8            |
-| 2     | HU-06  | Recompensas simbólicas y niveles                                       | Como usuario, quiero recibir recompensas o subir de nivel al completar tareas para que mi experiencia sea más divertida y satisfactoria.                                | 8            |
-| 3     | HU-09  | Compatibilidad multiplataforma                                         | Como usuario, quiero poder usar la aplicación tanto en el navegador como en dispositivos móviles para tener acceso en todo momento.                                     | 5            |
-| 4     | HU-01  | Registro rápido de tareas                                              | Como usuario, quiero poder registrar mis tareas de forma rápida y sencilla para no perder tiempo y enfocarme en hacerlas.                                               | 5            |
-| 5     | HU-05  | Recordatorios motivacionales personalizados                            | Como usuario, quiero recibir mensajes motivacionales personalizados que me ayuden a mantenerme enfocado y animado durante el día.                                       | 5            |
-| 6     | HU-08  | Sección de bienestar emocional                                         | Como usuario, quiero acceder a una sección dedicada al manejo emocional para mejorar mi estado de ánimo y productividad.                                                | 5            |
-| 7     | HU-10  | Consejos iniciales para evitar la procrastinación                      | Como usuario, quiero recibir sugerencias o tips cuando no sé por dónde empezar para poder iniciar con una tarea sin bloquearme.                                         | 5            |
-| 8     | HU-07  | Bot de acompañamiento                                                  | Como usuario, quiero interactuar con un bot que me acompañe y anime para no sentirme solo al trabajar.                                                                  | 3            |
-| 9    | HU-02  | Integración de tareas y hábitos                                        | Como usuario, quiero organizar tanto mis tareas como mis hábitos en un solo lugar para tener un mayor control de mis actividades diarias.                               | 3            |
+| #Orden | User Story ID | Título                              | Descripción | Story Points |
+|--------|----------------|--------------------------------------|-------------|---------------|
+| 1      | US-03          | Comenzar sesión de enfoque           | Como usuario, quiero iniciar una sesión Pomodoro para concentrarme mejor. | 5 |
+| 2      | US-05          | Ver progreso semanal                 | Como usuario, quiero ver un resumen semanal de mis logros para evaluar mi constancia. | 5 |
+| 3      | US-08          | Definir metas personales             | Como usuario, quiero establecer metas a corto plazo para avanzar hacia mis objetivos personales. | 5 |
+| 4      | US-01          | Iniciar Sesión                       | Como usuario, quiero iniciar sesión para acceder a mis sesiones y progreso. | 3 |
+| 5      | US-04          | Recibir frases motivacionales        | Como usuario, quiero recibir frases motivacionales al iniciar o completar tareas para mantenerme motivado. | 3 |
+| 6      | US-06          | Personalizar espacio de trabajo      | Como usuario, quiero configurar el tema visual y sonidos para trabajar en un ambiente agradable. | 3 |
+| 7      | US-07          | Evaluar estado emocional             | Como usuario, quiero registrar cómo me siento antes y después de cada sesión para monitorear mi bienestar. | 3 |
+| 8      | US-14          | Contactar al equipo                  | Como visitante, quiero poder escribir al equipo desde el sitio para resolver inquietudes sobre el uso o suscripción. | 3 |
+| 9      | US-16          | Crear sesión de enfoque              | Como developer, quiero crear sesiones de enfoque mediante POST para almacenar el inicio de la actividad. | 3 |
+| 10     | US-17          | Obtener tareas del usuario           | Como developer, quiero obtener todas las tareas del usuario con una petición GET para mostrarlas en su tablero. | 3 |
+| 11     | US-18          | Registrar estado emocional           | Como developer, quiero registrar el estado emocional del usuario con una petición POST para almacenarlo en la base de datos. | 3 |
+| 12     | US-19          | Ver progreso semanal                 | Como developer, quiero obtener el resumen de progreso semanal de un usuario mediante GET para mostrarlo en el dashboard. | 3 |
+| 13     | US-20          | Actualizar una meta personal         | Como developer, quiero actualizar metas del usuario mediante PUT para reflejar cambios en sus objetivos. | 3 |
+| 14     | US-02          | Registro de Usuario                  | Como visitante, quiero poder registrarme para comenzar a usar la aplicación. | 2 |
+| 15     | US-09          | Recibir notificaciones               | Como usuario, quiero recibir notificaciones de tareas pendientes para mantenerme al tanto. | 2 |
+| 16     | US-10          | Compartir progreso                   | Como usuario, quiero compartir mis logros con amigos para sentirme acompañado. | 2 |
+| 17     | US-11          | Explorar beneficios de la app        | Como visitante, quiero visualizar los beneficios principales de la app para entender cómo puede ayudarme. | 2 |
+| 18     | US-12          | Conocer testimonios de usuarios      | Como visitante, quiero leer opiniones de otros usuarios para confiar más en la app. | 2 |
+| 19     | US-13          | Acceder a preguntas frecuentes       | Como visitante, quiero acceder a preguntas frecuentes sobre el funcionamiento de la app para resolver mis dudas. | 2 |
+| 20     | US-15          | Ver planes y precios                 | Como visitante, quiero conocer los planes disponibles para decidir si la app se adapta a mi presupuesto. | 2 |
 
 
 # Capítulo IV: Product Design
