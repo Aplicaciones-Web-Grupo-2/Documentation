@@ -118,7 +118,7 @@
 
 **BloomTech** es una startup dedicada a la investigacion y solucion problemas como la baja productividad en jovenes y adultos.
 
-Nuestra principal solución, **TimeBloom** esta surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación durante todo el proceso.
+Nuestra principal solución, **TimeBloom** surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación durante todo el proceso.
 
 TimeBloom es una plataforma digital que integra múltiples funcionalidades: gestión de metas y hábitos, técnicas de estudio como el método Pomodoro y un sistema de recompensas basado en niveles y puntos. Además, proporciona 
 notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio y gestion de hábitos hábitos.
