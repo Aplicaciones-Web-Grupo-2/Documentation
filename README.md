@@ -176,8 +176,6 @@ XXXXXX
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y Problemática
 
-##### Enunciado del problema
-
 La procrastinación académica es un fenómeno ampliamente documentado en la literatura científica, caracterizado por la postergación voluntaria de actividades académicas a pesar de conocer las consecuencias negativas que esto conlleva. En el contexto universitario peruano, estudios recientes han evidenciado que un porcentaje significativo de estudiantes presenta altos niveles de procrastinación, asociados a factores como la ansiedad, la baja motivación y la falta de estrategias de autorregulación ([Steel, 2007]; [Picho & Salaman, 2020]).
 
 La procrastinación impacta negativamente en el rendimiento académico y el bienestar emocional de los estudiantes, manifestándose principalmente en la postergación de tareas hasta el último momento. A pesar de la disponibilidad de herramientas digitales de gestión de tiempo, muchas de ellas carecen de componentes motivacionales o de apoyo emocional, lo que contribuye a su abandono temprano.
@@ -239,14 +237,20 @@ Esta sección desarrolla la visión del modelo de negocio que soporta nuestra so
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-| Elemento | Detalle |
-|:--------:|:-------:|
-| **Domain** | Productividad personal, gestión de metas académicas y reducción de la procrastinación en estudiantes y jóvenes profesionales. |
-| **Customer Segments** | - Estudiantes universitarios entre 18 y 25 años.<br>- Jóvenes profesionales de 22 a 30 años que trabajan en modalidad remota o freelance. |
-| **Pain Points** | - Procrastinación crónica incluso cuando existen metas claras.<br>- Sensación de frustración, ansiedad y culpa por postergar tareas.<br>- Abandono de apps de organización por falta de motivación emocional. |
-| **Gap** | Las herramientas actuales de productividad se enfocan únicamente en la gestión de tareas, pero no abordan la motivación personal ni el bienestar emocional, factores clave para la constancia. |
-| **Vision/Strategy** | Crear una app web que combine planificación de tareas, técnicas de estudio efectivas, acompañamiento motivacional y recursos de bienestar emocional para fomentar hábitos sostenibles. |
-| **Initial Segment** | Estudiantes universitarios de 18 a 25 años que ya han utilizado apps como Notion, Google Keep o Trello, pero las han abandonado por falta de conexión emocional o motivación intrínseca. |
+Problem Statement 1:<br>
+Usuarios: Estudiantes universitarios de 18 a 25 años.<br>
+Necesidad: Necesitan gestionar sus metas académicas y combatir la procrastinación, pero las herramientas actuales no abordan su motivación emocional, lo que los lleva a abandonar las apps de organización.
+Solución: Nuestra app web combina planificación de tareas, técnicas de estudio y recursos de bienestar emocional para fomentar hábitos sostenibles y mantener la constancia académica.
+
+Problem Statement 2:<br>
+Usuarios: Jóvenes profesionales de 22 a 30 años que trabajan de manera remota o freelance.<br>
+Necesidad: Requieren apoyo para gestionar su productividad y evitar la procrastinación crónica, ya que actualmente experimentan frustración y ansiedad al postergar tareas sin contar con apoyo emocional.
+Solución: Nuestra plataforma ofrece acompañamiento motivacional, planificación de metas y técnicas de bienestar emocional que fortalecen la motivación intrínseca y reducen la procrastinación.
+
+Problem Statement 3:<br>
+Usuarios: Estudiantes y jóvenes profesionales que han usado apps de productividad como Notion, Trello o Google Keep.<br>
+Necesidad: Buscan una herramienta que no solo gestione tareas, sino que también les brinde un soporte emocional para sostener sus hábitos productivos a largo plazo, ya que han abandonado otras apps por falta de conexión emocional.
+Solución: Nuestra aplicación integra gestión de tareas con acompañamiento motivacional, brindando una experiencia más humana y conectada para sostener la productividad a largo plazo.
 
 #### 1.2.2.2. Lean UX Assumptions
 
