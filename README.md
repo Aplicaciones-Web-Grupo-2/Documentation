@@ -4,12 +4,14 @@
   <img src="https://github.com/user-attachments/assets/94621a17-a510-4701-bef8-9e44adf81d30" alt="UPC Logo" width="200"/>
 </p>
 
-#### Informe del TB1
+### Carrera: Ingeniería de Software  
+### Curso: Aplicaciones Web 
+### Sección: 1ASI0730  
+### Profesor: Oscar Ivan Villafuerte Bazan
 
+## Informe de Trabajo Final  
 **"BloomTech"**  
 **Producto: "TimeBloom"**
-
-**Grupo 2**
 
 **Team Members:**
 
