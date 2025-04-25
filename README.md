@@ -5,12 +5,6 @@
   <img src="https://github.com/user-attachments/assets/94621a17-a510-4701-bef8-9e44adf81d30" alt="UPC Logo" width="200"/>
 </p>
 
-### Carrera: Ingeniería de Software 
-### Ciclo: 2025-01
-### Curso: Aplicaciones Web  
-### Sección: 4424  
-### Profesor: Villafuerte Bazán, Óscar Iván 
-
 #### Informe del TB1
 
 **"BloomTech"**  
@@ -170,11 +164,20 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
-**TimeBloom** es una startup que surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación y el equilibrio emocional durante todo el proceso.
+**BloomTech** es una startup dedicada a la investigacion y solucion problemas como la baja productividad en jovenes y adultos.
 
-TimeBloom ofrece una aplicación web que integra múltiples funcionalidades: gestión de metas de hábito y del día, técnicas de estudio como el método Pomodoro, herramientas de meditación con sonidos relajantes o integración con Spotify, y un sistema de recompensas basado en niveles y puntos. Además, proporciona frases motivacionales, notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio, meditación y hábitos.
+Nuestra principal solución, **TimeBloom** surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación durante todo el proceso.
 
-La visión de TimeBloom no es simplemente que los usuarios sean más productivos, sino que también se sientan mejor consigo mismos, aprendan a gestionar su energía mental y conviertan el avance en sus metas en un proceso gratificante y sostenible. Creemos que la verdadera productividad surge de la conexión entre el propósito personal y la acción diaria.
+TimeBloom es una plataforma digital que integra múltiples funcionalidades: gestión de metas y hábitos, técnicas de estudio como el método Pomodoro y un sistema de recompensas basado en niveles y puntos. Además, proporciona 
+notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio y gestion de hábitos hábitos.
+
+**Visión**
+
+Ser la plataforma líder en productividad consciente, donde las personas no solo logren más, sino que también  aprendan a gestionar su energía mental y encuentren satisfacción duradera en el camino hacia sus metas.
+
+**Misión**
+
+Empoderar a los usuarios a través de herramientas y experiencias que conecten su propósito personal con acciones diarias, promoviendo una productividad sostenible.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -229,8 +232,6 @@ XXXXXX
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y Problemática
 
-##### Enunciado del problema
-
 La procrastinación académica es un fenómeno ampliamente documentado en la literatura científica, caracterizado por la postergación voluntaria de actividades académicas a pesar de conocer las consecuencias negativas que esto conlleva. En el contexto universitario peruano, estudios recientes han evidenciado que un porcentaje significativo de estudiantes presenta altos niveles de procrastinación, asociados a factores como la ansiedad, la baja motivación y la falta de estrategias de autorregulación ([Steel, 2007]; [Picho & Salaman, 2020]).
 
 La procrastinación impacta negativamente en el rendimiento académico y el bienestar emocional de los estudiantes, manifestándose principalmente en la postergación de tareas hasta el último momento. A pesar de la disponibilidad de herramientas digitales de gestión de tiempo, muchas de ellas carecen de componentes motivacionales o de apoyo emocional, lo que contribuye a su abandono temprano.
@@ -260,55 +261,61 @@ La procrastinación impacta negativamente en el rendimiento académico y el bien
 - **How Much (¿Qué tan grave es el impacto?)**  
   Se estima que entre el 80% y el 95% de los estudiantes universitarios procrastinan, y aproximadamente el 50% lo hace de manera crónica ([Steel, 2007]; [Revista Científica de Sevilla, 2023]; [Repositorio Continental, 2020]).
 
+![Image](https://github.com/user-attachments/assets/f2798f88-1bde-469b-a15d-c7073a7f2f32)
 ---
 
-#### Puntos clave que debe resolver la solución
-
-- Proporcionar herramientas que permitan establecer y cumplir metas personales y académicas de manera estructurada.
-- Incorporar técnicas de gestión del tiempo, como el método Pomodoro, para mejorar concentración y eficiencia.
-- Ofrecer recursos de meditación y relajación que ayuden a disminuir los niveles de estrés y ansiedad.
-- Implementar un sistema de recompensas y niveles para motivar al usuario a mantener hábitos productivos.
-
----
-
-#### Objetivos del proyecto
-
-- Desarrollar una aplicación web que ayude a combatir la procrastinación mediante la planificación de tareas, métodos de estudio efectivos y recursos de bienestar emocional.
-- Fomentar la autorregulación emocional y la motivación intrínseca en los usuarios para mejorar su rendimiento académico y profesional.
-- Evaluar la efectividad de la aplicación en la reducción de la procrastinación y en el incremento del bienestar general de los usuarios.
-
----
-
-#### Restricciones del proyecto
-
-- La aplicación debe ser accesible y funcional en múltiples dispositivos y plataformas (responsive design).
-- Se debe proteger estrictamente la privacidad y los datos personales de los usuarios, cumpliendo con normativas vigentes.
-- El desarrollo debe realizarse en un tiempo limitado y priorizando las funcionalidades críticas para la validación inicial.
-
----
 ### 1.2.2 Lean UX Process.
 
 Esta sección desarrolla la visión del modelo de negocio que soporta nuestra solución, basado en el enfoque Lean UX. Se identifican los segmentos de clientes, sus principales necesidades (pain points), los vacíos actuales (gaps), la estrategia de valor, y el segmento inicial al que se enfocará la primera versión del producto. Además, se detallan los supuestos (assumptions) e hipótesis de diseño (hypothesis statements) que guiarán la validación del producto.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-| Elemento | Detalle |
-|:--------:|:-------:|
-| **Domain** | Productividad personal, gestión de metas académicas y reducción de la procrastinación en estudiantes y jóvenes profesionales. |
-| **Customer Segments** | - Estudiantes universitarios entre 18 y 25 años.<br>- Jóvenes profesionales de 22 a 30 años que trabajan en modalidad remota o freelance. |
-| **Pain Points** | - Procrastinación crónica incluso cuando existen metas claras.<br>- Sensación de frustración, ansiedad y culpa por postergar tareas.<br>- Abandono de apps de organización por falta de motivación emocional. |
-| **Gap** | Las herramientas actuales de productividad se enfocan únicamente en la gestión de tareas, pero no abordan la motivación personal ni el bienestar emocional, factores clave para la constancia. |
-| **Vision/Strategy** | Crear una app web que combine planificación de tareas, técnicas de estudio efectivas, acompañamiento motivacional y recursos de bienestar emocional para fomentar hábitos sostenibles. |
-| **Initial Segment** | Estudiantes universitarios de 18 a 25 años que ya han utilizado apps como Notion, Google Keep o Trello, pero las han abandonado por falta de conexión emocional o motivación intrínseca. |
+Problem Statement 1:<br>
+Usuarios: Estudiantes universitarios de 18 a 25 años.<br>
+Necesidad: Necesitan gestionar sus metas académicas y combatir la procrastinación, pero las herramientas actuales no abordan su motivación emocional, lo que los lleva a abandonar las apps de organización.
+Solución: Nuestra app web combina planificación de tareas, técnicas de estudio y recursos de bienestar emocional para fomentar hábitos sostenibles y mantener la constancia académica.
+
+Problem Statement 2:<br>
+Usuarios: Jóvenes profesionales de 22 a 30 años que trabajan de manera remota o freelance.<br>
+Necesidad: Requieren apoyo para gestionar su productividad y evitar la procrastinación crónica, ya que actualmente experimentan frustración y ansiedad al postergar tareas sin contar con apoyo emocional.
+Solución: Nuestra plataforma ofrece acompañamiento motivacional, planificación de metas y técnicas de bienestar emocional que fortalecen la motivación intrínseca y reducen la procrastinación.
+
+Problem Statement 3:<br>
+Usuarios: Estudiantes y jóvenes profesionales que han usado apps de productividad como Notion, Trello o Google Keep.<br>
+Necesidad: Buscan una herramienta que no solo gestione tareas, sino que también les brinde un soporte emocional para sostener sus hábitos productivos a largo plazo, ya que han abandonado otras apps por falta de conexión emocional.
+Solución: Nuestra aplicación integra gestión de tareas con acompañamiento motivacional, brindando una experiencia más humana y conectada para sostener la productividad a largo plazo.
 
 #### 1.2.2.2. Lean UX Assumptions
 
-- Asumimos que los estudiantes universitarios y jóvenes profesionales son conscientes de que procrastinan y buscan formas de mejorar su productividad personal.
-- Asumimos que la falta de motivación emocional es una de las principales razones por las cuales abandonan apps de productividad convencionales.
-- Asumimos que integrar técnicas de enfoque como el método Pomodoro y herramientas de bienestar como la meditación aumentará la constancia de uso de la app.
-- Asumimos que un sistema de recompensas basado en logros y niveles mantendrá a los usuarios más motivados a largo plazo.
-- Asumimos que mostrar estadísticas de progreso visual reforzará el sentido de avance y pertenencia, reduciendo la sensación de estancamiento.
-- Asumimos que los usuarios prefieren experiencias simples, visuales y emocionalmente positivas, antes que sistemas rígidos y únicamente técnicos.
+**¿Quiénes son nuestros usuarios?**
+
+Estudiantes universitarios (18-25 años) que buscan mejorar su concentración y administrar mejor su tiempo de estudio y Jóvenes profesionales (22-30 años) que trabajan de forma remota o híbrida y quieren maximizar su productividad diaria.
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Se usa durante sesiones de estudio o trabajo, especialmente en ambientes donde hay muchas distracciones (casa, coworkings, bibliotecas). Encaja como herramienta complementaria a planners, apps de calendario o listas de tareas.
+
+**¿Qué problema podría afrontar nuestro producto y cómo podemos resolverlo?**
+
+Problema: Les cuesta mantener la concentración durante periodos largos de trabajo.<br>
+Solución: TimeBloom aplica la técnica Pomodoro para dividir el tiempo en bloques productivos con pausas programadas. Además, motiva con un sistema de recompensas gamificado que refuerza el hábito de enfocarse.
+
+**¿Cuándo y cómo se utiliza?**
+
+Durante el horario de estudio o jornada laboral.El usuario inicia sesiones Pomodoro (25/5 o configurables), realiza una actividad específica y obtiene puntos o recompensas tras completar ciclos.
+
+**¿Qué características son importantes?**
+
+- Temporizador configurable con ciclos Pomodoro.
+- Sistema de recompensas/puntos por completar sesiones.
+- Historial o estadísticas de productividad.
+- Notificaciones y alertas para inicio/fin de sesiones.
+- UI clara, minimalista y sin distracciones.
+
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+- Visualmente: Interfaz limpia, moderna y motivadora (tipo dashboard gamificado).
+- Comportamiento: Fluido, con feedback inmediato al usuario (sonidos, animaciones suaves, insignias al ganar recompensas). Debe ser rápido de configurar y fácil de usar desde el primer momento.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -329,18 +336,9 @@ Esta sección desarrolla la visión del modelo de negocio que soporta nuestra so
 
 #### 1.2.2.4. Lean UX Canvas
 
-[Tablero de Miro - Lean UX Canvas](https://miro.com/app/board/uXjVI_NGxCU=/?share_link_id=304749331451)
+El Lean UX Canvas es una herramienta que ayuda a definir y validar hipótesis sobre el producto de forma colaborativa y ágil. Permite alinear al equipo en torno al problema, los usuarios, sus necesidades y las soluciones propuestas, fomentando el aprendizaje continuo y la toma de decisiones basadas en evidencia. A continuación, se presenta el Lean UX Canvas aplicado al proyecto.
 
-| **N°** | **Elemento**                         | **Descripción** |
-|:------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | **Business Problem** (Problema de negocio) | La procrastinación académica y profesional afecta gravemente el rendimiento y bienestar emocional de estudiantes y jóvenes profesionales. Actualmente, existe una falta de herramientas digitales que aborden esta problemática combinando organización de metas, motivación emocional y bienestar personal, lo que mantiene altos los niveles de procrastinación. |
-| 5      | **Solution Ideas** (Ideas de solución) | - Creación de metas de hábito y metas diarias.<br>- Método Pomodoro y Flashcards.<br>- Meditación y relajación.<br>- Dashboard de progreso.<br>- Recompensas y frases motivacionales. |
-| 2      | **Business Outcomes** (Resultados de negocio) | - Aumentar la retención semanal de usuarios.<br>- Mejorar la tasa de cumplimiento de metas.<br>- Obtener datos de uso para iteraciones futuras. |
-| 3      | **Users and Customers** (Usuarios y clientes) | - Estudiantes universitarios (18 a 25 años).<br>- Jóvenes profesionales (22 a 30 años), trabajadores remotos o freelancers. |
-| 4      | **User Benefits** (Beneficios del usuario) | - Reducción de la procrastinación.<br>- Mayor sensación de logro.<br>- Desarrollo de hábitos positivos.<br>- Reducción del estrés y la ansiedad. |
-| 6      | **Hypotheses** (Hipótesis) | Creemos que integrar organización personal, motivación emocional y bienestar ayudará a reducir la procrastinación y mejorar la constancia. |
-| 7      | **What’s the most important thing we need to learn first?** (¿Qué necesitamos aprender primero?) | Saber cuál es el principal factor emocional que lleva a los usuarios a abandonar apps de productividad tradicionales. |
-| 8      | **What’s the least amount of work we need to do to learn the next most important thing?** (¿Cuál es el menor trabajo para validar?) | Lanzar un prototipo funcional que permita establecer metas, registrar avances y recibir frases motivacionales, testeándolo con 5 usuarios reales durante una semana. |
+![Image](https://github.com/user-attachments/assets/20306507-d534-4338-a222-03633cb4b7f6)
 
 ---
 ## 1.3. Segmentos Objetivo
@@ -386,6 +384,31 @@ Jóvenes egresados que inician su vida laboral en entornos flexibles o remotos. 
 ---
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+
+**FocusMate**<br>
+
+![Image](https://github.com/user-attachments/assets/22a7cb84-3b5e-422d-85a5-a74b5e51f940)
+
+FocusMate es una plataforma de productividad basada en la rendición de cuentas mediante sesiones de co-working virtual. Los usuarios se emparejan en línea con otra persona para trabajar en silencio durante intervalos de tiempo definidos, lo que promueve la concentración a través de la presencia mutua. Su propuesta de valor radica en combatir la procrastinación mediante el compromiso social y la estructura temporal.
+
+**Todoist**<br>
+
+![Image](https://github.com/user-attachments/assets/d65dc25b-0c82-4b66-a595-c1aa0e8f9ae9)
+
+Todoist es una de las aplicaciones más populares de gestión de tareas personales y profesionales. Su diseño minimalista y sus potentes funciones de organización (etiquetas, prioridades, recordatorios, proyectos compartidos) la convierten en una herramienta versátil para quienes buscan mantener el control sobre sus responsabilidades diarias. Aunque carece de elementos emocionales o motivacionales, se destaca por su eficiencia y escalabilidad.
+
+**Trello**<br>
+
+![Image](https://github.com/user-attachments/assets/d20c625b-50a1-491f-930f-265a00045f4a)
+
+Trello es una herramienta de gestión de proyectos visualmente intuitiva basada en el sistema Kanban. Es ampliamente utilizada en entornos colaborativos gracias a su estructura de tableros, listas y tarjetas personalizables. Trello permite a los equipos planificar, coordinar y ejecutar tareas de manera clara y visual, pero se enfoca más en la organización de flujos de trabajo que en la experiencia personal del usuario.
+
+**Forest**<br>
+
+![Image](https://github.com/user-attachments/assets/e291e870-f172-4890-bff5-09aa6788bad0)
+
+Forest es una aplicación que combina técnicas de enfoque con un estilo gamificado que premia la concentración. Cada vez que el usuario evita distracciones y se mantiene productivo, crece un árbol virtual; si interrumpe la sesión, el árbol muere. Esta metáfora ecológica convierte el tiempo de concentración en una experiencia visual y emocional, fomentando hábitos de trabajo sostenibles, especialmente entre usuarios jóvenes.
+
 ### 2.1.1. Análisis competitivo.
 
 <table>
@@ -481,11 +504,16 @@ Al combinar técnicas de gamificación con seguimiento concreto del progreso, la
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
-
-## Preguntas para el segmento Estudiates Universitarios
-
-### Objetivo: Entender la manera en que los estudiantes universitarios organizan su tiempo, conocer las razones por las cuales muchos de ellos sienten motivación/desmotivación para realizar sus actividades y que es lo que esperan de una herramienta que ayuda a combatir la procastinación
-
+#### Preguntas generales
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tienes?
+- ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?
+- ¿En qué ciudad resides?
+- ¿Qué navegador es el que usa con mayor frecuencia?
+- ¿Qué dispositivo utiliza con frecuencia para realizar tus actividades (móvil, laptop o pc) ? 
+- ¿Qué sistema operativo usa el dispositivo que más frecuentas?
+- ¿Qué aplicaciones o marcas reconoces que trabajen para ayudar a las personas a mejorar su productividad?
+#### Preguntas para el segmento Estudiates Universitarios
 - ¿Cómo sueles organizar tus tareas académicas? ¿ Usas alguna app o método en específico ?
 - ¿Qué tan seguido sueles dejar tus tareas para último momento? ¿A que crees que se deba eso?
 - ¿Qué herramientas digitales usas para organizar tus actividades?
@@ -500,10 +528,7 @@ Al combinar técnicas de gamificación con seguimiento concreto del progreso, la
 - ¿Qué te haría abandonar una app después de pocos días de usarla?
 - ¿Cómo te gustaría que se vea o sienta la app ideal para ayudarte a ser más productivo y sentirte mejor emocionalmente?
 - ¿Estarías dispuesto a pagar por una app que te ayude a mejorar tu productividad?
-
-
-## Preguntas para el segmento Jóvenes Profesionales 
-
+#### Preguntas para el segmento Jóvenes Profesionales 
 - ¿Cómo organizas tus actividades laborales y personales durante el día?
 - ¿Qué dificultades enfrentas para mantenerte enfocado o cumplir tus tareas?
 - ¿Qué aplicaciones o métodos usas actualmente para gestionar tu productividad?
@@ -518,20 +543,6 @@ Al combinar técnicas de gamificación con seguimiento concreto del progreso, la
 - ¿Te resulta interesante la idea de recibir estadísticas o retroalimentación sobre tu progreso?
 - ¿Qué opinas de tener un sistema de recompensas dentro de una app que premie tus logros diarios?
 - ¿Estarías dispuesto a pagar por una app que te ayude a mejorar tu productividad?
-
-## Preguntas generales
-
-- ¿Qué navegador es el que usa con mayor frecuencia?
-- ¿Qué dispositivo utiliza con frecuencia para realizar tus actividades (móvil, laptop o pc) ? 
-- ¿Qué sistema operativo usa el dispositivo que más frecuentas?
-- ¿A qué te dedicas?
-- ¿Donde vives actualmente?
-- ¿Cual es tu edad?
-- ¿Qué aplicaciones o marcas reconoces que trabajen para ayudar a las personas a mejorar su productividad?
-
-
-
-
 ### 2.2.2. Registro de entrevistas.
 En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: Estudiantes universitarios (18 a 25 años) y Jóvenes profesionales (22 a 30 años). El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación, enfocada en mejorar la productividad de nuestros usuarios.
 
@@ -543,9 +554,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Edad:</strong> 18 |
 | <strong>Procedencia:</strong> La Molina, Lima |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
-| <strong>Resumen:</strong> Liz es una estudiante universitaria de 18 años que cursa Derecho en la UPC. Se describe como una persona organizada, aunque reconoce que **procrastina con mucha frecuencia**, especialmente cuando siente falta de motivación o presión. Su forma principal de organización es **un calendario académico**, y a veces usa el método Pomodoro. No utiliza herramientas avanzadas de productividad y prefiere **tecnologías simples y funcionales**.
-En cuanto a su estado emocional frente a la procrastinación, expresó que suele sentirse **estresada, frustrada y molesta consigo misma**, especialmente cuando acumula tareas pendientes. Su estrategia para empezar una tarea es **dividirla en partes pequeñas**, lo que le permite reducir la carga visual y emocional. A pesar de no usar muchas apps, valora que sean rápidas y visualmente atractivas, y **rechaza las que mandan muchas notificaciones**, ya que le causan ansiedad.
-Sobre TimeBloom, le pareció útil la idea de contar con un **dashboard visual de progreso**, y destacó que ver su avance en forma de gráficas la motivaría emocionalmente. Además, **las recompensas simbólicas** como medallas y frases motivadoras son vistas como elementos positivos que "activan el cerebro" para seguir cumpliendo metas. Afirmó que sí pagaría por una app como esta **si realmente ve mejoras en su desempeño académico**.|
+| <strong>Resumen:</strong> Liz, una estudiante universitaria de 18 años que cursa Derecho en la UPC, se considera organizada pero tiende a procrastinar, especialmente cuando le falta motivación o presión. Usa un calendario académico y, a veces, el método Pomodoro, pero prefiere herramientas simples y funcionales. Se siente estresada y frustrada por la procrastinación, y su estrategia para iniciar tareas es dividirlas en partes pequeñas. Valora aplicaciones rápidas, visualmente atractivas y sin muchas notificaciones. Le parece útil la idea de un dashboard visual de progreso en TimeBloom, así como las recompensas simbólicas. Aceptaría pagar por la app si mejora su desempeño académico.|
 | <strong>Enlace de video:</strong> [Microsoft Stream – Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c245_upc_edu_pe/EfMFLBzK0FxLp8aQK6cduNUB-LL0zlQo3dn6grVk21SocQ?e=zGm9sp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c245_upc_edu_pe/EfMFLBzK0FxLp8aQK6cduNUB-LL0zlQo3dn6grVk21SocQ?e=IMgd2g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
 | <strong>Foto del entrevistado:</strong><br><img src="https://github.com/Milenioupc/SOBREMI/blob/696904b3e73c4735cb88635360bd0024ccfaddc1/Captura%20de%20pantalla%202025-04-24%20023334.png" alt="XXX" height="200"/> |
 
@@ -553,13 +562,13 @@ Sobre TimeBloom, le pareció útil la idea de contar con un **dashboard visual d
 
 | **Entrevista 2** |
 |------------------|
-| <strong>Nombre:</strong> XXXXX |
-| <strong>Edad:</strong> XX |
-| <strong>Procedencia:</strong> XX |
+| <strong>Nombre:</strong> Fabián Alonso Reyes Trujillano |
+| <strong>Edad:</strong> 20 años |
+| <strong>Procedencia:</strong> San Martin de Porres |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
-| <strong>Resumen:</strong> XXXXXX |
-| <strong>Enlace de video:</strong> XXX |   
-| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+| <strong>Resumen:</strong> Fabián es un joven de 20 años que estudia Ingeniería de Software en la UPC y vive en San Martín de Porres. Realiza sus actividades principalmente en su laptop, y utiliza su celular cuando está fuera de casa. Aunque tiende a procrastinar debido a la distracción, trata de ser responsable y está trabajando en mejorar ese hábito. Se organiza usando Notion y a veces anota en un cuaderno físico. Fabián reconoce que tener muchas tareas pendientes lo hace sentir ansioso, pero las fechas límite lo motivan a actuar. Está interesado en apps de productividad que permitan ver el progreso mediante dashboards, ofrezcan recompensas simbólicas y notificaciones. Considera importante que una app se sincronice con sus dispositivos y lo ayude a mantenerse organizado. Estaría dispuesto a pagar por una aplicación si demuestra ser realmente útil. Usa principalmente navegadores como Chrome y ha probado otros como Brave y Opera. |
+| <strong>Enlace de video:</strong> XXXX |
+| <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/f61b8bef-edc2-43a1-b498-66c8299d3fb7" alt="Entrevista1" height="200"/> |
 
 &nbsp;
 
@@ -625,6 +634,31 @@ Para comprender mejor a nuestros usuarios objetivo, hemos desarrollado perfiles 
 ![Image](https://github.com/user-attachments/assets/29a3c9c7-c40a-4346-a7a1-31dd2c36a204)
 
 ### 2.3.2. User Task Matrix.
+En este cuadro, se presentan las tareas realizadas por los dos **User Personas**:  
+1. **Camila Torres** (Camila Torres).  
+2. **Andres Rivas** (Jóvenes profesionales).
+
+Cada fila muestra una tarea clave y su frecuencia e importancia para cada persona.
+
+| **Tareas**                                                                                  | **Camila Torres (Camila Torres)** |           | **Andres Rivas(Jóvenes profesionales)**          |           |
+|---------------------------------------------------------------------------------------------|-------------------|------------|-------------------|------------|
+|                                                                                             | **Frecuencia**    | **Importancia** | **Frecuencia**    | **Importancia** |
+| Crear un plan de productividad diario                                                       | Alta              | Alta       | Alta              | Baja       |
+| Establecer metas a largo plazo                                                              | Media             | Alta       | Media             | Alta       |
+| Registrar avances en el día a día                                                           | Alta              | Alta       | Alta              | Alta       |
+| Recibir notificaciones de recordatorios                                                     | Alta              | Alta       | Alta              | Alta       |
+| Agendar sesiones de descanso                                                                | Alta              | Media      | Alta              | Alta       |
+| Personalizar la interfaz de la app                                                          | Baja              | Media      | Baja              | Media       |
+| Revisar estadísticas de productividad                                                       | Media             | Media      | Media             | Alta       |
+| Establecer bloques de tiempo para tareas                                                    | Alta              | Alta       | Alta              | Alta       |
+| Sincronizar tareas con calendario                                                           | Media             | Alta       | Alta              | Alta       |
+| Establecer rutinas de bienestar emocional                                                   | Alta              | Alta       | Alta              | Alta       |
+| Crear tareas recurrentes                                                                    | Baja              | Media      | Media             | Media      |
+| MAnalizar patrones de productividad                                                         | Baja              | Media      | Alta              | Baja       |
+| Integrar con otras apps de productividad                                                    | Baja              | Media      | Baja              | Media      |
+| Establecer metas diarias personalizadas                                                     | Alta              | Alta       | Alta              | Alta       |
+| OHacer un análisis semanal de progreso | Baja                                               | Baja              | Media      | Baja              | Alta       |
+
 ## 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
@@ -818,5 +852,39 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 ![Container](assets/Container.png)
 ### 4.6.3. Software Architecture Components Diagrams.
 ![Component](assets/Component.png)
+## 4.7. Software Object-Oriented Design. 
+### 4.7.1. Class Diagrams. 
+### 4.7.2. Class Dictionary. 
+## 4.8. Database Design. 
+### 4.8.1. Database Diagram. 
+# V: Product Implementation, Validation & Deployment  
+## 5.1. Software Configuration Management. 
+### 5.1.1. Software Development Environment Configuration. 
+### 5.1.2. Source Code Management. 
+### 5.1.3. Source Code Style Guide & Conventions. 
+### 5.1.4. Software Deployment Configuration. 
+## 5.2. Landing Page, Services & Applications Implementation. 
+### 5.2.1. Sprint 1 
+#### 5.2.1.1. Sprint Planning 1
+El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
 
+| Sprint #                             | Sprint 1                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-04-22        |
+| Time           | 10:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Nelson Guerrero              |
+| Attendees (to planning meeting)| Milenio Huaman, Fatima Asmad, Elvert Vasquez, Ayrton Inga, Sebastian Tello                |
+| Sprint n - 1 Review Summary    | Este es el primer Sprint, por lo que este campo no aplica.                                            |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                       |
+| Sprint 1 Goal                  | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
+| Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  .                                            |
 
+#### 5.2.1.2. Aspect Leaders and Collaborators
+#### 5.2.1.3. Sprint Backlog 1
+#### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
