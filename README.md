@@ -276,18 +276,9 @@ Esta sección desarrolla la visión del modelo de negocio que soporta nuestra so
 
 #### 1.2.2.4. Lean UX Canvas
 
-[Tablero de Miro - Lean UX Canvas](https://miro.com/app/board/uXjVI_NGxCU=/?share_link_id=304749331451)
+El Lean UX Canvas es una herramienta que ayuda a definir y validar hipótesis sobre el producto de forma colaborativa y ágil. Permite alinear al equipo en torno al problema, los usuarios, sus necesidades y las soluciones propuestas, fomentando el aprendizaje continuo y la toma de decisiones basadas en evidencia. A continuación, se presenta el Lean UX Canvas aplicado al proyecto.
 
-| **N°** | **Elemento**                         | **Descripción** |
-|:------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | **Business Problem** (Problema de negocio) | La procrastinación académica y profesional afecta gravemente el rendimiento y bienestar emocional de estudiantes y jóvenes profesionales. Actualmente, existe una falta de herramientas digitales que aborden esta problemática combinando organización de metas, motivación emocional y bienestar personal, lo que mantiene altos los niveles de procrastinación. |
-| 5      | **Solution Ideas** (Ideas de solución) | - Creación de metas de hábito y metas diarias.<br>- Método Pomodoro y Flashcards.<br>- Meditación y relajación.<br>- Dashboard de progreso.<br>- Recompensas y frases motivacionales. |
-| 2      | **Business Outcomes** (Resultados de negocio) | - Aumentar la retención semanal de usuarios.<br>- Mejorar la tasa de cumplimiento de metas.<br>- Obtener datos de uso para iteraciones futuras. |
-| 3      | **Users and Customers** (Usuarios y clientes) | - Estudiantes universitarios (18 a 25 años).<br>- Jóvenes profesionales (22 a 30 años), trabajadores remotos o freelancers. |
-| 4      | **User Benefits** (Beneficios del usuario) | - Reducción de la procrastinación.<br>- Mayor sensación de logro.<br>- Desarrollo de hábitos positivos.<br>- Reducción del estrés y la ansiedad. |
-| 6      | **Hypotheses** (Hipótesis) | Creemos que integrar organización personal, motivación emocional y bienestar ayudará a reducir la procrastinación y mejorar la constancia. |
-| 7      | **What’s the most important thing we need to learn first?** (¿Qué necesitamos aprender primero?) | Saber cuál es el principal factor emocional que lleva a los usuarios a abandonar apps de productividad tradicionales. |
-| 8      | **What’s the least amount of work we need to do to learn the next most important thing?** (¿Cuál es el menor trabajo para validar?) | Lanzar un prototipo funcional que permita establecer metas, registrar avances y recibir frases motivacionales, testeándolo con 5 usuarios reales durante una semana. |
+![Image](https://github.com/user-attachments/assets/20306507-d534-4338-a222-03633cb4b7f6)
 
 ---
 ## 1.3. Segmentos Objetivo
