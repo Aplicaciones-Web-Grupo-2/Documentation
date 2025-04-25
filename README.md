@@ -205,32 +205,9 @@ La procrastinación impacta negativamente en el rendimiento académico y el bien
 - **How Much (¿Qué tan grave es el impacto?)**  
   Se estima que entre el 80% y el 95% de los estudiantes universitarios procrastinan, y aproximadamente el 50% lo hace de manera crónica ([Steel, 2007]; [Revista Científica de Sevilla, 2023]; [Repositorio Continental, 2020]).
 
+![Image](https://github.com/user-attachments/assets/f2798f88-1bde-469b-a15d-c7073a7f2f32)
 ---
 
-#### Puntos clave que debe resolver la solución
-
-- Proporcionar herramientas que permitan establecer y cumplir metas personales y académicas de manera estructurada.
-- Incorporar técnicas de gestión del tiempo, como el método Pomodoro, para mejorar concentración y eficiencia.
-- Ofrecer recursos de meditación y relajación que ayuden a disminuir los niveles de estrés y ansiedad.
-- Implementar un sistema de recompensas y niveles para motivar al usuario a mantener hábitos productivos.
-
----
-
-#### Objetivos del proyecto
-
-- Desarrollar una aplicación web que ayude a combatir la procrastinación mediante la planificación de tareas, métodos de estudio efectivos y recursos de bienestar emocional.
-- Fomentar la autorregulación emocional y la motivación intrínseca en los usuarios para mejorar su rendimiento académico y profesional.
-- Evaluar la efectividad de la aplicación en la reducción de la procrastinación y en el incremento del bienestar general de los usuarios.
-
----
-
-#### Restricciones del proyecto
-
-- La aplicación debe ser accesible y funcional en múltiples dispositivos y plataformas (responsive design).
-- Se debe proteger estrictamente la privacidad y los datos personales de los usuarios, cumpliendo con normativas vigentes.
-- El desarrollo debe realizarse en un tiempo limitado y priorizando las funcionalidades críticas para la validación inicial.
-
----
 ### 1.2.2 Lean UX Process.
 
 Esta sección desarrolla la visión del modelo de negocio que soporta nuestra solución, basado en el enfoque Lean UX. Se identifican los segmentos de clientes, sus principales necesidades (pain points), los vacíos actuales (gaps), la estrategia de valor, y el segmento inicial al que se enfocará la primera versión del producto. Además, se detallan los supuestos (assumptions) e hipótesis de diseño (hypothesis statements) que guiarán la validación del producto.
