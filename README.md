@@ -556,7 +556,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> La Molina, Lima |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
 | <strong>Resumen:</strong> Liz, una estudiante universitaria de 18 años que cursa Derecho en la UPC, se considera organizada pero tiende a procrastinar, especialmente cuando le falta motivación o presión. Usa un calendario académico y, a veces, el método Pomodoro, pero prefiere herramientas simples y funcionales. Se siente estresada y frustrada por la procrastinación, y su estrategia para iniciar tareas es dividirlas en partes pequeñas. Valora aplicaciones rápidas, visualmente atractivas y sin muchas notificaciones. Le parece útil la idea de un dashboard visual de progreso en TimeBloom, así como las recompensas simbólicas. Aceptaría pagar por la app si mejora su desempeño académico.|
-| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c245_upc_edu_pe/EfMFLBzK0FxLp8aQK6cduNUB-LL0zlQo3dn6grVk21SocQ?e=zGm9sp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c245_upc_edu_pe/EfMFLBzK0FxLp8aQK6cduNUB-LL0zlQo3dn6grVk21SocQ?e=IMgd2g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
+| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
 | <strong>Foto del entrevistado:</strong><br><img src="https://github.com/Milenioupc/SOBREMI/blob/696904b3e73c4735cb88635360bd0024ccfaddc1/Captura%20de%20pantalla%202025-04-24%20023334.png" alt="XXX" height="200"/> |
 
 &nbsp;
@@ -568,7 +568,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> San Martin de Porres |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
 | <strong>Resumen:</strong> Fabián es un joven de 20 años que estudia Ingeniería de Software en la UPC y vive en San Martín de Porres. Realiza sus actividades principalmente en su laptop, y utiliza su celular cuando está fuera de casa. Aunque tiende a procrastinar debido a la distracción, trata de ser responsable y está trabajando en mejorar ese hábito. Se organiza usando Notion y a veces anota en un cuaderno físico. Fabián reconoce que tener muchas tareas pendientes lo hace sentir ansioso, pero las fechas límite lo motivan a actuar. Está interesado en apps de productividad que permitan ver el progreso mediante dashboards, ofrezcan recompensas simbólicas y notificaciones. Considera importante que una app se sincronice con sus dispositivos y lo ayude a mantenerse organizado. Estaría dispuesto a pagar por una aplicación si demuestra ser realmente útil. Usa principalmente navegadores como Chrome y ha probado otros como Brave y Opera. |
-| <strong>Enlace de video:</strong> XXXX |
+| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
 | <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/f61b8bef-edc2-43a1-b498-66c8299d3fb7" alt="Entrevista1" height="200"/> |
 
 &nbsp;
@@ -580,7 +580,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> XX |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
 | <strong>Resumen:</strong> XXXXXX |
-| <strong>Enlace de video:</strong> XXXX |
+| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
 | <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
 
 &nbsp;
@@ -592,7 +592,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Chiclayo, Lambayeque |
 | <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
 | <strong>Resumen:</strong> Iván Lavado Vallejos es un joven de 20 años que estudia Ingeniería Civil y realiza prácticas en el consorcio JJ en Chiclayo, organiza sus actividades con agendas digitales en su laptop y celular. Aunque él reconoce que la procrastinación, especialmente en las mañanas, y las distracciones como el celular dificultan su enfoque, intenta combatirlas apagando el dispositivo durante tareas importantes. Usa métodos como escuchar música y meditar para manejar el estrés. Su motivación diaria es convertirse en un profesional exitoso. Está interesado en aplicaciones de productividad que ofrezcan estadísticas, retroalimentación y recompensas, y estaría dispuesto a pagar si estas funciones lo ayudan a mejorar. Usa principalmente laptop y celular con Windows e iOS. Iván no conoce muchas marcas de apps de productividad pero está dispuesto a explorar soluciones tecnológicas que lo ayuden a ser más eficiente. |
-| <strong>Enlace de video:</strong> XXXX |
+| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/entrevista_Ivan.png" alt="Entrevista Ivan" height="200"/> |
 
 &nbsp;
@@ -604,7 +604,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima, Lima Metropolitana, SJL |
 | <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
 | <strong>Resumen:</strong> La entrevistada, Antonella Silva, destaca su dificultad para mantener actividades en su vida privada debido a su rol como administradora y la alta carga de tareas que conlleva ese tipo de trabajo impidiendole realizar sus ejercicios para reducir estres. Nos comenta que la forma en la que trata de gestionar su productividad para tener mas tiempo privado es por medio de la creacion de horarios ya sea por excel o en una hoja fisica, pero continua buscando mas formas de lidiar con la falta de tiempo. Ademas nos menciona que, con respecto al uso de aplicaciones, es necesario que tenga una version movil y estaria dispuesta a pagar con tal de encontrar una aplicacion que sea dinamica y que principalmente le ayude en verdad a mejorar su productividad.|
-| <strong>Enlace de video:</strong> XXXX |
+| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
 | <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/ad965a4b-ed03-4df1-ae51-6b87abe807f2" alt="Antonella Silva" height="200"/> |
 
 &nbsp;
@@ -616,7 +616,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima, Lima Metropolitana, San Miguel |
 | <strong>Segmento:</strong> Jóvenes profesionales (22 a 30 años) |
 | <strong>Resumen:</strong> El entrevistado, Mario Pinedo, es un desarrollador web que trabaja de forma híbrida. Suele procrastinar tareas repetitivas o que requieren mucha concentración, especialmente cuando se siente abrumado o distraído. Ha usado herramientas como Pomodoro y Todoist, pero le cuesta ser constante por lo tedioso de configurarlas. Le interesaría una app sencilla que combine tareas, bienestar emocional y recompensas simbólicas como logros o niveles. También valora mensajes motivacionales, retroalimentación rápida y funciones que lo ayuden a dar el primer paso al comenzar sus tareas. |
-| <strong>Enlace de video:</strong> [Dar clic aquí](https://youtu.be/rHTrGCGv6i0) |
+| <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
 | <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/9dd3c22f-e2e0-47f1-8625-1549520e05a9" alt="Mario Pinedo del Río" height="200"/> |
 
 
