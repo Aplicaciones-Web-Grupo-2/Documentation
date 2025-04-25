@@ -427,11 +427,16 @@ Al combinar técnicas de gamificación con seguimiento concreto del progreso, la
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
-
-## Preguntas para el segmento Estudiates Universitarios
-
-### Objetivo: Entender la manera en que los estudiantes universitarios organizan su tiempo, conocer las razones por las cuales muchos de ellos sienten motivación/desmotivación para realizar sus actividades y que es lo que esperan de una herramienta que ayuda a combatir la procastinación
-
+#### Preguntas generales
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tienes?
+- ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?
+- ¿En qué ciudad resides?
+- ¿Qué navegador es el que usa con mayor frecuencia?
+- ¿Qué dispositivo utiliza con frecuencia para realizar tus actividades (móvil, laptop o pc) ? 
+- ¿Qué sistema operativo usa el dispositivo que más frecuentas?
+- ¿Qué aplicaciones o marcas reconoces que trabajen para ayudar a las personas a mejorar su productividad?
+#### Preguntas para el segmento Estudiates Universitarios
 - ¿Cómo sueles organizar tus tareas académicas? ¿ Usas alguna app o método en específico ?
 - ¿Qué tan seguido sueles dejar tus tareas para último momento? ¿A que crees que se deba eso?
 - ¿Qué herramientas digitales usas para organizar tus actividades?
@@ -446,10 +451,7 @@ Al combinar técnicas de gamificación con seguimiento concreto del progreso, la
 - ¿Qué te haría abandonar una app después de pocos días de usarla?
 - ¿Cómo te gustaría que se vea o sienta la app ideal para ayudarte a ser más productivo y sentirte mejor emocionalmente?
 - ¿Estarías dispuesto a pagar por una app que te ayude a mejorar tu productividad?
-
-
-## Preguntas para el segmento Jóvenes Profesionales 
-
+#### Preguntas para el segmento Jóvenes Profesionales 
 - ¿Cómo organizas tus actividades laborales y personales durante el día?
 - ¿Qué dificultades enfrentas para mantenerte enfocado o cumplir tus tareas?
 - ¿Qué aplicaciones o métodos usas actualmente para gestionar tu productividad?
@@ -464,20 +466,6 @@ Al combinar técnicas de gamificación con seguimiento concreto del progreso, la
 - ¿Te resulta interesante la idea de recibir estadísticas o retroalimentación sobre tu progreso?
 - ¿Qué opinas de tener un sistema de recompensas dentro de una app que premie tus logros diarios?
 - ¿Estarías dispuesto a pagar por una app que te ayude a mejorar tu productividad?
-
-## Preguntas generales
-
-- ¿Qué navegador es el que usa con mayor frecuencia?
-- ¿Qué dispositivo utiliza con frecuencia para realizar tus actividades (móvil, laptop o pc) ? 
-- ¿Qué sistema operativo usa el dispositivo que más frecuentas?
-- ¿A qué te dedicas?
-- ¿Donde vives actualmente?
-- ¿Cual es tu edad?
-- ¿Qué aplicaciones o marcas reconoces que trabajen para ayudar a las personas a mejorar su productividad?
-
-
-
-
 ### 2.2.2. Registro de entrevistas.
 En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: Estudiantes universitarios (18 a 25 años) y Jóvenes profesionales (22 a 30 años). El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación, enfocada en mejorar la productividad de nuestros usuarios.
 
