@@ -250,12 +250,35 @@ Esta sección desarrolla la visión del modelo de negocio que soporta nuestra so
 
 #### 1.2.2.2. Lean UX Assumptions
 
-- Asumimos que los estudiantes universitarios y jóvenes profesionales son conscientes de que procrastinan y buscan formas de mejorar su productividad personal.
-- Asumimos que la falta de motivación emocional es una de las principales razones por las cuales abandonan apps de productividad convencionales.
-- Asumimos que integrar técnicas de enfoque como el método Pomodoro y herramientas de bienestar como la meditación aumentará la constancia de uso de la app.
-- Asumimos que un sistema de recompensas basado en logros y niveles mantendrá a los usuarios más motivados a largo plazo.
-- Asumimos que mostrar estadísticas de progreso visual reforzará el sentido de avance y pertenencia, reduciendo la sensación de estancamiento.
-- Asumimos que los usuarios prefieren experiencias simples, visuales y emocionalmente positivas, antes que sistemas rígidos y únicamente técnicos.
+**¿Quiénes son nuestros usuarios?**
+
+Estudiantes universitarios (18-25 años) que buscan mejorar su concentración y administrar mejor su tiempo de estudio y Jóvenes profesionales (22-30 años) que trabajan de forma remota o híbrida y quieren maximizar su productividad diaria.
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Se usa durante sesiones de estudio o trabajo, especialmente en ambientes donde hay muchas distracciones (casa, coworkings, bibliotecas). Encaja como herramienta complementaria a planners, apps de calendario o listas de tareas.
+
+**¿Qué problema podría afrontar nuestro producto y cómo podemos resolverlo?**
+
+Problema: Les cuesta mantener la concentración durante periodos largos de trabajo.<br>
+Solución: TimeBloom aplica la técnica Pomodoro para dividir el tiempo en bloques productivos con pausas programadas. Además, motiva con un sistema de recompensas gamificado que refuerza el hábito de enfocarse.
+
+**¿Cuándo y cómo se utiliza?**
+
+Durante el horario de estudio o jornada laboral.El usuario inicia sesiones Pomodoro (25/5 o configurables), realiza una actividad específica y obtiene puntos o recompensas tras completar ciclos.
+
+**¿Qué características son importantes?**
+
+- Temporizador configurable con ciclos Pomodoro.
+- Sistema de recompensas/puntos por completar sesiones.
+- Historial o estadísticas de productividad.
+- Notificaciones y alertas para inicio/fin de sesiones.
+- UI clara, minimalista y sin distracciones.
+
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+- Visualmente: Interfaz limpia, moderna y motivadora (tipo dashboard gamificado).
+- Comportamiento: Fluido, con feedback inmediato al usuario (sonidos, animaciones suaves, insignias al ganar recompensas). Debe ser rápido de configurar y fácil de usar desde el primer momento.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
