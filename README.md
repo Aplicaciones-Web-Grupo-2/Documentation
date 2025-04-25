@@ -883,6 +883,17 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 | Sum of Story Points            | La suma de Story Points atendidos es de  .                                            |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Elvert Vasquez | ElvDev05  | L  | 
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  
+| Milenio Huaman   | Milenioupc    | C         | 
+| Ayrton Inga       | DamianIH     | C         |  
+| Sebastian Tello   | SRT0808 | C         | 
+| Nelson Guerrero   | Nelsoondev | C         | 
+
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
