@@ -332,6 +332,31 @@ Jóvenes egresados que inician su vida laboral en entornos flexibles o remotos. 
 ---
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+
+**FocusMate**<br>
+
+![Image](https://github.com/user-attachments/assets/22a7cb84-3b5e-422d-85a5-a74b5e51f940)
+
+FocusMate es una plataforma de productividad basada en la rendición de cuentas mediante sesiones de co-working virtual. Los usuarios se emparejan en línea con otra persona para trabajar en silencio durante intervalos de tiempo definidos, lo que promueve la concentración a través de la presencia mutua. Su propuesta de valor radica en combatir la procrastinación mediante el compromiso social y la estructura temporal.
+
+**Todoist**<br>
+
+![Image](https://github.com/user-attachments/assets/d65dc25b-0c82-4b66-a595-c1aa0e8f9ae9)
+
+Todoist es una de las aplicaciones más populares de gestión de tareas personales y profesionales. Su diseño minimalista y sus potentes funciones de organización (etiquetas, prioridades, recordatorios, proyectos compartidos) la convierten en una herramienta versátil para quienes buscan mantener el control sobre sus responsabilidades diarias. Aunque carece de elementos emocionales o motivacionales, se destaca por su eficiencia y escalabilidad.
+
+**Trello**<br>
+
+![Image](https://github.com/user-attachments/assets/d20c625b-50a1-491f-930f-265a00045f4a)
+
+Trello es una herramienta de gestión de proyectos visualmente intuitiva basada en el sistema Kanban. Es ampliamente utilizada en entornos colaborativos gracias a su estructura de tableros, listas y tarjetas personalizables. Trello permite a los equipos planificar, coordinar y ejecutar tareas de manera clara y visual, pero se enfoca más en la organización de flujos de trabajo que en la experiencia personal del usuario.
+
+**Forest**<br>
+
+![Image](https://github.com/user-attachments/assets/e291e870-f172-4890-bff5-09aa6788bad0)
+
+Forest es una aplicación que combina técnicas de enfoque con un estilo gamificado que premia la concentración. Cada vez que el usuario evita distracciones y se mantiene productivo, crece un árbol virtual; si interrumpe la sesión, el árbol muere. Esta metáfora ecológica convierte el tiempo de concentración en una experiencia visual y emocional, fomentando hábitos de trabajo sostenibles, especialmente entre usuarios jóvenes.
+
 ### 2.1.1. Análisis competitivo.
 
 <table>
