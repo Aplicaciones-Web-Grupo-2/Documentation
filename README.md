@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/63058690-0ee4-4109-89b7-32a02c9632cd)
 # Universidad Peruana de Ciencias Aplicadas
 
 <p align="center">
@@ -13,6 +13,8 @@
 **Grupo 2**
 
 **Team Members:**
+
+- Guerrero Tomas, Nelson Fabrizio **U202222745**
 - Vásquez Villalobos, Elverth Jair **U202213070**
 - Huaman Hinostroza, Milenio **U20211C245**
 - Asmad Padilla, Fatima **U20221B490**
