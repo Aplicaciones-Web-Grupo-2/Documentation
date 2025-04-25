@@ -1,17 +1,20 @@
-![Logo Upc](https://hackmd.io/_uploads/BJgbioEeC.png)
 
 # Universidad Peruana de Ciencias Aplicadas
 
-## Ingeniería de Sistemas y Computación | Ingeniería de Software
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94621a17-a510-4701-bef8-9e44adf81d30" alt="UPC Logo" width="200"/>
+</p>
 
-### APLICACIONES WEB
+### Carrera: Ingeniería de Software 
+### Ciclo: 2025-01
+### Curso: Aplicaciones Web  
+### Sección: 4424  
+### Profesor: Villafuerte Bazán, Óscar Iván 
 
-#### TF REPORT
+#### Informe del TB1
 
-**Nombre del Startup**
-   - BloomTech
-**Docente:**  
-   - Oscar Ivan Villafuerte Bazan
+**"BloomTech"**  
+**Producto: "TimeBloom"**
 
 **Grupo 2**
 
@@ -21,7 +24,40 @@
 - Asmad Padilla, Fatima **U20221B490**
 - Inga Hernandez, Ayrton **U201924756**
 - Ramirez Tello, Sebastian **U202316122**
+  
+**Abril, 2025**  
 
+**URL del proyecto:** [https://github.com/Aplicaciones-Web-Grupo-2](https://github.com/Aplicaciones-Web-Grupo-2)
+
+---
+
+## Registro de Versiones del Informe
+
+| Versión | Fecha       | Autor | Descripción |
+|---------|-------------|-------|-------------|
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+
+---
+
+## Project Report Collaboration Insights
+
+- **URL de la organización del proyecto:**  
+  [https://github.com/Aplicaciones-Web-Grupo-2](https://github.com/Aplicaciones-Web-Grupo-2)
+
+- **URL del repositorio del informe:**  
+  [https://github.com/Aplicaciones-Web-Grupo-2/Documentation](https://github.com/Aplicaciones-Web-Grupo-2/Documentation)
+
+---
 
 
 # CONTENIDO
@@ -108,8 +144,26 @@
          5.3.1. [Diseño de Entrevistas](#team-collaboration-insights-during-sprint)<br>
          5.3.2. [Registro de Entrevistas](#team-collaboration-insights-during-sprint)<br>
          5.3.3. [Evaluaciones según heurísticas](#team-collaboration-insights-during-sprint)<br>
-         5.4. [Video About-the-Product.](#team-collaboration-insights-during-sprint)
+         5.4. [Video About-the-Product.](#team-collaboration-insights-during-sprint)<br>
+[Conclusiones](#conclusiones)<br>
+  [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)<br>
+[Video About-the-Team](#video-about-the-team)<br>
+[Bibliografía](#bibliografía)<br>
+[Anexos](#anexos)<br>
 
+---
+
+**ABET – EAC - Student Outcome 5**  
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.  
+
+En el siguiente cuadro se describen las acciones realizadas y conclusiones del equipo que sustentan el logro del ABET - EAC - Student Outcome 3:
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+|                     |                     |              |
+|                     |                     |              |
+
+---
 
 
 # Capítulo I: Introducción
