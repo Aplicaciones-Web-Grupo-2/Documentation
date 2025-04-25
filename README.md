@@ -571,6 +571,31 @@ Para comprender mejor a nuestros usuarios objetivo, hemos desarrollado perfiles 
 ![Image](https://github.com/user-attachments/assets/29a3c9c7-c40a-4346-a7a1-31dd2c36a204)
 
 ### 2.3.2. User Task Matrix.
+En este cuadro, se presentan las tareas realizadas por los dos **User Personas**:  
+1. **Camila Torres** (Camila Torres).  
+2. **Andres Rivas** (Jóvenes profesionales).
+
+Cada fila muestra una tarea clave y su frecuencia e importancia para cada persona.
+
+| **Tareas**                                                                                  | **Camila Torres (Camila Torres)** |           | **Andres Rivas(Jóvenes profesionales)**          |           |
+|---------------------------------------------------------------------------------------------|-------------------|------------|-------------------|------------|
+|                                                                                             | **Frecuencia**    | **Importancia** | **Frecuencia**    | **Importancia** |
+| Crear un plan de productividad diario                                                       | Alta              | Alta       | Alta              | Baja       |
+| Establecer metas a largo plazo                                                              | Media             | Alta       | Media             | Alta       |
+| Registrar avances en el día a día                                                           | Alta              | Alta       | Alta              | Alta       |
+| Recibir notificaciones de recordatorios                                                     | Alta              | Alta       | Alta              | Alta       |
+| Agendar sesiones de descanso                                                                | Alta              | Media      | Alta              | Alta       |
+| Personalizar la interfaz de la app                                                          | Baja              | Media      | Baja              | Media       |
+| Revisar estadísticas de productividad                                                       | Media             | Media      | Media             | Alta       |
+| Establecer bloques de tiempo para tareas                                                    | Alta              | Alta       | Alta              | Alta       |
+| Sincronizar tareas con calendario                                                           | Media             | Alta       | Alta              | Alta       |
+| Establecer rutinas de bienestar emocional                                                   | Alta              | Alta       | Alta              | Alta       |
+| Crear tareas recurrentes                                                                    | Baja              | Media      | Media             | Media      |
+| MAnalizar patrones de productividad                                                         | Baja              | Media      | Alta              | Baja       |
+| Integrar con otras apps de productividad                                                    | Baja              | Media      | Baja              | Media      |
+| Establecer metas diarias personalizadas                                                     | Alta              | Alta       | Alta              | Alta       |
+| OHacer un análisis semanal de progreso | Baja                                               | Baja              | Media      | Baja              | Alta       |
+
 ## 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
