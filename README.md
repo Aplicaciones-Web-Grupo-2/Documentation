@@ -116,11 +116,20 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
-**TimeBloom** es una startup que surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación y el equilibrio emocional durante todo el proceso.
+**BloomTech** es una startup dedicada a la investigacion y solucion problemas como la baja productividad en jovenes y adultos.
 
-TimeBloom ofrece una aplicación web que integra múltiples funcionalidades: gestión de metas de hábito y del día, técnicas de estudio como el método Pomodoro, herramientas de meditación con sonidos relajantes o integración con Spotify, y un sistema de recompensas basado en niveles y puntos. Además, proporciona frases motivacionales, notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio, meditación y hábitos.
+Nuestra principal solución, **TimeBloom** esta surge para enfrentar uno de los problemas más comunes y perjudiciales en estudiantes y jóvenes profesionales: la procrastinación. Nuestro objetivo es ayudar a las personas a cumplir sus metas personales y profesionales, no solo organizándolas, sino también manteniendo la motivación durante todo el proceso.
 
-La visión de TimeBloom no es simplemente que los usuarios sean más productivos, sino que también se sientan mejor consigo mismos, aprendan a gestionar su energía mental y conviertan el avance en sus metas en un proceso gratificante y sostenible. Creemos que la verdadera productividad surge de la conexión entre el propósito personal y la acción diaria.
+TimeBloom es una plataforma digital que integra múltiples funcionalidades: gestión de metas y hábitos, técnicas de estudio como el método Pomodoro y un sistema de recompensas basado en niveles y puntos. Además, proporciona 
+notificaciones inteligentes y un dashboard visual que permite monitorear el progreso en áreas clave como estudio y gestion de hábitos hábitos.
+
+**Visión**
+
+Ser la plataforma líder en productividad consciente, donde las personas no solo logren más, sino que también  aprendan a gestionar su energía mental y encuentren satisfacción duradera en el camino hacia sus metas.
+
+**Misión**
+
+Empoderar a los usuarios a través de herramientas y experiencias que conecten su propósito personal con acciones diarias, promoviendo una productividad sostenible.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
