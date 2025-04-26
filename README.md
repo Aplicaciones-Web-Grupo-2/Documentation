@@ -672,30 +672,22 @@ Para comprender mejor a nuestros usuarios objetivo, hemos desarrollado perfiles 
 ![Image](https://github.com/user-attachments/assets/29a3c9c7-c40a-4346-a7a1-31dd2c36a204)
 
 ### 2.3.2. User Task Matrix.
-En este cuadro, se presentan las tareas realizadas por los dos **User Personas**:  
-1. **Camila Torres** (Estudiantes universitarios).  
-2. **Andres Rivas** (Jóvenes profesionales).
+El User Task Matrix es una herramienta que ayuda a visualizar qué actividades realizan nuestros usuarios, con qué frecuencia y cuán críticas son para su éxito. Esta técnica, también llamada matriz usuario-tarea, permite priorizar el esfuerzo de diseño y desarrollo hacia las funcionalidades de mayor impacto en la experiencia de usuario. Al cruzar la Frecuencia (“Always”, “Sometimes”, “Rarely”, “Never”) con la Importancia (“High”, “Medium”, “Low”), se identifica rápidamente qué tareas requieren un mayor grado de detalle y usabilidad.
 
-Cada fila muestra una tarea clave y su frecuencia e importancia para cada persona.
-
-| **Tareas**                                                                                  | **Camila Torres (Camila Torres)** |           | **Andres Rivas(Jóvenes profesionales)**          |           |
-|---------------------------------------------------------------------------------------------|-------------------|------------|-------------------|------------|
-|                                                                                             | **Frecuencia**    | **Importancia** | **Frecuencia**    | **Importancia** |
-| Crear un plan de productividad diario                                                       | Alta              | Alta       | Alta              | Baja       |
-| Establecer metas a largo plazo                                                              | Media             | Alta       | Media             | Alta       |
-| Registrar avances en el día a día                                                           | Alta              | Alta       | Alta              | Alta       |
-| Recibir notificaciones de recordatorios                                                     | Alta              | Alta       | Alta              | Alta       |
-| Agendar sesiones de descanso                                                                | Alta              | Media      | Alta              | Alta       |
-| Personalizar la interfaz de la app                                                          | Baja              | Media      | Baja              | Media       |
-| Revisar estadísticas de productividad                                                       | Media             | Media      | Media             | Alta       |
-| Establecer bloques de tiempo para tareas                                                    | Alta              | Alta       | Alta              | Alta       |
-| Sincronizar tareas con calendario                                                           | Media             | Alta       | Alta              | Alta       |
-| Establecer rutinas de bienestar emocional                                                   | Alta              | Alta       | Alta              | Alta       |
-| Crear tareas recurrentes                                                                    | Baja              | Media      | Media             | Media      |
-| MAnalizar patrones de productividad                                                         | Baja              | Media      | Alta              | Baja       |
-| Integrar con otras apps de productividad                                                    | Baja              | Media      | Baja              | Media      |
-| Establecer metas diarias personalizadas                                                     | Alta              | Alta       | Alta              | Alta       |
-| OHacer un análisis semanal de progreso | Baja                                               | Baja              | Media      | Baja              | Alta       |
+| Task                                                | Camila Frequency (USE 1) | Camila Importance (USE 1) | Andrés Frequency (USE 2) | Andrés Importance (USE 2) |
+|------------------------------------------------------|-----------------|------------------|------------------|-------------------|
+| 1. Definir metas principales y subtareas             | Sometimes       | High             | Sometimes        | High              |
+| 2. Dividir proyectos grandes en subtareas manejables | Sometimes       | High             | Sometimes        | High              |
+| 3. Planificar rutinas diarias (mañana, tarde, noche) | Sometimes       | Medium           | Sometimes        | Medium            |
+| 4. Marcar cumplimiento de hábitos/rutinas            | Always          | High             | Sometimes        | Medium            |
+| 5. Iniciar sesión Pomodoro                           | Always          | High             | Sometimes        | Medium            |
+| 6. Revisar flashcards durante descansos              | Sometimes       | Medium           | Rarely           | Low               |
+| 7. Consultar dashboard de progreso                   | Always          | High             | Always           | High              |
+| 8. Sincronizar eventos con Google Calendar           | Rarely          | Low              | Always           | High              |
+| 9. Configurar notificaciones inteligentes            | Always          | High             | Always           | High              |
+| 10. Reclamar recompensas (medallas, puntos)          | Sometimes       | Medium           | Sometimes        | Medium            |
+| 11. Compartir logros en redes o comunidad            | Rarely          | Low              | Sometimes        | Low               |
+| 12. Ajustar prioridades o reprogramar tareas         | Sometimes       | Medium           | Always           | High              |
 
 ### 2.3.3. User Journey Mapping.
  A través de este mapeo, identificamos cada etapa, pensamiento, emoción y necesidad que experimentan, desde el primer contacto hasta la adopción y uso continuo. Esta herramienta nos ayuda a detectar oportunidades de mejora, eliminar puntos de fricción y diseñar soluciones que realmente conecten con las expectativas y motivaciones de nuestros usuarios.
