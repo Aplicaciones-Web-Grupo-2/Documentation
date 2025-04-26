@@ -777,6 +777,8 @@ El Lenguaje Ubicuo establece un vocabulario común entre desarrolladores, diseñ
 ## 3.1. To-Be Scenario Mapping.
 En esta sección, presentamos la visión futura idealizada de la experiencia del usuario al interactuar con nuestro producto. A partir de los hallazgos en el análisis del escenario actual (As-Is Scenario Mapping), se identificaron oportunidades de mejora y se diseñaron nuevos flujos que optimizan la eficiencia, reducen la fricción y elevan la satisfacción del usuario. El To-Be Scenario Mapping sirve como guía para alinear las soluciones propuestas con las necesidades reales de nuestros segmentos objetivo, asegurando que cada interacción aporte valor de manera intuitiva, fluida y centrada en el usuario.
 
+Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente enlace [https://lucid.app/lucidspark/b0b3813f-5885-4036-b0c0-bd330983b0f1/edit?invitationId=inv_dd9b81e1-667b-4918-ae89-07f69ec231ac](https://lucid.app/lucidspark/b0b3813f-5885-4036-b0c0-bd330983b0f1/edit?invitationId=inv_dd9b81e1-667b-4918-ae89-07f69ec231ac)
+
 En esta seccion, se presenta un To-Be Scenario Mapp por cada **User Personas**:  
 
 1. **Camila Torres** (Estudiantes universitarios).
