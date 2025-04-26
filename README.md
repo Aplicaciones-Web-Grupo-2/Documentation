@@ -571,19 +571,19 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
 | <strong>Resumen:</strong> Fabián es un joven de 20 años que estudia Ingeniería de Software en la UPC y vive en San Martín de Porres. Realiza sus actividades principalmente en su laptop, y utiliza su celular cuando está fuera de casa. Aunque tiende a procrastinar debido a la distracción, trata de ser responsable y está trabajando en mejorar ese hábito. Se organiza usando Notion y a veces anota en un cuaderno físico. Fabián reconoce que tener muchas tareas pendientes lo hace sentir ansioso, pero las fechas límite lo motivan a actuar. Está interesado en apps de productividad que permitan ver el progreso mediante dashboards, ofrezcan recompensas simbólicas y notificaciones. Considera importante que una app se sincronice con sus dispositivos y lo ayude a mantenerse organizado. Estaría dispuesto a pagar por una aplicación si demuestra ser realmente útil. Usa principalmente navegadores como Chrome y ha probado otros como Brave y Opera. |
 | <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
-| <strong>Foto del entrevistado:</strong><br><img src="https://github.com/user-attachments/assets/f61b8bef-edc2-43a1-b498-66c8299d3fb7" alt="Entrevista1" height="200"/> |
+| <strong>Foto del entrevistado:</strong><br><img src="imagenes/entrevistas/436209854-f61b8bef-edc2-43a1-b498-66c8299d3fb7.png" alt="Entrevista2" height="200"/> |
 
 &nbsp;
 
 | **Entrevista 3** |
 |------------------|
-| <strong>Nombre:</strong> XXXXX |
-| <strong>Edad:</strong> XX |
-| <strong>Procedencia:</strong> XX |
+| <strong>Nombre:</strong> Gonzalo Quintanilla  |
+| <strong>Edad:</strong> 19 |
+| <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
-| <strong>Resumen:</strong> XXXXXX |
+| <strong>Resumen:</strong> Gonzalo es un joven de 19 años que estudia en la universidad y organiza sus actividades principalmente desde su laptop usando un Excel que él mismo programó, además de apoyarse en un blog de notas. No sigue un método estructurado, simplemente revisa sus pendientes y los marca al completarlos. Suele procrastinar cuando llega cansado, lo que lo lleva a aplazar tareas constantemente. Esta acumulación de pendientes le genera cansancio y sensación de agobio. Reconoce que las herramientas que usa no son las más adecuadas, pero las utiliza por practicidad. Le atrae la idea de una app con un dashboard que le muestre su progreso, ya que eso lo motivaría a seguir avanzando. También se sentiría más comprometido si la app ofreciera recompensas, logros o medallas. Valora que una aplicación sea dinámica, visualmente atractiva e intuitiva, y estaría dispuesto a pagar por una que realmente le ayude a mejorar su productividad. |
 | <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
-| <strong>Foto del entrevistado:</strong><br><img src="XXX" alt="XXX" height="200"/> |
+| <strong>Foto del entrevistado:</strong><br><img src="imagenes/entrevistas/Entrevista_Gonzalo_Quintanilla.png" alt="Entrevista3" height="200"/> |
 
 &nbsp;
 
