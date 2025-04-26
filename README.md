@@ -714,7 +714,7 @@ En esta seccion, se presenta un User Journey Mapping por por cada **User Persona
 
 Para comprender de manera más profunda a nuestros usuarios, hemos desarrollado un Empathy Map que nos permite visualizar lo que piensan, sienten, dicen y hacen. Esta herramienta nos ayuda a ponernos en su lugar, identificar sus necesidades reales, y descubrir oportunidades de mejora en nuestra propuesta de valor. A través de este proceso, buscamos construir una conexión más auténtica con nuestros usuarios y diseñar soluciones que realmente respondan a sus expectativas y desafíos.
 
-En esta seccion, se presenta un Empathy Mapping por por cada **User Personas**:  
+En esta seccion, se presenta un Empathy Mapping por cada **User Personas**:  
 
 1. **Camila Torres** (Estudiantes universitarios).
    
@@ -783,6 +783,18 @@ El Lenguaje Ubicuo establece un vocabulario común entre desarrolladores, diseñ
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
+En esta sección, presentamos la visión futura idealizada de la experiencia del usuario al interactuar con nuestro producto. A partir de los hallazgos en el análisis del escenario actual (As-Is Scenario Mapping), se identificaron oportunidades de mejora y se diseñaron nuevos flujos que optimizan la eficiencia, reducen la fricción y elevan la satisfacción del usuario. El To-Be Scenario Mapping sirve como guía para alinear las soluciones propuestas con las necesidades reales de nuestros segmentos objetivo, asegurando que cada interacción aporte valor de manera intuitiva, fluida y centrada en el usuario.
+
+En esta seccion, se presenta un To-Be Scenario Mapp por cada **User Personas**:  
+
+1. **Camila Torres** (Estudiantes universitarios).
+   
+   <img src="imagenes/diagramas/To-Be Scenario Mapping (web).png" alt="To-Be Scenario map1" />
+   
+2. **Andres Rivas** (Jóvenes profesionales).
+   
+  <img src="imagenes/diagramas/To-Be Scenario Mapping (web) (1).png" alt="To-Be Scenario map2" />
+  
 ## 3.2. User Stories.
 
 Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevistas realizadas a los segmentos de clientes, enfocándose en sus necesidades para mejorar la gestión del tiempo, reducir la procrastinación y fortalecer el bienestar emocional. Cada historia refleja los desafíos identificados y las soluciones o funcionalidades que la app debe ofrecer para ayudar a estudiantes universitarios y jóvenes profesionales a mantenerse enfocados, motivados y organizados en su vida diaria.
