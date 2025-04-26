@@ -673,7 +673,7 @@ Para comprender mejor a nuestros usuarios objetivo, hemos desarrollado perfiles 
 
 ### 2.3.2. User Task Matrix.
 En este cuadro, se presentan las tareas realizadas por los dos **User Personas**:  
-1. **Camila Torres** (Camila Torres).  
+1. **Camila Torres** (Estudiantes universitarios).  
 2. **Andres Rivas** (Jóvenes profesionales).
 
 Cada fila muestra una tarea clave y su frecuencia e importancia para cada persona.
@@ -697,7 +697,19 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 | Establecer metas diarias personalizadas                                                     | Alta              | Alta       | Alta              | Alta       |
 | OHacer un análisis semanal de progreso | Baja                                               | Baja              | Media      | Baja              | Alta       |
 
-## 2.3.3. User Journey Mapping.
+### 2.3.3. User Journey Mapping.
+ A través de este mapeo, identificamos cada etapa, pensamiento, emoción y necesidad que experimentan, desde el primer contacto hasta la adopción y uso continuo. Esta herramienta nos ayuda a detectar oportunidades de mejora, eliminar puntos de fricción y diseñar soluciones que realmente conecten con las expectativas y motivaciones de nuestros usuarios.
+
+Esta seccion, se presentan los  User Journey Mapping por los dos **User Personas**:  
+
+1. **Camila Torres** (Estudiantes universitarios).
+   
+   <img src="imagenes/diagramas/CJM for wealth advisor (1).png" alt="User Journey Mapping1" />
+   
+2. **Andres Rivas** (Jóvenes profesionales).
+   
+ <img src="imagenes/diagramas/CJM for wealth advisor (2).png" alt="User Journey Mapping2" />
+ 
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 
