@@ -696,12 +696,12 @@ El User Task Matrix es una herramienta que ayuda a visualizar qué actividades r
 En esta seccion, se presenta un User Journey Mapping por por cada **User Personas**:  
 
 1. **Camila Torres** (Estudiantes universitarios).
-   
-   <img src="imagenes/diagramas/CJM for wealth advisor (1).png" alt="User Journey Mapping1" />
+
+![Customer Journey Map Estudiantes](https://raw.githubusercontent.com/Aplicaciones-Web-Grupo-2/Documentation/refs/heads/develop/imagenes/diagramas/journey%20map%20user%201.png)
    
 2. **Andres Rivas** (Jóvenes profesionales).
-   
- <img src="imagenes/diagramas/CJM for wealth advisor (2).png" alt="User Journey Mapping2" />
+
+![Customer Journey Map Profesionales](https://raw.githubusercontent.com/Aplicaciones-Web-Grupo-2/Documentation/refs/heads/develop/imagenes/diagramas/journey%20map%20user%202.png)
  
 ### 2.3.4. Empathy Mapping.
 
