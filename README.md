@@ -623,6 +623,41 @@ En esta sección se documenta la recolección de información a través de entre
 
 
 ### 2.2.3. Análisis de entrevistas.
+
+En esta sección se presenta el análisis de las entrevistas realizadas a los usuarios objetivo de TimeBloom, con el fin de identificar patrones y características comunes en su experiencia con la productividad y las herramientas tecnológicas. A través de gráficos estadísticos, se visualizarán las principales preferencias y necesidades de los usuarios, permitiendo una comprensión más clara de sus expectativas respecto a las funcionalidades clave de la aplicación, como la simplicidad, la motivación, y las características visuales. Este análisis proporciona una base sólida para guiar el desarrollo y las decisiones estratégicas de la app.
+
+En el análisis de las entrevistas, la procrastinación aparece como un patrón dominante en ambos segmentos (universitarios y jóvenes profesionales). Los principales factores que la provocan son el cansancio, las distracciones (especialmente el uso del celular), la falta de presión externa y el tedio frente a tareas repetitivas o exigentes.
+
+<img src="imagenes/entrevistas/Estadistica_1.png" alt="Estadistica 1" height="350"/>
+
+La mayoría de los entrevistados usa herramientas simples y personalizadas como Excel, Notion o cuadernos físicos, aunque buscan métodos más efectivos. Prefieren aplicaciones visuales, intuitivas y fáciles de configurar, valorando la practicidad. Esto indica una oportunidad para ofrecer una herramienta centralizada, visual y fácil de usar, sin una curva de aprendizaje elevada.
+
+<img src="imagenes/entrevistas/Estadistica_2.png" alt="Estadistica 2" height="350"/>
+
+<img src="imagenes/entrevistas/Estadistica_3.png" alt="Estadistica 3" height="350"/>
+
+La mayoría de los entrevistados valora contar con un dashboard visual, ya que ver su progreso les motiva y les ayuda a mantenerse enfocados. Esta preferencia es común tanto en universitarios como en jóvenes profesionales.
+
+<img src="imagenes/entrevistas/Estadistica_4.png" alt="Estadistica 4" height="350"/>
+
+La mayoría de los entrevistados ven las recompensas simbólicas como un fuerte motivador para mantenerse productivos. Logros, medallas y niveles son percibidos como estímulos positivos, indicando que la gamificación puede ser clave para aumentar el compromiso con la app.
+
+<img src="imagenes/entrevistas/Estadistica_5.png" alt="Estadistica 5" height="350"/>
+
+Todos los entrevistados usan laptop y celular, y valoran que las apps de productividad puedan sincronizarse entre ambos para facilitar su organización diaria.
+
+<img src="imagenes/entrevistas/Estadistica_6.png" alt="Estadistica 6" height="350"/>
+
+<img src="imagenes/entrevistas/Estadistica_7.png" alt="Estadistica 7" height="350"/>
+
+Las emociones asociadas a la productividad incluyen estrés, ansiedad y frustración, principalmente por la procrastinación y la carga de tareas. Sin embargo, herramientas que muestren el progreso visual y ofrezcan recompensas simbólicas podrían reducir estas emociones, generando motivación y satisfacción al completar tareas.
+
+<img src="imagenes/entrevistas/Estadistica_8.png" alt="Estadistica 8" height="350"/>
+
+Los entrevistados valoran aplicaciones simples, visualmente atractivas y con un dashboard para seguir su progreso. La gamificación, como recompensas y logros, es importante, al igual que los mensajes motivacionales y la retroalimentación rápida para mantener la productividad y la motivación.
+
+<img src="imagenes/entrevistas/Estadistica_9.png" alt="Estadistica 9" height="350"/>
+
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
 
