@@ -1,7 +1,7 @@
 # Universidad Peruana de Ciencias Aplicadas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94621a17-a510-4701-bef8-9e44adf81d30" alt="UPC Logo" width="200"/>
+  <img src="imagenes/estudiantesPerfil/436310273-94621a17-a510-4701-bef8-9e44adf81d30.png" alt="UPC Logo" width="200"/>
 </p>
 
 ### Carrera: Ingeniería de Software  
@@ -187,7 +187,7 @@ Empoderar a los usuarios a través de herramientas y experiencias que conecten s
 ---
 
 #### **Fatima Andrea Asmad Padilla – Ingeniería de Software – U20221B490**  
-<img src="https://github.com/user-attachments/assets/e5bb3149-5856-49e3-aa0b-297cedcfe94c" alt="Fatima Asmad" height="200"/>
+<img src="imagenes/estudiantesPerfil/435132321-e5bb3149-5856-49e3-aa0b-297cedcfe94c.jpg" alt="Fatima Asmad" height="200"/>
 
 Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada tarea que realizo, buscando siempre dar lo mejor de mí en cualquier proyecto o actividad asignada. Actualmente curso el sexto ciclo de la carrera de Ingeniería de Software, lo cual me ha permitido adquirir una base sólida en distintas áreas del desarrollo tecnológico.
 
@@ -264,7 +264,8 @@ La procrastinación impacta negativamente en el rendimiento académico y el bien
 - **How Much (¿Qué tan grave es el impacto?)**  
   Se estima que entre el 80% y el 95% de los estudiantes universitarios procrastinan, y aproximadamente el 50% lo hace de manera crónica ([Steel, 2007]; [Revista Científica de Sevilla, 2023]; [Repositorio Continental, 2020]).
 
-![Image](https://github.com/user-attachments/assets/f2798f88-1bde-469b-a15d-c7073a7f2f32)
+<img src="imagenes/diagramas/437505640-f2798f88-1bde-469b-a15d-c7073a7f2f32.png" alt="5W Y 2H"/>
+
 ---
 
 ### 1.2.2 Lean UX Process.
@@ -341,7 +342,7 @@ Durante el horario de estudio o jornada laboral.El usuario inicia sesiones Pomod
 
 El Lean UX Canvas es una herramienta que ayuda a definir y validar hipótesis sobre el producto de forma colaborativa y ágil. Permite alinear al equipo en torno al problema, los usuarios, sus necesidades y las soluciones propuestas, fomentando el aprendizaje continuo y la toma de decisiones basadas en evidencia. A continuación, se presenta el Lean UX Canvas aplicado al proyecto.
 
-![Image](https://github.com/user-attachments/assets/20306507-d534-4338-a222-03633cb4b7f6)
+<img src="imagenes/diagramas/437527246-20306507-d534-4338-a222-03633cb4b7f6.png" alt="Lean UX Canvas"/>
 
 ---
 ## 1.3. Segmentos Objetivo
@@ -390,25 +391,25 @@ Jóvenes egresados que inician su vida laboral en entornos flexibles o remotos. 
 
 **FocusMate**<br>
 
-![Image](https://github.com/user-attachments/assets/22a7cb84-3b5e-422d-85a5-a74b5e51f940)
+<img src="imagenes/diagramas/437530725-22a7cb84-3b5e-422d-85a5-a74b5e51f940.png" alt="Competidor 1" height="200"/>
 
 FocusMate es una plataforma de productividad basada en la rendición de cuentas mediante sesiones de co-working virtual. Los usuarios se emparejan en línea con otra persona para trabajar en silencio durante intervalos de tiempo definidos, lo que promueve la concentración a través de la presencia mutua. Su propuesta de valor radica en combatir la procrastinación mediante el compromiso social y la estructura temporal.
 
 **Todoist**<br>
 
-![Image](https://github.com/user-attachments/assets/d65dc25b-0c82-4b66-a595-c1aa0e8f9ae9)
+<img src="imagenes/diagramas/437530858-d65dc25b-0c82-4b66-a595-c1aa0e8f9ae9.png" alt="Competidor 2" height="200"/>
 
 Todoist es una de las aplicaciones más populares de gestión de tareas personales y profesionales. Su diseño minimalista y sus potentes funciones de organización (etiquetas, prioridades, recordatorios, proyectos compartidos) la convierten en una herramienta versátil para quienes buscan mantener el control sobre sus responsabilidades diarias. Aunque carece de elementos emocionales o motivacionales, se destaca por su eficiencia y escalabilidad.
 
 **Trello**<br>
 
-![Image](https://github.com/user-attachments/assets/d20c625b-50a1-491f-930f-265a00045f4a)
+<img src="imagenes/diagramas/437531046-d20c625b-50a1-491f-930f-265a00045f4a.png" alt="Competidor 3" height="200"/>
 
 Trello es una herramienta de gestión de proyectos visualmente intuitiva basada en el sistema Kanban. Es ampliamente utilizada en entornos colaborativos gracias a su estructura de tableros, listas y tarjetas personalizables. Trello permite a los equipos planificar, coordinar y ejecutar tareas de manera clara y visual, pero se enfoca más en la organización de flujos de trabajo que en la experiencia personal del usuario.
 
 **Forest**<br>
 
-![Image](https://github.com/user-attachments/assets/e291e870-f172-4890-bff5-09aa6788bad0)
+<img src="imagenes/diagramas/437531418-e291e870-f172-4890-bff5-09aa6788bad0.jpg" alt="Competidor 3" height="200"/>
 
 Forest es una aplicación que combina técnicas de enfoque con un estilo gamificado que premia la concentración. Cada vez que el usuario evita distracciones y se mantiene productivo, crece un árbol virtual; si interrumpe la sesión, el árbol muere. Esta metáfora ecológica convierte el tiempo de concentración en una experiencia visual y emocional, fomentando hábitos de trabajo sostenibles, especialmente entre usuarios jóvenes.
 
@@ -665,11 +666,11 @@ Para comprender mejor a nuestros usuarios objetivo, hemos desarrollado perfiles 
 
 ##### Segmento principal: Estudiantes universitarios (18 a 25 años)
 
-![Image](https://github.com/user-attachments/assets/fa51535e-f641-487d-827e-e721bff115a9)
+<img src="imagenes/diagramas/435109578-fa51535e-f641-487d-827e-e721bff115a9.png" alt="User Persona 1"/>
 
 ##### Segmento secundario: Jóvenes profesionales (22 a 30 años)
 
-![Image](https://github.com/user-attachments/assets/29a3c9c7-c40a-4346-a7a1-31dd2c36a204)
+<img src="imagenes/diagramas/435109933-29a3c9c7-c40a-4346-a7a1-31dd2c36a204.png" alt="User Persona 2"/>
 
 ### 2.3.2. User Task Matrix.
 El User Task Matrix es una herramienta que ayuda a visualizar qué actividades realizan nuestros usuarios, con qué frecuencia y cuán críticas son para su éxito. Esta técnica, también llamada matriz usuario-tarea, permite priorizar el esfuerzo de diseño y desarrollo hacia las funcionalidades de mayor impacto en la experiencia de usuario. Al cruzar la Frecuencia (“Always”, “Sometimes”, “Rarely”, “Never”) con la Importancia (“High”, “Medium”, “Low”), se identifica rápidamente qué tareas requieren un mayor grado de detalle y usabilidad.
@@ -726,14 +727,14 @@ Figura :
 
 User Persona 1: Estudiantes Universitarios - Gestión del Tiempo
 
-![Image](https://github.com/user-attachments/assets/4606088d-0d59-40d2-b69d-b186e3204eff)
+<img src="imagenes/diagramas/435116017-4606088d-0d59-40d2-b69d-b186e3204eff.png" alt="As-Is1" />
 Nota: Este mapeo describe las experiencias actuales de los Estudiantes Universitarios en su busqueda de gestionar su tiempo.
 
 Figura :
 
 User Persona 2: Jóvenes Profesionales - Manejo de Distracciones
 
-![Image](https://github.com/user-attachments/assets/03def514-b141-4497-a0c7-f62bcd33f8a2)
+<img src="imagenes/diagramas/435116372-03def514-b141-4497-a0c7-f62bcd33f8a2.png" alt="As-Is2" />
 Nota: Este mapeo describe las experiencias actuales de los Jóvenes Profesionales en su manejo de distracciones.
 
 ## 2.4. Ubiquitous Language.
