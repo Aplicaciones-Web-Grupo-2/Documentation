@@ -700,7 +700,7 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 ### 2.3.3. User Journey Mapping.
  A través de este mapeo, identificamos cada etapa, pensamiento, emoción y necesidad que experimentan, desde el primer contacto hasta la adopción y uso continuo. Esta herramienta nos ayuda a detectar oportunidades de mejora, eliminar puntos de fricción y diseñar soluciones que realmente conecten con las expectativas y motivaciones de nuestros usuarios.
 
-Esta seccion, se presentan los  User Journey Mapping por los dos **User Personas**:  
+En esta seccion, se presenta un User Journey Mapping por por cada **User Personas**:  
 
 1. **Camila Torres** (Estudiantes universitarios).
    
@@ -711,6 +711,19 @@ Esta seccion, se presentan los  User Journey Mapping por los dos **User Personas
  <img src="imagenes/diagramas/CJM for wealth advisor (2).png" alt="User Journey Mapping2" />
  
 ### 2.3.4. Empathy Mapping.
+
+Para comprender de manera más profunda a nuestros usuarios, hemos desarrollado un Empathy Map que nos permite visualizar lo que piensan, sienten, dicen y hacen. Esta herramienta nos ayuda a ponernos en su lugar, identificar sus necesidades reales, y descubrir oportunidades de mejora en nuestra propuesta de valor. A través de este proceso, buscamos construir una conexión más auténtica con nuestros usuarios y diseñar soluciones que realmente respondan a sus expectativas y desafíos.
+
+En esta seccion, se presenta un Empathy Mapping por por cada **User Personas**:  
+
+1. **Camila Torres** (Estudiantes universitarios).
+   
+   <img src="imagenes/diagramas/Empathy map (1).png" alt="Empathy Map1" />
+   
+2. **Andres Rivas** (Jóvenes profesionales).
+   
+ <img src="imagenes/diagramas/Empathy map (2).png" alt="Empathy Map2" />
+ 
 ### 2.3.5. As-is Scenario Mapping.
 
 Para comprender mejor las necesidades, frustraciones y comportamientos de nuestros usuarios objetivo, hemos desarrollado un As-Is Scenario Mapping. Esta herramienta nos permite visualizar cómo interactúan actualmente con soluciones existentes (o la ausencia de ellas), identificando los puntos de dolor y oportunidades de mejora.
