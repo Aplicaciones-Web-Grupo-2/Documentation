@@ -218,8 +218,7 @@ Dentro del equipo BloomTech, aporto en la planificación de funcionalidades, el 
 ---
 
 #### **Sebastian Ramirez Tello – Ingeniería de Software – U202316122**  
-<img src="![image](https://github.com/user-attachments/assets/9f400ea1-a947-469b-84ab-fd2459afc902)
-" alt="Sebastian Ramirez" height="200"/>
+<img src="https://github.com/user-attachments/assets/9f400ea1-a947-469b-84ab-fd2459afc902" alt="Sebastian Ramirez" height="200"/>
 
 Me llamo Sebastián Ramírez, y estoy cursando el 5to ciclo de Ingeniería de Software. Me considero una persona que se destaca en el trabajo en equipo. Me adapto rápidamente a nuevas situaciones y aprendo con facilidad, lo que me permite enfrentar desafíos con confianza. Valoro mucho el respeto y la cooperación en un entorno de equipo, y siempre busco contribuir a un ambiente positivo.
 
@@ -865,7 +864,7 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 
 ## 3.3. Impact Mapping.
 
-![image](https://github.com/user-attachments/assets/edabcf18-ce0a-4fcc-a4f2-0d472328d9e3)
+![Impact map 1](https://github.com/user-attachments/assets/68b0cddd-a262-410d-9f09-92cf6ec7c3a1)
 
 
 ## 3.4. Product Backlog.
