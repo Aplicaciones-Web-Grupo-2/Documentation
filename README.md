@@ -1190,10 +1190,156 @@ Oportunidades de implementacion de búsqueda:
 ![DbDiagram](./assets/diagrama_db.png)
 
 # V: Product Implementation, Validation & Deployment  
-## 5.1. Software Configuration Management. 
-### 5.1.1. Software Development Environment Configuration. 
-### 5.1.2. Source Code Management. 
+## 5.1. Software Configuration Management.
+En este apartado se establecen los lineamientos y procedimientos adoptados durante el desarrollo y publicación del sitio web de TimeBloom, con el propósito de asegurar la coherencia y estabilidad del software desde sus primeras etapas hasta su implementación y posterior mantenimiento.
+### 5.1.1. Software Development Environment Configuration.
+
+*Project Management*
+
+Para una gestión eficiente del proyecto, se hizo necesaria la implementación de un conjunto de herramientas destinadas a la asignación de tareas, la facilitación de reuniones y la colaboración entre los integrantes. Asimismo, se empleó un repositorio centralizado para consolidar los avances de manera coordinada. A continuación, se presentan las plataformas seleccionadas junto con su respectivo propósito dentro del marco del proyecto.
+
+- Centro de organización de trabajo: Github
+- Planificación de tareas: Trello
+- Reuniones de equipo: Google Meet
+- Coordinación grupal: WhatsApp
+
+*Requirement Management*
+
+Durante el desarrollo del proyecto se recurrió a diversas herramientas que facilitaron la definición, análisis y representación visual de los requerimientos técnicos y funcionales. Estas plataformas promovieron una planificación estructurada y una mayor claridad en el diseño conceptual del sistema:
+
+| Herramienta | Descripción | Enlace |
+|-------------|-------------|--------|
+| Trello | Herramienta de organización de proyectos basada en tableros y tarjetas, empleada para distribuir tareas entre los miembros del equipo y hacer seguimiento al progreso de cada fase del desarrollo. | [trello.com](https://trello.com) |
+| Uxpressia | Aplicación digital utilizada para el diseño de mapas estratégicos, como Impact Mapping, lo cual permitió vincular los objetivos del negocio con las funcionalidades del producto de forma clara y visual. | [uxpressia.com](https://uxpressia.com) |
+| Structurizr | Plataforma de modelado arquitectónico que facilita la construcción de diagramas C4, permitiendo representar la estructura lógica del sistema y su interacción entre componentes de manera estandarizada. | [structurizr.com](https://structurizr.com) |
+| Lucidchart | Entorno colaborativo de diagramación empleado para desarrollar modelos técnicos como diagramas de clases y estructuras de bases de datos, fundamentales en la definición de la arquitectura del sistema. | [lucidchart.com](https://lucidchart.com) |
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Product UX/UI Design*
+
+El diseño de la experiencia de usuario y de la interfaz visual se abordó mediante herramientas especializadas que posibilitaron la creación de prototipos gráficos y esquemas de navegación. Esto permitió validar la estructura de la aplicación antes de su implementación:
+
+| Herramienta | Descripción | Enlace |
+|-------------|-------------|--------|
+| Figma | Plataforma de diseño colaborativo en línea que permitió a los miembros del equipo crear y editar en tiempo real wireframes y mockups, asegurando la coherencia visual y funcional de la landing page. | [figma.com](https://figma.com) |
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Software Development*
+
+Para el desarrollo de la página web, se emplearon lenguajes de programación y etiquetado esenciales para crear la estructura, el diseño y las funcionalidades del sistema. A continuación, se describen las herramientas utilizadas:
+
+| Herramienta | Descripción | Enlace |
+|-------------|-------------|--------|
+| HTML | Lenguaje de marcado fundamental para estructurar el contenido y la disposición de los elementos en la web. | [HTML](https://www.w3schools.com/html/default.asp) |
+| CSS | Lenguaje de diseño que permite aplicar estilos visuales a los elementos estructurados en HTML, mejorando su presentación. | [CSS](https://www.w3schools.com/css/default.asp) |
+| JavaScript | Lenguaje de programación orientado a objetos utilizado para agregar interactividad y funcionalidades dinámicas a la página web. | [JavaScript](https://www.w3schools.com/js/default.asp) |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Software Documentation*
+
+La gestión y documentación del proyecto se llevó a cabo utilizando herramientas que facilitaron la organización y el acceso a la información técnica, asegurando la transparencia y la trazabilidad del desarrollo:
+
+| Herramienta | Descripción | Enlace |
+|-------------|-------------|--------|
+| GitHub | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](http://github.com/) |
+| Markdown | Formato de texto ligero utilizado para escribir y estructurar la documentación técnica del proyecto de forma clara y legible. | [markdown](https://markdown.es/) |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Software Deployment*
+
+Para el despliegue de la landing page, se optó por una plataforma de hosting que permite la publicación directa desde un repositorio de GitHub, garantizando una gestión eficiente del ciclo de vida de la aplicación:
+
+| Herramienta | Descripción | Enlace |
+|-------------|-------------|--------|
+| GitHub Pages | Servicio de GitHub que permite desplegar la aplicación directamente desde el repositorio, facilitando la visualización pública de la página. | [GitHub Pages](https://pages.github.com/) |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 5.1.2. Source Code Management.
+
 ### 5.1.3. Source Code Style Guide & Conventions. 
+
+HTML
+
+Durante la construcción de la estructura del sitio, se adoptaron las siguientes buenas prácticas para asegurar accesibilidad y organización:
+
+- Escribir todas las etiquetas en minúsculas.
+- Asegurar el cierre correcto de todos los elementos.
+- Mantener los atributos en minúscula.
+- Incluir `alt`, `width` y `height` en imágenes para accesibilidad y control visual.
+- Evitar espacios innecesarios dentro de las etiquetas.
+
+Ejemplo de imagen:
+
+```html
+<img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
+```
+Etiquetas HTML utilizadas:
+
+```html
+<header>, <nav>, <div>, <img>, <ul>, <li>, <a>, <p>, <button>, <h1>, <h2>, <h3>, <h4>
+```
+--------------------------------------------------------------------------------------------
+
+CSS
+
+Para mantener consistencia en el diseño y facilitar la lectura del código, se aplicaron las siguientes reglas:
+
+- Usar nombres de clases e IDs que sean descriptivos y semánticos.
+- Elegir nombres breves pero comprensibles.
+```CSS
+#gallery {}
+.video {}
+```
+- Usar propiedades abreviadas siempre que sea posible para mantener el código compacto.
+```CSS
+padding: 0 1em 2em;
+```
+- No utilizar unidades en valores cero.
+```CSS
+margin: 0;
+padding: 0;
+```
+- Ordenar las propiedades alfabéticamente para facilitar el escaneo visual.
+```CSS
+background: fuchsia;
+border: 1px solid;
+border-radius: 4px;
+color: black;
+text-align: center;
+text-indent: 2em;
+```
+-------------------------------------------------------------------------------------
+JavaScript
+
+Para lograr un código más claro y mantenible, se establecieron las siguientes prácticas de codificación:
+- Utilizar funciones con llaves bien estructuradas.
+```JavaScript
+function myFunc() {
+  console.log('Hello!');
+}
+```
+- Usar lowerCamelCase para declarar variables.
+```JavaScript
+let playerScore = 0;
+```
+- Preferir el uso de let y const sobre var.
+```JavaScript
+const myName = 'Chris';
+let myAge = 40;
+myAge++;
+console.log(myAge);
+```
+- Nombrar las funciones también siguiendo la convención lowerCamelCase.
+```JavaScript
+function sayHello() {
+  alert('Hello!');
+}
+```
 ### 5.1.4. Software Deployment Configuration. 
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint 1 
