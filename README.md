@@ -1091,6 +1091,7 @@ Esta sección presenta los wireframes de nuestra Startup, diseñados aplicando p
 Se prioriza una arquitectura de información clara y herramientas especializadas para garantizar una experiencia de usuario fluida y eficiente.
 
 <img src="imagenes/UIdesigns/Wireflow Diagrams.png" alt="Wireflow Diagrams" />
+[FIGMA](https://www.figma.com/design/d0Sli9JvzTQ1D3KAfiZ5j3/Untitled?node-id=14-1166&t=TtypjMW7nooE7PlE-1)
 
 ### 4.4.2. Web Applications Mock-ups.
 
@@ -1121,9 +1122,14 @@ Se prioriza una arquitectura de información clara y herramientas especializadas
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-
+**User Flow Diagrams:**
+<img src="imagenes/UIdesigns/Mockup flow.png" alt="User Flow Diagrams" />
+[FIGMA](https://www.figma.com/design/d0Sli9JvzTQ1D3KAfiZ5j3/Untitled?node-id=14-1166&t=TtypjMW7nooE7PlE-1)
 
 ## 4.5. Web Applications Prototyping.
+
+
+
 ## 4.6. Domain Driven Software Arquitecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ![Context](assets/SystemContext.png)
