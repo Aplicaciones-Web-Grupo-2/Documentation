@@ -32,17 +32,10 @@
 
 | Versión | Fecha       | Autor | Descripción |
 |---------|-------------|-------|-------------|
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 17/04/2025  |  Nelson Guerrero Tomas, Elverth Vásquez Villalobos, Milenio Huaman Hinostroza, Fatima Asmad Padilla, Ayrton Inga Hernandez, Sebastian Ramirez Tello | Desarrollo del capitulo 1 y 2 |
+| TB1     | 24/04/2025  | Nelson Guerrero Tomas, Elverth Vásquez Villalobos, Milenio Huaman Hinostroza, Fatima Asmad Padilla, Ayrton Inga Hernandez, Sebastian Ramirez Tello | Desarrollo del capitulo 3 |
+| TB1     | 26/04/2025  | Fatima Asmad Padilla, Nelson Guerrero Tomas | Correcciones del capitulo 1, 2 y 3 |
+| TB1     | 27/04/2025  | Nelson Guerrero Tomas, Elverth Vásquez Villalobos, Milenio Huaman Hinostroza, Fatima Asmad Padilla, Ayrton Inga Hernandez, Sebastian Ramirez Tello | Desarrollo del capitulo 4 y 5 |
 
 ---
 
@@ -153,7 +146,7 @@
 **ABET – EAC - Student Outcome 5**  
 **Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.  
 
-En el siguiente cuadro se describen las acciones realizadas y conclusiones del equipo que sustentan el logro del ABET - EAC - Student Outcome 3:
+En el siguiente cuadro se describen las acciones realizadas y conclusiones del equipo que sustentan el logro del ABET - EAC - Student Outcome 5:
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
