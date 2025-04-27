@@ -1380,3 +1380,29 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend 
 La creación de la documentación se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## Conclusiones
+### Conclusiones y recomendaciones
+
+* **Conclusiónes:**
+1. **Problema real y vigente:**
+   La desconexión y falta de comunicación sobre la productividad y bienestar emocional entre estudiantes y jóvenes profesionales afecta su rendimiento y salud.
+2. **Solución alineada a las necesidades del usuario:**
+   TimeBloom ofrece herramientas personalizadas para organizar tareas y fomentar el bienestar emocional, mejorando la eficiencia de estudiantes y jóvenes profesionales.
+3. **Alta viabilidad tecnológica:**
+   El acceso a smartphones y conectividad en Lima garantiza que la aplicación sea fácilmente adoptada por los usuarios.
+4. **Impacto potencial alto:**
+   TimeBloom puede mejorar la productividad y reducir el estrés, favoreciendo el bienestar académico y profesional de los usuarios.
+
+* **Recomendaciónes:**
+1. **Incluir un módulo de accesibilidad y soporte técnico:**
+   Agregar opciones como lectura fácil, notificaciones por WhatsApp y soporte técnico para garantizar accesibilidad.
+2. **Insentivar el uso de la aplicación para el personal:**
+   Implementar logros o recompensas para motivar el uso constante de la aplicación.
+3. **Expandirlo de manera progresiva:**
+   Comenzar en universidades y empresas tecnológicas y expandir gradualmente a zonas con menor conectividad.
+
+## Bibliografía
+
+
+## Anexos
