@@ -1524,12 +1524,15 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 
 | Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
 |-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
-|  |  |    |  |     |  |
-|  |  |    |  |     |  |
-|  |  |    |  |     |  |
-|  |  |    |  |     |  |
-|  |  |    |  |     |  |
-|  |  |    |  |     |  |
+| LandingPage | main | 3c743d2 | Initial commit |     | 26/04/2025 |
+| LandingPage | main | 3c743d2…1204b17 | docs(readme):Create images |     | 26/04/2025 |
+| LandingPage | main | 1204b17…57e7260 | docs(fix):subir landing page |     | 26/04/2025 |
+| LandingPage | main | 57e7260…8e55abf | docs(imagenes): Subir imagen del landing page |     | 26/04/2025 |
+| LandingPage | main | 8e55abf…c92ae4d | docs(imagenes): subir imagen de mockup |     | 26/04/2025 |
+| LandingPage | main | c92ae4d…af86bf3 | Inicializa proyecto landinpage |     | 26/04/2025 |
+| LandingPage | main | af86bf3…d6e40d8  | Delete(file) BloomTech/BloomTech directory |     | 26/04/2025 |
+| LandingPage | main | d6e40d8…5f5b866 | fix(main): Merge remote changes into main |     | 26/04/2025 |
+| LandingPage | main | 5f5b866…26a8c56 | fix(main): Redireccionamiento de imagenes |     | 26/04/2025 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 | **Epic / Story ID** | **Título**                    | **Criterios de Aceptación**                                                                                     |
