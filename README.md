@@ -1007,9 +1007,84 @@ Para mejorar la visibilidad en buscadores, definimos meta datos en la Landing Pa
 ![Component](assets/Component.png)
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
+
+![ClassDiagram](./assets/diagrama_clases.jpeg)
+
 ### 4.7.2. Class Dictionary. 
+### Entidad: User
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador del usuario | long | 8 bytes | Mayor a cero |
+| 2 | email | Correo electrónico del usuario | string | Cadena de caracteres | Formato de email válido |
+| 3 | passwordHash | Contraseña encriptada | string | Cadena de caracteres | Caracteres alfanuméricos |
+| 4 | name | Nombre del usuario | string | Cadena de caracteres | Letras y espacios |
+| 5 | avatarUrl | URL del avatar del usuario | string | URL | Formato URL válido |
+| 6 | languageId | Identificador del idioma | int (nullable) | 4 bytes | Mayor a cero o null |
+
+### Entidad: Language
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador del lenguaje | int | 4 bytes | Mayor a cero |
+| 2 | name | Nombre del lenguaje | string | Cadena de caracteres | Letras y espacios |
+| 3 | code | Código ISO del lenguaje | string | Cadena de caracteres | 2 o 3 letras (ISO 639) |
+
+### Entidad: UserStatistics
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de estadísticas | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario | long | 8 bytes | Mayor a cero |
+| 3 | level | Nivel de usuario | int | Número entero | Mayor a cero |
+| 4 | points | Puntos acumulados | int | Número entero | Mayor o igual a cero |
+| 5 | focusTimeTotal | Tiempo total de enfoque | int | Minutos | Mayor o igual a cero |
+| 6 | tasksCompleted | Tareas completadas | int | Contador | Mayor o igual a cero |
+| 7 | goalsCompleted | Metas completadas | int | Contador | Mayor o igual a cero |
+| 8 | streakDays | Días consecutivos activos | int | Días | Mayor o igual a cero |
+
+### Entidad: Task
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de la tarea | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario creador | long | 8 bytes | Mayor a cero |
+| 3 | categoryId | Relación a la categoría | long | 8 bytes | Mayor a cero |
+| 4 | title | Título de la tarea | string | Cadena de caracteres | Letras y números |
+| 5 | description | Descripción de la tarea | string | Cadena de caracteres | Opcional |
+| 6 | priority | Prioridad de la tarea | string | Texto | "low", "medium", "high" |
+| 7 | status | Estado de la tarea | string | Texto | "pending", "in_progress", "completed" |
+| 8 | dueDate | Fecha límite | datetime | Fecha y hora | Formato de fecha válido |
+
+### Entidad: TaskCategory
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de categoría | long | 8 bytes | Mayor a cero |
+| 2 | name | Nombre de categoría | string | Cadena de caracteres | Letras y espacios |
+| 3 | description | Descripción de categoría | string | Cadena de caracteres | Opcional |
+
+### Entidad: Notebook
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de agenda | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario | long | 8 bytes | Mayor a cero |
+| 3 | title | Título de la agenda | string | Cadena de caracteres | Letras y números |
+| 4 | type | Tipo de agenda | string | Texto | "weekly", "monthly" |
+| 5 | startDate | Fecha de inicio | date | Días | Formato de fecha válido |
+| 6 | endDate | Fecha de fin | date | Días | Formato de fecha válido |
+| 7 | content | Contenido de notas | string | Cadena de caracteres | Opcional |
+
+
+
+
+
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram. 
+
+![DbDiagram](./assets/diagrama_db.png)
+
 # V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management. 
 ### 5.1.1. Software Development Environment Configuration. 
