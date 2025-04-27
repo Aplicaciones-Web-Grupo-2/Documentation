@@ -197,7 +197,7 @@ Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada
 ---
 
 #### **Ayrton Damian Inga Hernandez – Ingeniería de Software – U201924756  **  
-<img src="https://private-user-images.githubusercontent.com/93557644/435319039-7072f7df-88f3-4be0-9a69-262391344bf5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwMTQ0NjQsIm5iZiI6MTc0NTAxNDE2NCwicGF0aCI6Ii85MzU1NzY0NC80MzUzMTkwMzktNzA3MmY3ZGYtODhmMy00YmUwLTlhNjktMjYyMzkxMzQ0YmY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE4VDIyMDkyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmMTMwYTFlMTI1MTA4NjQ4MDY3NjBmMWJhMWQxOWYxYTkxOGZlZDg1NWM0ZGUyZjJlYmMxNzg0NmRhOWE3YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7Jnz9WwWi4JMiciGKZeRsV2b70gK7UeFVSNh09UX7Wc" alt="Ayrton Inga" height="200"/>
+<img src="imagenes/estudiantesPerfil/AyrtonInga.png" alt="Ayrton Inga" height="200"/>
 
 Soy estudiante de Ingenieria de Software en la UPC. Me caracterizo por dar todo lo posible tanto en los trabajos como en la vida personal, cuento con conocimientos impartidos anteriormente que me ayudarán a desarrollar este nuevo projecto de forma correcta y a llevar un buen trabajo en equipo.
 
