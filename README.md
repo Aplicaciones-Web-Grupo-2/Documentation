@@ -1508,12 +1508,43 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 | US-15 | Ver planes y precios | T05 | Mostrar planes y precios disponibles | Crear una sección donde se muestren los planes disponibles de la app y sus beneficios, para que los usuarios puedan tomar decisiones informadas. | 6 | Nelson Guerrero  | Done |
 
 #### 5.2.1.4. Development Evidence for Sprint Review
+En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
+
+| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
+|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
+|  |  |    |  |     |  |
+|  |  |    |  |     |  |
+|  |  |    |  |     |  |
+|  |  |    |  |     |  |
+|  |  |    |  |     |  |
+|  |  |    |  |     |  |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+| **Epic / Story ID** | **Título**                    | **Criterios de Aceptación**                                                                                     |
+|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------------|
+| US21                | Navegación por el landing page | Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente. |
+| US22                | Ver información del startup   | Dado que voy a "Sobre Nosotros", cuando hago scroll, entonces veo informacion sobre la startup como misión y visión.                    |
+| US33                | Conocer los servicios |Dado que voy a "Nuestros Servicios", cuando hago scroll, entonces veo informacion sobre los servicos que ofrece la aplicación. |
+
+ En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+ Enlace de la Landing Page:
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
 
 La creación de la documentación se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Se realizó el despliegue de la **landing page** del proyecto *TimeBloom*, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
+
+##### Actividades Realizadas
+
+- Configuración del repositorio **GitHub** y definición de la estructura inicial de carpetas.
+- Implementación del flujo de trabajo **Git Flow**, manteniendo los cambios en la rama *develop*.
+- Realización de un **merge** desde *develop* hacia la rama *main*, siguiendo las convenciones definidas en la sección *5.1.2*.
+- Activación de **GitHub Pages** como servicio de despliegue estático, apuntando al contenido de la rama *main*.
+- Publicación exitosa de la **landing page**, accesible mediante una URL pública.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Nelson Guerrero y Milenio Huaman.
 
