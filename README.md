@@ -1539,7 +1539,7 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 | US33                | Conocer los servicios |Dado que voy a "Nuestros Servicios", cuando hago scroll, entonces veo informacion sobre los servicos que ofrece la aplicación. |
 
  En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
- Enlace de la Landing Page:
+ Enlace de la Landing Page: [https://aplicaciones-web-grupo-2.github.io/Landing-page/](https://aplicaciones-web-grupo-2.github.io/Landing-page/)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
