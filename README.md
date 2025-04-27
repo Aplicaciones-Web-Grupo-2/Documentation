@@ -1086,6 +1086,12 @@ Se prioriza una arquitectura de información clara y herramientas especializadas
 <img src="imagenes/UIdesigns/wireframe recomenpensas.png" alt="wireframe recompensas" />
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+Esta sección presenta los wireframes de nuestra Startup, diseñados aplicando principios de diseño centrado en el usuario, accesibilidad e inclusión.
+Se prioriza una arquitectura de información clara y herramientas especializadas para garantizar una experiencia de usuario fluida y eficiente.
+
+<img src="imagenes/UIdesigns/Wireflow Diagrams.png" alt="Wireflow Diagrams" />
+
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
