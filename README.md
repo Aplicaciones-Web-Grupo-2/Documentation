@@ -1381,6 +1381,19 @@ Durante este sprint, nuestro objetivo fue definir nuestros puntos base para real
 | Nelson Guerrero   | Nelsoondev | C         | 
 
 #### 5.2.1.3. Sprint Backlog 1
+
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+| **Sprint #**   | Sprint 1   |             |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** |             | **Work-Item/task** |             |             |             |             |             |
+| **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
+| US-11 | Explorar beneficios de la app | T01 | Mostrar beneficios de la app | Crear una sección en la landing page donde se muestren los beneficios clave de la app (enfoque, bienestar, productividad). | 8  | Nelson Guerrero  | Done |
+| US-12 | Conocer testimonios de usuarios | T02 | Mostrar testimonios de usuarios | Desarrollar una sección que muestre testimonios positivos de usuarios para aumentar la confianza en la app. | 6 | Milenio Huaman | Done |
+| US-13 | Acceder a preguntas frecuentes | T03 | Crear sección de preguntas frecuentes (FAQ) | Desarrollar una sección con preguntas frecuentes (FAQ) que brinden respuestas rápidas a los visitantes sobre el funcionamiento de la app. | 5 | Nelson Guerrero  | Done |
+| US-14 | Contactar al equipo | T04 | Crear formulario de contacto | Crear un formulario en la landing page para que los visitantes puedan contactar al equipo de soporte para resolver dudas o inquietudes. | 7 | Milenio Huaman  | Done |
+| US-15 | Ver planes y precios | T05 | Mostrar planes y precios disponibles | Crear una sección donde se muestren los planes disponibles de la app y sus beneficios, para que los usuarios puedan tomar decisiones informadas. | 6 | Nelson Guerrero  | Done |
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
