@@ -986,9 +986,20 @@ Para mejorar la visibilidad en buscadores, definimos meta datos en la Landing Pa
 | Landing Page             | TimeBloom: Productividad consciente para estudiantes y profesionales | “Potencia tu enfoque y hábitos con Focustime: planifica metas, usa Pomodoro, y alcanza tus objetivos con recompensas motivadoras.” | productividad, metas, Pomodoro, hábitos, enfoque, antiprocrastinación | BloomTech            |
 | Dashboard Web App (interna) | Dashboard – TimeBloom: Tu progreso visual en un clic. | “Consulta tu progreso diario y semanal en metas, rutinas y sesiones Pomodoro para mantener tu productividad al máximo.” | dashboard, progreso, estadísticas, Pomodoro, rutinas, metas | BloomTech            |
 
-
 ### 4.2.4. Searching Systems.
+
+Oportunidades de implementacion de búsqueda:
+**Filtros contextuales en cada sección:**
+* En Metas: filtrar por estado (Pendiente, En curso, Completada).
+* En Rutinas: filtrar por periodo (Matutina, Vespertina, Nocturna).
+* En Biblioteca: filtrar por tipo de recurso (Artículo, Guía).
+
 ### 4.2.5. Navigation Systems.
+
+* Implementamos una barra lateral fija a la izquierda que permanece visible en todo momento, favoreciendo la exploración de un IA amplio y creciente. La navegación vertical izquierda es ideal para aplicaciones con múltiples secciones, ya que es fácil de escanear y ubicar.
+* En la parte superior, se coloca el logo de Focustime con un tamaño de 48×48 px; al hacer clic, el usuario regresa al dashboard principal. Esto refuerza el branding y actúa como “Home”.
+* Debajo del logo, listamos las funcionalidades principales.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
