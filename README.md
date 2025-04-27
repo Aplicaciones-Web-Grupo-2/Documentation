@@ -1395,6 +1395,53 @@ Para el despliegue de la landing page, se optó por una plataforma de hosting qu
 
 ### 5.1.2. Source Code Management.
 
+Producto y Repositorio
+
+| Producto | Repositorio | URL |
+|-------------|-------------|--------|
+| Landing Page | Timebloom-Landing Page | [LandingPage](https://github.com/Aplicaciones-Web-Grupo-2/Landing-page) |
+
+*Estructura del Repositorio*
+
+Hemos organizado el repositorio en ramas específicas para diferentes etapas del desarrollo, garantizando un flujo de trabajo ordenado y eficiente. La estructura de ramas es la siguiente:
+
+- Develop branch (rama principal): Contiene la versión estable y lista para producción del software.
+
+Además, para el desarrollo de nuevas funcionalidades, creamos ramas específicas siguiendo las convenciones de nomenclatura:
+
+- Feature branches: Ramas dedicadas al desarrollo de nuevas características. La nomenclatura para estas ramas es feature/nueva-funcionalidad.
+
+Implementamos GitFlow, un modelo de ramificación diseñado por Vincent Driessen, que incluye las siguientes ramas:
+
+- Feature branches: Creadas a partir de develop para añadir nuevas características, siguiendo la nomenclatura feature/nueva-funcionalidad.
+- Release branches: Preparadas para la liberación de nuevas versiones, permitiendo pruebas finales y corrección de errores antes del despliegue a producción.
+- Hotfix branches: Utilizadas para corregir errores críticos en producción, siguiendo la nomenclatura hotfix/correccion-critica.
+
+### Flujo de trabajo GitFlow
+
+- Una rama de producción (develop).
+- Rama de hotfix para corrección de errores críticos (hotfix/*).
+- Rama de release para estabilización y pruebas previas al despliegue (release/*).
+- Ramas para features (feature/*).
+- Cambios en develop requieren aprobación.
+
+### Mensajes de Commits
+
+Adoptamos el estándar Conventional Commits para los mensajes de nuestros commits, lo que facilita la comprensión del historial de cambios y la automatización de versiones. Ejemplos de mensajes son:
+
+- feat: Añadir nueva funcionalidad, por ejemplo, feat: implementar sistema de notificaciones.
+- fix: Corregir errores, por ejemplo, fix: solucionar problema con la validación de datos.
+- docs: Actualizar documentación, por ejemplo, docs: actualizar guía de instalación.
+- style: Aplicar formato, por ejemplo, style: ajustar estilo de código según las pautas.
+- refactor: Mejorar el código sin cambiar su funcionalidad, por ejemplo, refactor: optimizar el rendimiento del módulo de usuario.
+- test: Añadir o modificar pruebas, por ejemplo, test: añadir pruebas para la funcionalidad de autenticación.
+
+Documentación
+
+La documentación del proyecto se encuentra en el archivo README.md dentro del repositorio. Este archivo proporciona detalles sobre la configuración, el uso del software y las guías para contribuir al proyecto.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 5.1.3. Source Code Style Guide & Conventions. 
 
 HTML
@@ -1475,6 +1522,38 @@ function sayHello() {
 }
 ```
 ### 5.1.4. Software Deployment Configuration. 
+
+Landing Page
+
+Consideraciones previas al despliegue:
+
+1. Archivos en formato HTML, CSS y JS.
+2. Publicación en un repositorio de GitHub.
+3. Realización de pruebas de funcionamiento (internas y externas).
+
+Requisitos:
+
+- Repositorio en GitHub (público).
+- Código fuente completo de la landing page.
+
+Pasos para realizar el despliegue:
+
+A continuación, se detallan los pasos para desplegar nuestro sitio web utilizando GitHub Pages.
+
+
+  1. Despliegue con GitHub Pages: Primero, accedemos al repositorio en GitHub donde se encuentra el proyecto y luego nos dirigimos a la configuración del repositorio.
+     ![image](https://github.com/user-attachments/assets/c25e2b4e-7148-47b6-bc3c-990d2692f798)
+
+  2. Dentro del menú de ajustes, seleccionamos la opción "Pages".
+     ![image](https://github.com/user-attachments/assets/47bd590f-eb7a-4497-ae27-a9713b3f1958)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Control de Versiones
+
+Uso de Git: Es importante mantener un historial completo de los cambios para gestionar las diferentes versiones del código de manera eficiente.
+
+En la sección de GitHub Pages, elegimos la rama principal (develop) en el menú desplegable de la opción "Branch" y luego hacemos clic en "Save" para guardar los cambios. Después de un breve periodo de espera, obtendremos el enlace a nuestro sitio web, ahora publicado en GitHub Pages.
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint 1 
 #### 5.2.1.1. Sprint Planning 1
