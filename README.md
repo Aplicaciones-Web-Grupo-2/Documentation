@@ -1093,7 +1093,7 @@ Se prioriza una arquitectura de información clara y herramientas especializadas
 <img src="imagenes/UIdesigns/Wireflow Diagrams.png" alt="Wireflow Diagrams" />
 [FIGMA](https://www.figma.com/design/d0Sli9JvzTQ1D3KAfiZ5j3/Untitled?node-id=14-1166&t=TtypjMW7nooE7PlE-1)
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 **LOGIN:**
 <img src="imagenes/UIdesigns/Mockup login.png" alt="Mockup login" />
@@ -1120,7 +1120,7 @@ Se prioriza una arquitectura de información clara y herramientas especializadas
 **RECOMPENSAS:**
 <img src="imagenes/UIdesigns/Mockup recompensas.png" alt="Mockup recompensas" />
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 **User Flow Diagrams:**
 <img src="imagenes/UIdesigns/Mockup flow.png" alt="User Flow Diagrams" />
@@ -1541,10 +1541,27 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
  En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
  Enlace de la Landing Page: [https://aplicaciones-web-grupo-2.github.io/Landing-page/](https://aplicaciones-web-grupo-2.github.io/Landing-page/)
 
+<p align="center">
+  <img src="imagenes/diagramas/pages1.png" alt="Menu"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages2.png" alt="Nosotros"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages3.png" alt="Servicios"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages4.png" alt="Contacto"/>
+</p>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
 
 La creación de la documentación se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Se realizó el despliegue de la **landing page** del proyecto *TimeBloom*, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
@@ -1556,6 +1573,57 @@ Se realizó el despliegue de la **landing page** del proyecto *TimeBloom*, marca
 - Realización de un **merge** desde *develop* hacia la rama *main*, siguiendo las convenciones definidas en la sección *5.1.2*.
 - Activación de **GitHub Pages** como servicio de despliegue estático, apuntando al contenido de la rama *main*.
 - Publicación exitosa de la **landing page**, accesible mediante una URL pública.
+
+##### Evidencias Visuales
+
+* Configuración del repositorio GitHub y estructura inicial de carpetas.
+  * Creamos un repositorio para la landing page dentro de la organizacion. La configuramos para que sea de tipo publico:
+  <p align="center">
+  <img src="imagenes/diagramas/config1.png" alt="Config1"/>
+  </p>
+
+  * Una vez dentro copiamos la direccion HTTPS del repositorio y la clonamos en nuestro entorno local con el comando git clone. Preparamos una estructura de carpetas similar a la siguiente en nuestra maquina:
+
+* Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
+
+  * Desde la consola, creamos un push inicial en la rama remota main usando el comando git push origin main con un mensaje commit descriptivo.
+  initial-commit-landing
+
+  * El siguiente paso es crear la rama local develop usando el comando git checkout -b develop, la creamos de manera remota con git push origin develop. Las ramas feature/* se crearan de la misma forma, pero hay que tener en cuenta que siempre se deben crear a partir de la rama develop, por lo que un paso previo es asegurarnos que estamos en la rama correcta con git checkout develop.
+
+* Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+
+  * Antes de realizar el merge, se revisaron los cambios mediante un pull request en GitHub, asegurando que no existieran conflictos y que el código cumpliera con los estándares definidos.
+
+  * Se realizaron pruebas manuales usando la extension Live Server para verificar la funcionalidad de la landing page antes de fusionar los cambios.
+
+* Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+
+  * En la configuración del repositorio, se seleccionó la rama main como fuente para GitHub Pages. Esto se realizó desde la pestaña "Settings" > "Pages" en GitHub.
+
+  * Se verificó que la URL generada por GitHub Pages estuviera activa y mostrara correctamente el contenido de la landing page.
+
+  <p align="center">
+  <img src="imagenes/diagramas/config2.png" alt="Config2"/>
+</p>
+
+  * Publicacion exitosa de la Landing Page
+
+  <p align="center">
+  <img src="imagenes/diagramas/pages1.png" alt="Menu"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages2.png" alt="Nosotros"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages3.png" alt="Servicios"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages4.png" alt="Contacto"/>
+</p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Nelson Guerrero y Milenio Huaman.
@@ -1602,3 +1670,4 @@ Edu.Pe. Retrieved April 14, 2025, from [https://repositorio.usil.edu.pe/items/bc
 Amelica.org. Retrieved April 14, 2025, from [https://portal.amelica.org/ameli/journal/359/3593711012/html/?utm_source=chatgpt.com](https://portal.amelica.org/ameli/journal/359/3593711012/html/?utm_source=chatgpt.com)
 
 ## Anexos
+- Deployment Landing AgeCare: [Landing Deployment](https://aplicaciones-web-grupo-2.github.io/Landing-page/)
