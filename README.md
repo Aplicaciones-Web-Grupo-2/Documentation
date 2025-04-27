@@ -897,7 +897,28 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
+El planteamiento de las Style Guidelines para TimeBloom es sólido: cubre desde el branding y la paleta de colores, hasta la tipografía, el espaciado y el tono de comunicación, alineándose con las mejores prácticas de diseño de sistemas y guías de estilo. A continuación, comento cada bloque principal y su adecuación, respaldado por referencias de organismos y expertos en design systems.
 ### 4.1.1. General Style Guidelines.
+
+#### Branding
+La combinación de elementos naturales (hojas, brotes) con relojes y calendarios define un concepto visual claro de “crecimiento” y “gestión del tiempo”, reforzando la identidad de marca. Esto coincide con la idea de que un buen design system debe capturar la esencia del negocio en sus componentes visuales.
+Los principios de simplicidad, funcionalidad emocional y coherencia visual siguen las recomendaciones de Nielsen Norman Group, que distingue entre style guides (centrados en branding) y design systems (más completos, con componentes reutilizables).
+
+<img src="imagenes/diagramas/StartUp Logo.png" alt="Logo StartUp" />
+
+<img src="imagenes/diagramas/Solución Logo.png" alt="Logo Producto" />
+
+#### Colors
+Los colores en TimeBloom son esenciales para transmitir sensaciones de progreso, calma y energía positiva.
+* La paleta primaria (Verde Hope #6BBF59, Azul Calm #4A90E2) y secundaria (Amarillo Bright, Rojo Gentle) está bien justificada: el uso de un color principal fuerte para acciones clave y un color de acento para alertas suaves es una mejor práctica en sistemas de diseño.
+* La distinción de colores wireframe en grises neutros respalda la recomendación de mantener la atención en la estructura antes que en el color, tal como señalan las guías de Frontify para design systems.
+* La asignación de colores de texto (gris oscuro para legibilidad y blanco sobre fondos oscuros) se alinea con los estándares de accesibilidad y Material Design, que insisten en un ratio de contraste alto para facilitar la lectura.
+
+<img src="imagenes/diagramas/image.png" alt="Color Style Guidelines" />
+
+#### Typography
+
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
