@@ -1128,8 +1128,12 @@ Se prioriza una arquitectura de información clara y herramientas especializadas
 
 ## 4.5. Web Applications Prototyping.
 
+Esta sección presenta los prototipos de interfaz de usuario , los cuales incluyen simulaciones de interacción y navegación. Las decisiones de
+interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos.
 
-
+<img src="imagenes/UIdesigns/Prototipo.png" />
+[FIGMA](https://www.figma.com/proto/d0Sli9JvzTQ1D3KAfiZ5j3/Untitled?page-id=14%3A1166&node-id=79-2777&viewport=274%2C-714%2C0.17&t=KzyAi7YniqCIiwcz-1&scaling=contain&content-scaling=fixed&starting-point-node-id=79%3A2636&show-proto-sidebar=1
+)
 ## 4.6. Domain Driven Software Arquitecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ![Context](assets/SystemContext.png)
