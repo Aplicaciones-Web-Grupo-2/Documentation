@@ -957,8 +957,36 @@ Las Web Style Guidelines de Focustime definen los estándares visuales e interac
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
+
+Para agrupar y presentar el contenido, aplicamos tres esquemas principales de organización:
+
+* Jerárquico (Visual Hierarchy): Empleamos jerarquía visual en la Landing Page y en las vistas de configuración de metas, donde los títulos (H1/H2) orientan al usuario a los bloques de información más críticos, siguiendo patrones de encabezado recomendados para IA.
+* Secuencial (Step-by-Step): En flujos como registro, planificación de meta y creación de Pomodoros, utilizamos organización secuencial para guiar al usuario mediante pasos claros (p.ej., 1. Crear meta → 2. Dividir subtareas → 3. Iniciar Pomodoro), reduciendo la complejidad percibida.
+* Matricial (Dashboards): En el dashboard de progreso, indicamos métricas en formato matricial (gráficos de dona, barras y tablas) que permiten comparar subtareas, rutinas y sesiones Pomodoro en paralelo, facilitando la visualización de datos multidimensionales.
+
+Para la categorización de contenido, adoptamos:
+
+* Cronológico en el Historial de Pomodoros y en la sección de Registro de Estado Emocional, mostrando sesiones y evaluaciones por fecha para seguimiento de tendencias.
+* Por audiencia en la Landing Page, con secciones diferenciadas (“Para Estudiantes” vs “Para Profesionales”), ajustando el contenido a las necesidades de cada segmento objetivo.
+* Por tópicos en la Biblioteca de Técnicas (antiprocrastinación, gestión del tiempo, hábitos), agrupando recursos en categorías semánticas para facilitar descubrimiento.
+
 ### 4.2.2. Labeling Systems.
+
+Para evitar confusión y mantener la simplicidad:
+* Etiquetas concisas (labels) ubicadas encima de los campos de formulario (“Título de meta”, “Fecha límite”), siguiendo la recomendación de colocar labels por encima para facilitar el escaneo vertical.
+* Terminología coherente en toda la aplicación: usamos “Meta”, “Subtarea”, “Rutina”, “Pomodoro” y “Dashboard” de forma uniforme, evitando sinónimos que fragmenten la experiencia.
+* Asociaciones claras: cada icono (reloj para Pomodoro, trofeo para recompensas) va acompañado de un label textual breve, mejorando la accesibilidad y comprensión.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Para mejorar la visibilidad en buscadores, definimos meta datos en la Landing Page y en la Web App:
+
+| Página                  | `<title>`                                                      | `meta name="description"`                                                                                         | `meta name="keywords"`                                 | `meta name="author"` |
+|:-------------------------|:---------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:---------------------|
+| Landing Page             | TimeBloom: Productividad consciente para estudiantes y profesionales | “Potencia tu enfoque y hábitos con Focustime: planifica metas, usa Pomodoro, y alcanza tus objetivos con recompensas motivadoras.” | productividad, metas, Pomodoro, hábitos, enfoque, antiprocrastinación | BloomTech            |
+| Dashboard Web App (interna) | Dashboard – TimeBloom: Tu progreso visual en un clic. | “Consulta tu progreso diario y semanal en metas, rutinas y sesiones Pomodoro para mantener tu productividad al máximo.” | dashboard, progreso, estadísticas, Pomodoro, rutinas, metas | BloomTech            |
+
+
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
