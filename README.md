@@ -568,7 +568,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Segmento:</strong> Estudiantes universitarios (18 a 25 años) |
 | <strong>Resumen:</strong> Liz, una estudiante universitaria de 18 años que cursa Derecho en la UPC, se considera organizada pero tiende a procrastinar, especialmente cuando le falta motivación o presión. Usa un calendario académico y, a veces, el método Pomodoro, pero prefiere herramientas simples y funcionales. Se siente estresada y frustrada por la procrastinación, y su estrategia para iniciar tareas es dividirlas en partes pequeñas. Valora aplicaciones rápidas, visualmente atractivas y sin muchas notificaciones. Le parece útil la idea de un dashboard visual de progreso en TimeBloom, así como las recompensas simbólicas. Aceptaría pagar por la app si mejora su desempeño académico.|
 | <strong>Enlace de video:</strong> [Microsoft Stream – Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/EdAwXosyHTVBouMP0u50SfoBJg2nHZJBvGK5OdCh9si1hg?e=C3ZjbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
-| <strong>Foto del entrevistado:</strong><br><img src="https://github.com/Milenioupc/SOBREMI/blob/696904b3e73c4735cb88635360bd0024ccfaddc1/Captura%20de%20pantalla%202025-04-24%20023334.png" alt="XXX" height="200"/> |
+| <strong>Foto del entrevistado:</strong><br><img src="imagenes/entrevistas/435322474-ad965a4b-ed03-4df1-ae51-6b87abe807f2.png" alt="Entrevista 1" height="200"/> |
 
 &nbsp;
 
