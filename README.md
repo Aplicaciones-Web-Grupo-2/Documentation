@@ -918,6 +918,11 @@ Los colores en TimeBloom son esenciales para transmitir sensaciones de progreso,
 
 #### Typography
 
+* La elección de Poppins para títulos y Roboto para texto de lectura es consistente con la práctica de usar una fuente geométrica amigable y una secundaria de alta legibilidad, siguiendo las pautas de Material Design.
+* La jerarquía tipográfica (H1 40 px, H2 32 px, H3 24 px, Body 16–18 px, Caption 14 px) y el interlineado de 1.5x respetan las recomendaciones de Nathan Curtis sobre diseño tipográfico en sistemas de diseño, que enfatizan la claridad y consistencia en la escala tipográfica.
+* Limitar a dos familias tipográficas por pantalla ayuda a mantener la limpieza visual y reducir la carga cognitiva, tal como sugieren las guías de EightShapes sobre tipografía.
+
+<img src="imagenes/diagramas/Tipografia.png" alt="Color Style Guidelines" />
 
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
