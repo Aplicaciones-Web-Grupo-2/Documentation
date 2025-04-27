@@ -924,6 +924,24 @@ Los colores en TimeBloom son esenciales para transmitir sensaciones de progreso,
 
 <img src="imagenes/diagramas/Tipografia.png" alt="Color Style Guidelines" />
 
+#### Spacing
+Un sistema de espaciado bien definido mejora la comprensión visual, genera orden y reduce la fatiga cognitiva del usuario.
+* Espaciado base: 8px. Todos los márgenes, paddings y gaps deben ser múltiplos de 8px para garantizar coherencia visual.
+
+| Elemento                          | Espaciado Recomendado                  |
+|:-----------------------------------|:---------------------------------------|
+| Padding interno de botones        | 12px vertical, 24px horizontal         |
+| Separación entre componentes      | 16px o 24px según relación jerárquica  |
+| Margen entre secciones             | 48px mínimo                            |
+| Margen entre título y contenido    | 24px                                   |
+| Padding interior de tarjetas/cards | 16px                                   |
+
+#### Comunicación y Tono
+
+* El tono divertido pero profesional, casual y entusiasta se asemeja al enfoque de Duolingo y Headspace, donde un tono amigable refuerza la motivación sin caer en la condescendencia.
+* Las mensajes de ejemplo (“¡Sigues floreciendo! 🌿”) son efectivos: usan emojis como refuerzo visual y un lenguaje positivo que promueve el engagement.
+* Evitar un lenguaje autoritario (“Debes cumplir…”) se alinea con las directrices de usabilidad que recomiendan un tono de mentor/amigo, minimizando la resistencia del usuario y aumentando la percepción de apoyo.
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
