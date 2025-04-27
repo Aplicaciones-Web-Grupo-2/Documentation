@@ -1093,7 +1093,36 @@ Se prioriza una arquitectura de información clara y herramientas especializadas
 <img src="imagenes/UIdesigns/Wireflow Diagrams.png" alt="Wireflow Diagrams" />
 
 ### 4.4.2. Web Applications Mock-ups.
+
+**LOGIN:**
+<img src="imagenes/UIdesigns/Mockup login.png" alt="Mockup login" />
+**RESGISTRO:**
+<img src="imagenes/UIdesigns/Mockup registrate.png" alt="Mockup registrate" />
+**PLANES:**
+<img src="imagenes/UIdesigns/Mockup planes.png" alt="Mockup planes" />
+**PAGO:**
+<img src="imagenes/UIdesigns/Mockup pagos.png" alt="Mockup pagos" />
+**USUARIO:**
+<img src="imagenes/UIdesigns/Mockup usuario.png" alt="Mockup usuario" />
+**DASHBOARD:**
+<img src="imagenes/UIdesigns/Mockup dashboard.png" alt="Mockup dashboard" />
+**METAS:**
+<img src="imagenes/UIdesigns/Mockup metas.png" alt="Mockup metas" />
+**HABITOS:**
+<img src="imagenes/UIdesigns/Mockup habitos.png" alt="Mockup habitos" />
+**POMODORO:**
+<img src="imagenes/UIdesigns/Mockup pomodoro.png" alt="Mockup pomodoro" />
+**TECNICAS Y CONSEJOS:**
+<img src="imagenes/UIdesigns/Mockup tecnicas y consejos.png" alt="Mockup tecnicas y consejos" />
+**CALENDARIO:**
+<img src="imagenes/UIdesigns/Mockup calendario.png" alt="Mockup calendario" />
+**RECOMPENSAS:**
+<img src="imagenes/UIdesigns/Mockup recompensas.png" alt="Mockup recompensas" />
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+
+
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain Driven Software Arquitecture.
 ### 4.6.1. Software Architecture Context Diagram.
