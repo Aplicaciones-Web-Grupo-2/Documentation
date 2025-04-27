@@ -196,7 +196,7 @@ Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada
 
 ---
 
-#### **Ayrton Damian Inga Hernandez – Ingeniería de Software – U201924756  **  
+#### **Ayrton Damian Inga Hernandez – Ingeniería de Software – U201924756**  
 <img src="imagenes/estudiantesPerfil/AyrtonInga.png" alt="Ayrton Inga" height="200"/>
 
 Soy estudiante de Ingenieria de Software en la UPC. Me caracterizo por dar todo lo posible tanto en los trabajos como en la vida personal, cuento con conocimientos impartidos anteriormente que me ayudarán a desarrollar este nuevo projecto de forma correcta y a llevar un buen trabajo en equipo.
