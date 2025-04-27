@@ -1010,10 +1010,53 @@ Oportunidades de implementacion de búsqueda:
 * Debajo del logo, listamos las funcionalidades principales.
 
 ## 4.3. Landing Page UI Design.
+En esta sección presentamos la propuesta de interfaz de usuario (UI) para la **Landing Page** de TimeBloom. Aquí mostramos cómo hemos aplicado las decisiones de diseño y la arquitectura de información para guiar al usuario de forma clara y atractiva.
+
+### Introducción
+
+La Landing Page es la puerta de entrada de TimeBloom. Debe:
+
+- **Comunicar el valor** de la aplicación de un vistazo.  
+- **Guiar al usuario** hacia la llamada a la acción principal (“Continúa”).  
+- **Reflejar la identidad** de marca (colores, tipografía y estilo visual).  
+- **Adaptarse a móviles y desktop** manteniendo consistencia.
+
+Para lograrlo, hemos definido:
+
+1. **Jerarquía visual** clara, con un título heroico en la parte superior izquierda y un botón destacado.  
+2. **Patrón F-Layout**, aprovechando la convención de lectura occidental (izquierda → derecha, arriba → abajo).  
+3. **Espaciado generoso** para destacar cada bloque y evitar saturación.  
+4. **Imágenes y fondos** que refuercen el tono profesional y motivador de la marca.  
+---
+
 ### 4.3.1. Landing Page Wireframe.
+
+![Wireframe de la Landing Page](https://github.com/Aplicaciones-Web-Grupo-2/Landing-page/blob/8e55abfe12cc139c7c27e854dfd433e34f50d7e2/imagenes/landing%20Page.png)
+
+- **Header fijo** con logo y navegación clara.  
+- **Hero section** dividida en dos columnas:  
+  - **Columna izquierda**: Titular, subtítulo y botón CTA.  
+  - **Columna derecha**: Ilustración o mock-up de la app.  
+- **Sección “Nuestros Productos”** inmediatamente visible al hacer scroll.  
+---
+
 ### 4.3.2. Landing Page Mock-up.
+
+![Mock-up de la Landing Page](https://github.com/Aplicaciones-Web-Grupo-2/Landing-page/blob/c92ae4da3f7e7ef335a265f2c856bafd226496d9/imagenes/Mokup.png)
+
+- Colores de fondo (`bg-gradient-to-r from-blue-900 to-blue-800`) que transmiten serenidad y confianza.  
+- Tipografía **Inter**, pesos bold para el título y regular para subtítulos.  
+- Botón “Continúa” con clase Tailwind:
+  ```html
+  <a href="#products"
+     class="inline-block mt-8 px-8 py-4 bg-green-500 hover:bg-green-600 text-white rounded-full text-lg font-semibold">
+    Continúa
+  </a>
+
 ## 4.4. Web Applications UX/UI Design.
+En esta sección presentamos la propuesta de experiencia de usuario (UX) y la interfaz (UI) para las **Web Applications** de TimeBloom. Aquí describimos cómo traducimos los requerimientos funcionales y el mapa de interacción en pantallas y flujos que guían al usuario a cumplir sus tareas de forma clara, rápida y agradable.
 ### 4.4.1. Web Applications Wireframes.
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
