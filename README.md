@@ -192,6 +192,13 @@ Ser la plataforma líder en productividad consciente, donde las personas no solo
 Empoderar a los usuarios a través de herramientas y experiencias que conecten su propósito personal con acciones diarias, promoviendo una productividad sostenible.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+---
+
+#### **Nelson Fabrizio Guerrero Tomas – Ingeniería de Software – U202222745**  
+<img src="imagenes/estudiantesPerfil/perfilEstudiantes_Nelson.jpg" alt="Guerrero Tomas" height="200"/>
+
+Mi nombre es Nelson Fabrizio Guerrero Tomas. tengo 20 años, estudiante de la carrera Ingenieria de Software (UPC), actualmente estoy cursando mi 5to ciclo de la carrera. Considero que soy colaborativo y me gusta consultar cualquier duda que tengo, para realizar un buen proyecto, esto se evidente en los proyectos entregados por mi equipo de trabajo. Uno de mis pasatiempos favoritos es nadar y escuchar musica, pero ultimamente la lectura y las artes marciales me esta agrando muchisimo.
+
 
 ---
 
@@ -230,13 +237,6 @@ Dentro del equipo BloomTech, aporto en la planificación de funcionalidades, el 
 <img src="https://github.com/user-attachments/assets/9f400ea1-a947-469b-84ab-fd2459afc902" alt="Sebastian Ramirez" height="200"/>
 
 Me llamo Sebastián Ramírez, y estoy cursando el 5to ciclo de Ingeniería de Software. Me considero una persona que se destaca en el trabajo en equipo. Me adapto rápidamente a nuevas situaciones y aprendo con facilidad, lo que me permite enfrentar desafíos con confianza. Valoro mucho el respeto y la cooperación en un entorno de equipo, y siempre busco contribuir a un ambiente positivo.
-
----
-
-#### **XXXXX – Ingeniería de Software – XXXXX**  
-<img src="XXXX" alt="XXX" height="200"/>
-
-XXXXXX
 
 
 ---
