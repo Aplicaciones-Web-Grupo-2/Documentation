@@ -1057,6 +1057,34 @@ Para lograrlo, hemos definido:
 En esta sección presentamos la propuesta de experiencia de usuario (UX) y la interfaz (UI) para las **Web Applications** de TimeBloom. Aquí describimos cómo traducimos los requerimientos funcionales y el mapa de interacción en pantallas y flujos que guían al usuario a cumplir sus tareas de forma clara, rápida y agradable.
 ### 4.4.1. Web Applications Wireframes.
 
+Esta sección presenta los wireframes de nuestra Startup, diseñados aplicando principios de diseño centrado en el usuario, accesibilidad e inclusión.
+Se prioriza una arquitectura de información clara y herramientas especializadas para garantizar una experiencia de usuario fluida y eficiente.
+
+**LOGIN:**
+<img src="imagenes/UIdesigns/wireframe login.png" alt="wireframe login" />
+**RESGISTRO:**
+<img src="imagenes/UIdesigns/wireframe registrate.png" alt="wireframe registrate" />
+**PLANES:**
+<img src="imagenes/UIdesigns/wireframe planes.png" alt="wireframe planes" />
+**PAGO:**
+<img src="imagenes/UIdesigns/wireframe pago.png" alt="wireframe pago" />
+**USUARIO:**
+<img src="imagenes/UIdesigns/wireframe perfil de usuario.png" alt="wireframe perfil de usuario" />
+**DASHBOARD:**
+<img src="imagenes/UIdesigns/wireframe dashboard.png" alt="wireframe dashboard" />
+**METAS:**
+<img src="imagenes/UIdesigns/wireframe metas.png" alt="wireframe metas" />
+**HABITOS:**
+<img src="imagenes/UIdesigns/wireframe habito.png" alt="wireframe habito" />
+ **POMODORO:**
+<img src="imagenes/UIdesigns/wireframe pomodoro.png" alt="wireframe pomodoro" />
+ **TECNICAS Y CONSEJOS:**
+<img src="imagenes/UIdesigns/wireframe tecnicas.png" alt="wireframe tecnicas" />
+**CALENDARIO:**
+<img src="imagenes/UIdesigns/wireframe calendario.png" alt="wireframe calendario" />
+**RECOMPENSAS:**
+<img src="imagenes/UIdesigns/wireframe recomenpensas.png" alt="wireframe recompensas" />
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
