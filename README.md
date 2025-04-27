@@ -1019,8 +1019,7 @@ Para mejorar la visibilidad en buscadores, definimos meta datos en la Landing Pa
 | 2 | email | Correo electrónico del usuario | string | Cadena de caracteres | Formato de email válido |
 | 3 | passwordHash | Contraseña encriptada | string | Cadena de caracteres | Caracteres alfanuméricos |
 | 4 | name | Nombre del usuario | string | Cadena de caracteres | Letras y espacios |
-| 5 | avatarUrl | URL del avatar del usuario | string | URL | Formato URL válido |
-| 6 | languageId | Identificador del idioma | int (nullable) | 4 bytes | Mayor a cero o null |
+| 5 | languageId | Identificador del idioma | int (nullable) | 4 bytes | Mayor a cero o null |
 
 ### Entidad: Language
 
@@ -1075,6 +1074,107 @@ Para mejorar la visibilidad en buscadores, definimos meta datos en la Landing Pa
 | 5 | startDate | Fecha de inicio | date | Días | Formato de fecha válido |
 | 6 | endDate | Fecha de fin | date | Días | Formato de fecha válido |
 | 7 | content | Contenido de notas | string | Cadena de caracteres | Opcional |
+
+### Entidad: Plan
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador del plan | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario creador | long | 8 bytes | Mayor a cero |
+| 3 | title | Nombre del plan | string | Cadena de caracteres | Letras y números |
+| 4 | description | Descripción del plan | string | Cadena de caracteres | Opcional |
+| 5 | totalDurationMinutes | Duración total estimada | int | Minutos | Mayor o igual a cero |
+
+### Entidad: Goal
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de la meta | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario creador | long | 8 bytes | Mayor a cero |
+| 3 | title | Nombre de la meta | string | Cadena de caracteres | Letras y números |
+| 4 | description | Descripción de la meta | string | Cadena de caracteres | Opcional |
+| 5 | targetDate | Fecha objetivo de cumplimiento | date | Días | Formato de fecha válido |
+| 6 | status | Estado de la meta | string | Texto | "pending", "in_progress", "completed", "cancelled" |
+
+### Entidad: FocusSession
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de la sesión de enfoque | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario | long | 8 bytes | Mayor a cero |
+| 3 | startTime | Hora de inicio de la sesión | datetime | Fecha y hora | Formato válido |
+| 4 | endTime | Hora de fin de la sesión | datetime (nullable) | Fecha y hora | Formato válido o null |
+| 5 | durationMinutes | Duración de la sesión | int | Minutos | Mayor o igual a cero |
+| 6 | isCompleted | Estado de completado | boolean | 1 bit | true o false |
+| 7 | musicEnabled | Música de concentración activada | boolean | 1 bit | true o false |
+
+### Entidad: EmotionState
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador del estado emocional | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario | long | 8 bytes | Mayor a cero |
+| 3 | focusSessionId | Relación a la sesión de enfoque | long (nullable) | 8 bytes | Mayor a cero o null |
+| 4 | recordedAt | Fecha de registro del estado | datetime | Fecha y hora | Formato válido |
+| 5 | mood | Estado emocional | string | Texto | "happy", "neutral", "stressed", "anxious", "motivated" |
+| 6 | note | Comentarios adicionales | string | Cadena de caracteres | Opcional |
+
+### Entidad: MotivationalPhrase
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de la frase | long | 8 bytes | Mayor a cero |
+| 2 | phrase | Texto de la frase motivacional | string | Cadena de caracteres | Texto libre |
+| 3 | author | Autor de la frase | string | Cadena de caracteres | Opcional |
+| 4 | category | Categoría de la frase | string | Texto | "general", "focus", "success", "wellness" |
+
+### Entidad: ProgressReport
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador del reporte | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario | long | 8 bytes | Mayor a cero |
+| 3 | weekNumber | Número de la semana | int | Número entero | 1 a 52 |
+| 4 | year | Año correspondiente | int | Número entero | Ejemplo: 2025 |
+| 5 | totalFocusTimeMinutes | Tiempo total enfocado en minutos | int | Minutos | Mayor o igual a cero |
+| 6 | tasksCompleted | Número de tareas completadas | int | Contador | Mayor o igual a cero |
+| 7 | goalsCompleted | Número de metas cumplidas | int | Contador | Mayor o igual a cero |
+
+### Entidad: Subscription
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador del plan de suscripción | long | 8 bytes | Mayor a cero |
+| 2 | name | Nombre del plan | string | Cadena de caracteres | Letras y números |
+| 3 | description | Descripción del plan | string | Cadena de caracteres | Opcional |
+| 4 | priceMonthly | Precio mensual | decimal(10,2) | Moneda | Mayor o igual a cero |
+| 5 | priceYearly | Precio anual | decimal(10,2) | Moneda | Mayor o igual a cero |
+| 6 | features | Características del plan | string | Texto | Opcional |
+| 7 | isActive | Estado de disponibilidad | boolean | 1 bit | true o false |
+
+### Entidad: Payment
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador del pago | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario | long | 8 bytes | Mayor a cero |
+| 3 | subscriptionId | Relación a la suscripción | long | 8 bytes | Mayor a cero |
+| 4 | amount | Monto pagado | decimal(10,2) | Moneda | Mayor o igual a cero |
+| 5 | paymentMethod | Método de pago | string | Texto | "card", "paypal", "bank_transfer" |
+| 6 | status | Estado del pago | string | Texto | "pending", "completed", "failed" |
+| 7 | paymentDate | Fecha de pago | datetime | Fecha y hora | Formato de fecha válido |
+
+### Entidad: Notification
+
+| # | Nombre de Atributos | Definición | Tipo de Dato | Unidad de Medida | Valores Restringidos |
+|---|---------------------|------------|--------------|-----------------|----------------------|
+| 1 | id | Identificador de la notificación | long | 8 bytes | Mayor a cero |
+| 2 | userId | Relación al usuario | long | 8 bytes | Mayor a cero |
+| 3 | title | Título de la notificación | string | Texto | Texto libre |
+| 4 | message | Contenido del mensaje | string | Texto | Texto libre |
+| 5 | isRead | Estado de lectura | boolean | 1 bit | true o false |
+| 6 | sentAt | Fecha de envío | datetime | Fecha y hora | Formato de fecha válido |
+
 
 
 
