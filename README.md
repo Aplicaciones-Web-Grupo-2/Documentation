@@ -51,10 +51,17 @@ Todas las tareas correspondientes a la entrega de la TB1 han sido completadas y 
 
 Aquí se pueden visualizar todos los commits realizados para la TB1, lo cual evidencia el trabajo colaborativo del equipo.
 
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab2"/>
+</p>
 
 Para facilitar el desarrollo del trabajo, optamos por seguir el flujo de trabajo Gitflow. En este esquema, cada subtítulo del informe fue tratado como una feature, pero en lugar de crear ramas específicas para cada una, todos los miembros trabajamos directamente en la rama develop. De esta manera, la colaboración fue más fluida y la revisión constante del equipo permitió asegurar la calidad del contenido. Una vez finalizado el desarrollo de cada sección, todo el equipo revisaba el contenido y, tras obtener el consenso, se realizaba el merge hacia la rama develop. Además, organizamos las tareas considerando su nivel de dificultad, asegurando una distribución equitativa del trabajo entre todos los integrantes.
 
 A lo largo del desarrollo de la TB1, trabajamos exclusivamente en la rama develop, evitando la creación de ramas adicionales. Solo utilizamos las ramas main, develop, feature y release según las necesidades del flujo de trabajo. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma continua antes de su integración final.
+
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 035244.png" alt="Colab2"/>
+</p>
 
 ---
 
