@@ -1404,5 +1404,14 @@ La creación de la documentación se programará para Sprints futuros, una vez q
 
 ## Bibliografía
 
+Procrastinación académica en los estudiantes de internado de la carrera profesional de Psicología en. Edu.Pe. Retrieved April 14, 2025, from [https://repositorio.continental.edu.pe/bitstream/20.500.12394/15288/1/IV_FHU_501_TE_Osorio_Rice_2024.pdf?utm_source=chatgpt.com](https://repositorio.continental.edu.pe/bitstream/20.500.12394/15288/1/IV_FHU_501_TE_Osorio_Rice_2024.pdf?utm_source=chatgpt.com)
+
+Researchgate.net. Retrieved April 14, 2025, from [https://www.researchgate.net/publication/344057996_Procrastinacion_academica_y_ansiedad_en_estudiantes_universitarios_de_Madre_de_Dios_Peru](https://www.researchgate.net/publication/344057996_Procrastinacion_academica_y_ansiedad_en_estudiantes_universitarios_de_Madre_de_Dios_Peru)
+
+Redalyc.org. Retrieved April 14, 2025, from [https://www.redalyc.org/journal/4595/459578426014/html/?utm_source=chatgpt.com](https://www.redalyc.org/journal/4595/459578426014/html/?utm_source=chatgpt.com)
+
+Edu.Pe. Retrieved April 14, 2025, from [https://repositorio.usil.edu.pe/items/bca058c0-22d7-4870-ac03-b165bdeaa6a4](https://repositorio.usil.edu.pe/items/bca058c0-22d7-4870-ac03-b165bdeaa6a4)
+
+Amelica.org. Retrieved April 14, 2025, from [https://portal.amelica.org/ameli/journal/359/3593711012/html/?utm_source=chatgpt.com](https://portal.amelica.org/ameli/journal/359/3593711012/html/?utm_source=chatgpt.com)
 
 ## Anexos
