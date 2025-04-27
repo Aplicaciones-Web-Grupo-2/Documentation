@@ -52,7 +52,7 @@ Todas las tareas correspondientes a la entrega de la TB1 han sido completadas y 
 Aquí se pueden visualizar todos los commits realizados para la TB1, lo cual evidencia el trabajo colaborativo del equipo.
 
 <p align="center">
-  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab2"/>
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab1"/>
 </p>
 
 Para facilitar el desarrollo del trabajo, optamos por seguir el flujo de trabajo Gitflow. En este esquema, cada subtítulo del informe fue tratado como una feature, pero en lugar de crear ramas específicas para cada una, todos los miembros trabajamos directamente en la rama develop. De esta manera, la colaboración fue más fluida y la revisión constante del equipo permitió asegurar la calidad del contenido. Una vez finalizado el desarrollo de cada sección, todo el equipo revisaba el contenido y, tras obtener el consenso, se realizaba el merge hacia la rama develop. Además, organizamos las tareas considerando su nivel de dificultad, asegurando una distribución equitativa del trabajo entre todos los integrantes.
@@ -1409,6 +1409,15 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend 
 La creación de la documentación se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Nelson Guerrero y Milenio Huaman.
+
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040941.png" alt="Colab3"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab2"/>
+</p>
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
