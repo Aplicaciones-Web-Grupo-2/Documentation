@@ -943,7 +943,19 @@ Un sistema de espaciado bien definido mejora la comprensión visual, genera orde
 * Evitar un lenguaje autoritario (“Debes cumplir…”) se alinea con las directrices de usabilidad que recomiendan un tono de mentor/amigo, minimizando la resistencia del usuario y aumentando la percepción de apoyo.
 
 ### 4.1.2. Web Style Guidelines.
+
+Las Web Style Guidelines de Focustime definen los estándares visuales e interaccionales para la interfaz de escritorio, asegurando coherencia, accesibilidad y una experiencia fluida en múltiples resoluciones. Se establece un sistema de cuadrículas, una jerarquía tipográfica clara basada en Poppins y Roboto, paleta de colores consistente con el branding, diseño de navegación intuitiva, componentes interactivos accesibles, y puntos de quiebre responsive alineados con mejores prácticas de la industria.
+
+* Layout & Grid System : Adoptamos un sistema de 12 columnas para desktop.
+
+* Typography & Color Usage : Se mantiene la tipografía de sistema: Poppins para títulos y Roboto para cuerpo de texto, respetando la jerarquía 40 px–32 px–24 px–16 px–14 px con line-height 1.5x. Los colores primarios (Verde Hope #6BBF59, Azul Calm #4A90E2) destacan botones y enlaces principales, mientras que los secundarios (Amarillo Bright, Rojo Gentle) refuerzan alertas y estados de error sin desentonar.
+
+* Navigation : La barra de navegación permanece visible en la parte superior, con opciones principales agrupadas a la izquierda y acciones clave (login, registro) a la derecha para conveniencia del usuario.
+
+* Components & UI Elements : Los botones principales usan el color Verde Hope, con padding de 12 px vertical y 24 px horizontal para facilitar la interacción.
+
 ## 4.2. Information Architecture.
+
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
