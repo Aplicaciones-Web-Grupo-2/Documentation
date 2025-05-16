@@ -1925,3 +1925,4 @@ Amelica.org. Retrieved April 14, 2025, from [https://portal.amelica.org/ameli/jo
 
 ## Anexos
 - Deployment Landing AgeCare: [Landing Deployment](https://aplicaciones-web-grupo-2.github.io/Landing-page/)
+- Deployment Frontend AgeCare: [Frontend Deployment](https://aplicaciones-web-grupo-2.github.io/TimeBloom---Frontend/#/home)
