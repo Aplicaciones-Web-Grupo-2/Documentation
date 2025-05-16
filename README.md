@@ -36,6 +36,7 @@
 | TB1     | 24/04/2025  | Nelson Guerrero Tomas, Elverth Vásquez Villalobos, Milenio Huaman Hinostroza, Fatima Asmad Padilla, Ayrton Inga Hernandez, Sebastian Ramirez Tello | Desarrollo del capitulo 3 |
 | TB1     | 26/04/2025  | Fatima Asmad Padilla, Nelson Guerrero Tomas | Correcciones del capitulo 1, 2 y 3 |
 | TB1     | 27/04/2025  | Nelson Guerrero Tomas, Elverth Vásquez Villalobos, Milenio Huaman Hinostroza, Fatima Asmad Padilla, Ayrton Inga Hernandez, Sebastian Ramirez Tello | Desarrollo del capitulo 4 y 5 |
+| TP1     | 16/05/2025  | Nelson Guerrero Tomas, Elverth Vásquez Villalobos, Milenio Huaman Hinostroza, Fatima Asmad Padilla, Ayrton Inga Hernandez, Sebastian Ramirez Tello | Desarrollo del Sprint Backlog 2 |
 
 ---
 
@@ -1761,6 +1762,9 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 | US-03 |Comenzar sesión de enfoque | T03 | Visualizar tareas | El usuario puede visualizar en una tabla las tareas que ha creado. En la tabla se aprecia cada uno de los atributos de las tareas (nombre, estado, categoria,etc.) | 1| Elverth Vasquez  | Done |
 | US-03 |Comenzar sesión de enfoque | T04 | Crear sesión pomodoro | El usuario puede crear una sesión pomodoro  | 4| Elverth Vasquez  | Pending |
 | US-03 |Comenzar sesión de enfoque | T05 | Asignar tareas a sesión pomodoro | El usuario puede asignar las tareas que desea realizar en su sesión pomodoro.  | 4| Elverth Vasquez  | Pending |
+| US-04 |Recibir frases motivacionales | T06 | Visualizar frases | El usuario puede visualizar frases motivacionales  | 2| Ayrton Inga  | Done |
+| US-04 |Recibir frases motivacionales | T07 | Generar frases | El usuario puede generar frases que recibira de forma aleatoria  | 2| Ayrton Inga  | Done |
+| US-04 |Recibir frases motivacionales | T08 | Recibir frase luego de sesión pomodoro | El usuario recibe una frase aleatoria luego de culminar su sesion pomodoro  | 2| Ayrton Inga  | Pending |
 #### 5.2.2.4. Development Evidence for Sprint Review
 En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
 
@@ -1778,6 +1782,7 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 | **Epic / Story ID** | **Título**                    | **Criterios de Aceptación**                                                                                     |
 |----------------------|------------------------------|----------------------------------------------------------------------------------------------------------------|
 | US03               | Comenzar sesión de enfoque | Como usuario, quiero iniciar una sesión Pomodoro para concentrarme mejor.	 |
+| US04               | Recibir frases morivacionales | Como usuario, quiero recibir frases motivacionales al iniciar o completar tareas para mantenerme motivado.	 |
 
 
 **Evidencias de ejecucióm**
