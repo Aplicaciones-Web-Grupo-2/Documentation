@@ -1775,16 +1775,20 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 | US-17 | Obtener tareas del usuario | T16 | Mostrar tareas en tablero        | Mostrar tareas en interfaz del usuario                              | 3  | Elverth Vasquez | Done |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
-En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
+En esta sección presentamos el flujo de trabajo para la creación y desarrollo del Frontend.
 
 | Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
 |-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
-| TimeBloom-Frontend | main | 1be6782d57530f9efaa5d9661ed28d3f83a9bb43 | First commit |     | 12/05/2025 |
-| TimeBloom-Frontend | develop | 70e116c05d21e6e5a83df5d5a17217a494687e7e | feat:add table to management tasks |     | 14/05/2025 |
-| TimeBloom-Frontend | develop | 937c30001e935ac8e34df3d05e687ddb26f49965 | fix: enviroments and method created in task management component |     | 14/05/2025 |
-| TimeBloom-Frontend | develop | 3cd944b6ade47346c4bcc40f7da8a3cc4cbff244 | fix: update,create and delete methods fixed |     | 15/05/2025 |
-| TimeBloom-Frontend | develop | 135458c13b9dc6e0e26a8c467ded00301a23db97 | fix: columns Status and Category fixed in task management |     | 15/05/2025 |
-| TimeBloom-Frontend | develop | 1b0a1df1e64104efc026f5b16a85d5adba9daa43 | feat: add drawer |     | 15/05/2025 |
+| TimeBloom---Frontend | main | 1be6782d57530f9efaa5d9661ed28d3f83a9bb43 | First commit |     | 12/05/2025 |
+| TimeBloom---Frontend | develop | 70e116c05d21e6e5a83df5d5a17217a494687e7e | feat:add table to management tasks |     | 14/05/2025 |
+| TimeBloom---Frontend | develop | 937c30001e935ac8e34df3d05e687ddb26f49965 | fix: enviroments and method created in task management component |     | 14/05/2025 |
+| TimeBloom---Frontend | develop | 3cd944b6ade47346c4bcc40f7da8a3cc4cbff244 | fix: update,create and delete methods fixed |     | 15/05/2025 |
+| TimeBloom---Frontend | develop | 135458c13b9dc6e0e26a8c467ded00301a23db97 | fix: columns Status and Category fixed in task management |     | 15/05/2025 |
+| TimeBloom---Frontend | develop | 1b0a1df1e64104efc026f5b16a85d5adba9daa43 | feat: add drawer |     | 15/05/2025 |
+| TimeBloom---Frontend | develop | bc335dcb8400fe03f00f0aad98e3ae11486a43e5 | feat: add advices page |     | 15/05/2025 |
+| TimeBloom---Frontend | develop | 45618f2e61371ac15cecf90ed52d524c25130bcd | feat: add goal-management component |     | 16/05/2025 |
+| TimeBloom---Frontend | develop | 4caae1b0a6d161c2f6ad07a504494e209f833543 | feat: add style to list-options |     | 16/05/2025 |
+| TimeBloom---Frontend | develop | 61070879fb9d7954386e0b2ec8e3941b790df005 | Merge branch 'develop' of https://github.com/Aplicaciones-Web-Grupo-2/TimeBloom---Frontend into develop |     | 16/05/2025 |
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
