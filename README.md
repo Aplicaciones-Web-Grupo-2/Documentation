@@ -1792,19 +1792,20 @@ En esta sección presentamos el flujo de trabajo para la creación y desarrollo 
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
-| **Epic / Story ID** | **Título**                    | **Criterios de Aceptación**                                                                                     |
-|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------------|
-| US03               | Comenzar sesión de enfoque | Como usuario, quiero iniciar una sesión Pomodoro para concentrarme mejor.	 |
-| US04               | Recibir frases morivacionales | Como usuario, quiero recibir frases motivacionales al iniciar o completar tareas para mantenerme motivado.	 |
 
+En esta entrega se hizo una actualizacion significativa en la landig page haciendo que las referencias cambien para que apuente a la app.
 
 **Evidencias de ejecucióm**
 
  <img src="imagenes/UIdesigns/Execution Evidence lading page con direccion app.jpeg" alt="Evidence lading page" />
- <img src="imagenes/UIdesigns/Execution Evidence inicio de sesion.jpeg" alt="Evidence inicio de sesion" />
- <img src="imagenes/UIdesigns/Execution Evidence registro de usuario.jpeg" alt="Evidence registro de usuario" />
 
+Ademas se desarrollo funcionalidades significativas del Frontend.
 
+**Evidencias de ejecucióm**
+
+ <img src="imagenes/UIdesigns/Execution Evidence inicio de sesion.jpeg" alt="Evidence inicio de sesion" />  <img src="imagenes/UIdesigns/Execution Evidence registro de usuario.jpeg" alt="Evidence registro de usuario" /> 
+ <img src="assets/Evidence3.jpg" alt="Evidence pomodoro" />
+ 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En este Sprint utilizamos json server para crear una fake api que nos permita simular datos y construir nuestro frontend.
 
