@@ -1876,19 +1876,48 @@ Se realizó el despliegue de la version actualizada de la **landing page** del p
   <img src="imagenes/diagramas/pages4.png" alt="Contacto"/>
 </p>
 
-**FrontEnd** Para el FrontEnd, se utilizó  para el despliegue de la página.
+**FrontEnd** 
 
+<p align="center">
+  <img src="assets/deployment1.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment2.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment3.jpgimagenes/diagramas/pages4.png" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment4.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment5.jpg" alt="Contacto"/>
+</p>
+
+El Frontend desplegada:
+
+<p align="center">
+  <img src="assets/deployment6.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment7.jpg" alt="Contacto"/>
+</p>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 En este sprint el desarollo de la aplicación web se dividió en los diferentes bounded context que comprende el proyecto . Cada integrante del equipo desarollo un bounded context y se encargó de su funcionamiento óptimo.
 
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040941.png" alt="Colab3"/>
+</p>
 
-
-
-
-
-
-
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab2"/>
+</p>
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
