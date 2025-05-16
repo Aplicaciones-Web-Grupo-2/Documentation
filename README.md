@@ -1735,7 +1735,7 @@ En el Sprint 2 nos centramos en escoger las funcionalidades más importantes de 
 | Sprint n - 2 Retrospective Summary | Creemos que la coordinación se podría mejorar , sobretodo en la gestión del tiempo para que cada integrante del grupo pueda dedicar el tiempo adecuado al desarrollo de sus funcionalidades      |
 | Sprint 2 Goal                  | El objetivo de este Sprint es desarrollar las funcionalidades más importantes que hacen que nuestro proyecto ya pueda ser considerado un MVP.La creación de sesiones pomodoros para el usuario es una de las funcionalidades que se espera se pueda desarrollar en este sprint. Asi mismo, en este sprint corregimos las observaciones hechas por el profesor y organizamos al equipo para que cada uno se encargue de un bounded context. |
 | Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 20 Story Points.                                                  |
-| Sum of Story Points            | La suma de Story Points atendidos es de  .                                            |
+| Sum of Story Points            | La suma de Story Points atendidos es de 16.                                            |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 En este sprint nos centramos en el desarrollo de las funcionalidades de la aplicación en el lado del frontend. Para llegar a realizar todo el desarrollo hubo una organización previa en el equipo en el cual se aginaron roles y responsabilidades
@@ -1757,14 +1757,26 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | **User Story** |             | **Work-Item/task** |             |             |             |             |             |
 | **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
-| US-03 |Comenzar sesión de enfoque | T01 | Creación de tareas | El usuario puede crear las tareas que tiene pendiente en la semana | 4 | Elverth Vasquez  | Done |
-| US-03 |Comenzar sesión de enfoque | T02 | Gestión de tareas | El usuario puede gestionar las tareas que tiene pendiente en la semana | 1 | Elverth Vasquez  | Done |
-| US-03 |Comenzar sesión de enfoque | T03 | Visualizar tareas | El usuario puede visualizar en una tabla las tareas que ha creado. En la tabla se aprecia cada uno de los atributos de las tareas (nombre, estado, categoria,etc.) | 1| Elverth Vasquez  | Done |
-| US-03 |Comenzar sesión de enfoque | T04 | Crear sesión pomodoro | El usuario puede crear una sesión pomodoro  | 4| Elverth Vasquez  | Pending |
-| US-03 |Comenzar sesión de enfoque | T05 | Asignar tareas a sesión pomodoro | El usuario puede asignar las tareas que desea realizar en su sesión pomodoro.  | 4| Elverth Vasquez  | Pending |
-| US-04 |Recibir frases motivacionales | T06 | Visualizar frases | El usuario puede visualizar frases motivacionales  | 2| Ayrton Inga  | Done |
-| US-04 |Recibir frases motivacionales | T07 | Generar frases | El usuario puede generar frases que recibira de forma aleatoria  | 2| Ayrton Inga  | Done |
-| US-04 |Recibir frases motivacionales | T08 | Recibir frase luego de sesión pomodoro | El usuario recibe una frase aleatoria luego de culminar su sesion pomodoro  | 2| Ayrton Inga  | Pending |
+
+| US-01 | Iniciar Sesión | T09 | Maquetar vista de login            | Diseñar el formulario de inicio de sesión en frontend              | 4  |  Nelson | Done |
+|       |                 | T10 | Implementar autenticación backend | Lógica de validación de credenciales y generación de sesión        | 5  | Nelson | Done |
+| US-02 | Registro de Usuario | T11 | Maquetar vista de registro         | Formulario de registro con campos necesarios                        | 4  | Nelson | Done |
+|       |                     | T12 | Lógica de registro en backend      | Validaciones y guardado de usuario en base de datos                 | 5  | Nelson | Done |
+| US-03 | Comenzar sesión de enfoque | T01 | Creación de tareas | El usuario puede crear las tareas que tiene pendiente en la semana | 4 | Elverth Vasquez  | Done |
+|       |                            | T02 | Gestión de tareas | El usuario puede gestionar las tareas que tiene pendiente en la semana | 1 | Elverth Vasquez  | Done |
+|       |                            | T03 | Visualizar tareas | El usuario puede visualizar en una tabla las tareas que ha creado. En la tabla se aprecia cada uno de los atributos de las tareas (nombre, estado, categoria,etc.) | 1| Elverth Vasquez  | Done |
+|       |                            | T04 | Crear sesión pomodoro | El usuario puede crear una sesión pomodoro  | 4| Milenio  | Pending |
+|       |                            | T05 | Asignar tareas a sesión pomodoro | El usuario puede asignar las tareas que desea realizar en su sesión pomodoro.  | 4| Milenio  | Pending |
+|       |                            | T13 | Integrar ejemplo Pomodoro online | Integrar un ejemplo de Pomodoro como referencia temporal             | 2  | Milenio | Done |
+|       |                            | T14 | Diseñar estructura técnica | Estructura preliminar de sesiones Pomodoro (modelo, flujo de datos) | 4  | Milenio | In Progress |
+
+| US-04 | Recibir frases motivacionales | T06 | Visualizar frases | El usuario puede visualizar frases motivacionales  | 2| Ayrton Inga  | Done |
+|       |                               | T07 | Generar frases | El usuario puede generar frases que recibirá de forma aleatoria  | 2| Ayrton Inga  | Done |
+|       |                               | T08 | Recibir frase luego de sesión pomodoro | El usuario recibe una frase aleatoria luego de culminar su sesión pomodoro  | 2| Ayrton Inga  | Pending |
+
+| US-17 | Obtener tareas del usuario | T15 | Crear endpoint GET /tareas       | Obtener tareas desde base de datos para usuario autenticado         | 3  | Elverth Vasquez  | Done |
+|       |                            | T16 | Mostrar tareas en tablero        | Mostrar tareas en interfaz del usuario                              | 3  | Elverth Vasquez | Done |
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
 
