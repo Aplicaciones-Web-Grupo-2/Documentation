@@ -1718,6 +1718,110 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
   <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab2"/>
 </p>
 
+
+### 5.2.2. Sprint 2 
+#### 5.2.2.1. Sprint Planning 2
+En el Sprint 2 nos centramos en escoger las funcionalidades más importantes de la aplicación para dar inicio al desarrollo del proyecto. Tuvimos reuniones en las cuales a cada integrante del equipo se le asignó un bounded context a trabajar. Seleccionamos las user stories según indica nuestro product backlog.
+
+| Sprint #                             | Sprint 1                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-05-7      |
+| Time           | 10:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Elverth Vasquez Villalobos              |
+| Attendees (to planning meeting)| Milenio Huaman, Fatima Asmad, Nelson Guerrero, Ayrton Inga, Sebastian Tello                |
+| Sprint n - 2 Review Summary    | Discutimos las diferentes observaciones que nos hizo el profesor respecto a nuestro informe y landing page                                            |
+| Sprint n - 2 Retrospective Summary | Creemos que la coordinación se podría mejorar , sobretodo en la gestión del tiempo para que cada integrante del grupo pueda dedicar el tiempo adecuado al desarrollo de sus funcionalidades      |
+| Sprint 2 Goal                  | El objetivo de este Sprint es desarrollar las funcionalidades más importantes que hacen que nuestro proyecto ya pueda ser considerado un MVP.La creación de sesiones pomodoros para el usuario es una de las funcionalidades que se espera se pueda desarrollar en este sprint. Asi mismo, en este sprint corregimos las observaciones hechas por el profesor y organizamos al equipo para que cada uno se encargue de un bounded context. |
+| Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 20 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  .                                            |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+En este sprint nos centramos en el desarrollo de las funcionalidades de la aplicación en el lado del frontend. Para llegar a realizar todo el desarrollo hubo una organización previa en el equipo en el cual se aginaron roles y responsabilidades
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) |Aspect Name 2 (L/C)
+|------------------------------------------|-------------------|---------------------|---------------------|
+| Elvert Vasquez | ElvDev05  | L  |  L  |
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  C         | 
+| Milenio Huaman   | Milenioupc    | C         | C         | 
+| Ayrton Inga       | DamianIH     | C         | C         |  
+| Sebastian Tello   | SRT0808 | C         | C         | 
+| Nelson Guerrero   | Nelsoondev | C         | C         | 
+
+#### 5.2.2.3. Sprint Backlog 2
+
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+| **Sprint #**   | Sprint 2  |             |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** |             | **Work-Item/task** |             |             |             |             |             |
+| **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
+| US-03 |Comenzar sesión de enfoque | T01 | Creación de tareas | El usuario puede crear las tareas que tiene pendiente en la semana | 4 | Elverth Vasquez  | Done |
+| US-03 |Comenzar sesión de enfoque | T02 | Gestión de tareas | El usuario puede gestionar las tareas que tiene pendiente en la semana | 1 | Elverth Vasquez  | Done |
+| US-03 |Comenzar sesión de enfoque | T03 | Visualizar tareas | El usuario puede visualizar en una tabla las tareas que ha creado. En la tabla se aprecia cada uno de los atributos de las tareas (nombre, estado, categoria,etc.) | 1| Elverth Vasquez  | Done |
+| US-03 |Comenzar sesión de enfoque | T04 | Crear sesión pomodoro | El usuario puede crear una sesión pomodoro  | 4| Elverth Vasquez  | Pending |
+| US-03 |Comenzar sesión de enfoque | T05 | Asignar tareas a sesión pomodoro | El usuario puede asignar las tareas que desea realizar en su sesión pomodoro.  | 4| Elverth Vasquez  | Pending |
+#### 5.2.2.4. Development Evidence for Sprint Review
+En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
+
+| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
+|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
+| TimeBloom-Frontend | main | 1be6782d57530f9efaa5d9661ed28d3f83a9bb43 | First commit |     | 12/05/2025 |
+| TimeBloom-Frontend | develop | 70e116c05d21e6e5a83df5d5a17217a494687e7e | feat:add table to management tasks |     | 14/05/2025 |
+| TimeBloom-Frontend | develop | 937c30001e935ac8e34df3d05e687ddb26f49965 | fix: enviroments and method created in task management component |     | 14/05/2025 |
+| TimeBloom-Frontend | develop | 3cd944b6ade47346c4bcc40f7da8a3cc4cbff244 | fix: update,create and delete methods fixed |     | 15/05/2025 |
+| TimeBloom-Frontend | develop | 135458c13b9dc6e0e26a8c467ded00301a23db97 | fix: columns Status and Category fixed in task management |     | 15/05/2025 |
+| TimeBloom-Frontend | develop | 1b0a1df1e64104efc026f5b16a85d5adba9daa43 | feat: add drawer |     | 15/05/2025 |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+| **Epic / Story ID** | **Título**                    | **Criterios de Aceptación**                                                                                     |
+|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------------|
+| US03               | Comenzar sesión de enfoque | Como usuario, quiero iniciar una sesión Pomodoro para concentrarme mejor.	 |
+
+
+**Evidencias de ejecucióm**
+
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+En este Sprint utilizamos json server para crear una fake api que nos permita simular datos y construir nuestro frontend.
+
+##### Fake API
+
+![fake api](./assets/fake%20apí.png)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Realizamos el desarrollo de la aplicación web en el lado del frontend haciendo uso de una fake api. A continuación se mostrará evidencia de lo desarrollado:
+
+
+
+##### Actividades Realizadas
+
+- Configuración del repositorio **GitHub** y definición de la estructura inicial de carpetas.
+- Implementación del flujo de trabajo **Git Flow**, manteniendo los cambios en la rama *develop*.
+- Realización de un **merge** desde *develop* hacia la rama *main*.
+- Desarrollo de la aplicación web en WebStorm
+
+
+##### Evidencias Visuales
+
+
+</p>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+En este sprint el desarollo de la aplicación web se dividió en los diferentes bounded context que comprende el proyecto . Cada integrante del equipo desarollo un bounded context y se encargó de su funcionamiento óptimo.
+
+
+
+
+
+
+
+
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
