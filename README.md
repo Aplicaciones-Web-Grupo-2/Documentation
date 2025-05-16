@@ -1757,7 +1757,6 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | **User Story** |             | **Work-Item/task** |             |             |             |             |             |
 | **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
-
 | US-01 | Iniciar Sesión | T09 | Maquetar vista de login            | Diseñar el formulario de inicio de sesión en frontend              | 4  |  Nelson | Done |
 |       |                 | T10 | Implementar autenticación backend | Lógica de validación de credenciales y generación de sesión        | 5  | Nelson | Done |
 | US-02 | Registro de Usuario | T11 | Maquetar vista de registro         | Formulario de registro con campos necesarios                        | 4  | Nelson | Done |
