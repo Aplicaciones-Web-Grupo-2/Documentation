@@ -284,19 +284,16 @@ Esta sección desarrolla la visión del modelo de negocio que soporta nuestra so
 #### 1.2.2.1. Lean UX Problem Statements
 
 Problem Statement 1:<br>
-Usuarios: Estudiantes universitarios de 18 a 25 años.<br>
-Necesidad: Necesitan gestionar sus metas académicas y combatir la procrastinación, pero las herramientas actuales no abordan su motivación emocional, lo que los lleva a abandonar las apps de organización.
-Solución: Nuestra app web combina planificación de tareas, técnicas de estudio y recursos de bienestar emocional para fomentar hábitos sostenibles y mantener la constancia académica.
+
+Los estudiantes universitarios de 18 a 25 años enfrentan dificultades para gestionar sus metas académicas y mantener la constancia en sus estudios. Aunque utilizan herramientas de organización, muchas veces abandonan su uso debido a la falta de conexión emocional y motivacional que los ayude a sostener hábitos a largo plazo. Esta desconexión emocional contribuye a la procrastinación y al sentimiento de frustración, afectando su rendimiento académico.<br>
 
 Problem Statement 2:<br>
-Usuarios: Jóvenes profesionales de 22 a 30 años que trabajan de manera remota o freelance.<br>
-Necesidad: Requieren apoyo para gestionar su productividad y evitar la procrastinación crónica, ya que actualmente experimentan frustración y ansiedad al postergar tareas sin contar con apoyo emocional.
-Solución: Nuestra plataforma ofrece acompañamiento motivacional, planificación de metas y técnicas de bienestar emocional que fortalecen la motivación intrínseca y reducen la procrastinación.
+
+Los jóvenes profesionales de 22 a 30 años que trabajan de manera remota o freelance experimentan altos niveles de procrastinación crónica y dificultades para mantener una rutina productiva. A pesar de tener flexibilidad en sus horarios, la falta de apoyo emocional y motivacional genera ansiedad, desorganización y sensación de aislamiento, lo que impacta negativamente en su desempeño y bienestar.<br>
 
 Problem Statement 3:<br>
-Usuarios: Estudiantes y jóvenes profesionales que han usado apps de productividad como Notion, Trello o Google Keep.<br>
-Necesidad: Buscan una herramienta que no solo gestione tareas, sino que también les brinde un soporte emocional para sostener sus hábitos productivos a largo plazo, ya que han abandonado otras apps por falta de conexión emocional.
-Solución: Nuestra aplicación integra gestión de tareas con acompañamiento motivacional, brindando una experiencia más humana y conectada para sostener la productividad a largo plazo.
+
+Estudiantes y jóvenes profesionales que han probado aplicaciones de productividad como Notion, Trello o Google Keep suelen abandonar estas herramientas con el tiempo. Aunque cumplen funciones técnicas de organización, no satisfacen su necesidad de acompañamiento emocional ni promueven una conexión personal con el proceso productivo, lo que dificulta la adopción sostenida de hábitos y genera una sensación de desmotivación progresiva.<br>
 
 #### 1.2.2.2. Lean UX Assumptions
 
