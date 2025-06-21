@@ -822,6 +822,8 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 | US-18 | Registrar estado emocional | Como developer, quiero registrar el estado emocional del usuario con una petición POST para almacenarlo en la base de datos. | - Given se recibe una request válida con userID y estado, when es procesada, then retorna.<br>- Given el formato es incorrecto, then retorna. | EP-05 |
 | US-19 | Ver progreso semanal | Como developer, quiero obtener el resumen de progreso semanal de un usuario mediante GET para mostrarlo en el dashboard. | - Given hay sesiones registradas, when se hace la request con token válido, then retorna el resumen.<br>- Given no hay datos, then retorna una respuesta vacía. | EP-05 |
 | US-20 | Actualizar una meta personal | Como developer, quiero actualizar metas del usuario mediante PUT para reflejar cambios en sus objetivos. | - Given la meta existe, when se hace PUT con datos válidos, then se actualiza y retorna 200.<br>- Given la meta no existe, then retorna error. | EP-05 |
+| US-21            | Misión del día              | Como usuario, quiero recibir un reto personalizado diario para sentirme motivado a cumplir una pequeña meta diaria. | - Given comienza el día, when accedo a la app, then se me asigna una misión del día.<br>- Given completo la misión, then recibo una recompensa simbólica como un logro o frase especial. | EP-03 |
+
 
 
 ##  Epic 01: Creación y Gestión de Cuenta
@@ -848,6 +850,7 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 |----------|------------------------------------|
 | US-04    | Recibir frases motivacionales     |
 | US-07    | Evaluar estado emocional          |
+| US-21    | Misión del día                    |
 
 ##  Epic 04: Landing Page
 
@@ -900,6 +903,8 @@ Las siguientes historias de usuario (HU) se desarrollaron a partir de entrevista
 | 18     | US-12          | Conocer testimonios de usuarios      | Como visitante, quiero leer opiniones de otros usuarios para confiar más en la app. | 2 |
 | 19     | US-13          | Acceder a preguntas frecuentes       | Como visitante, quiero acceder a preguntas frecuentes sobre el funcionamiento de la app para resolver mis dudas. | 2 |
 | 20     | US-15          | Ver planes y precios                 | Como visitante, quiero conocer los planes disponibles para decidir si la app se adapta a mi presupuesto. | 2 |
+| 21     | US-21          | Misión del día                       | Como usuario, quiero recibir un reto personalizado diario para sentirme motivado a cumplir una pequeña meta diaria. | 3 |
+
 
 
 # Capítulo IV: Product Design
