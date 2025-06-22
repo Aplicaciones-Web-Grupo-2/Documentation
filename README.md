@@ -1992,6 +1992,7 @@ En esta sección presentamos el flujo de trabajo para la creación y primer desa
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validations Interviews.
+
 ### 5.3.1. Diseño de entrevistas
 
 - ¿Qué aspectos de mejora puedes encontrar en la aplicación?
@@ -2000,6 +2001,19 @@ En esta sección presentamos el flujo de trabajo para la creación y primer desa
 - ¿Cree que nuestra aplicación podrá ayudar en la mejora de eficacia de tareas?
 
 ### 5.3.2. Registro de entrevistas
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios:
+
+| **Entrevista 1** ||
+|:-:|:-:|
+| Nombre | Andrea |
+|Edad| 20 |
+|Departamento| Lima |
+|Distrito| Lima |
+|Minuto de inicio|00:00:01|
+|Captura de la entrevista| ![Entrevista 1 - Sprint 3](imagenes/entrevistas/Entrevista1Sprint3.png) |
+|Link de la entrevista| https://www.youtube.com/watch?v=6fhc8HsbXuk |
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### Escala de Severidad
