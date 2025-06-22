@@ -1987,6 +1987,28 @@ En esta sección presentamos el flujo de trabajo para la creación y primer desa
 | TimeBloom-platform | feat/Goals | c2be83b3e3cf1e1fc30f9c63683b10acff0cbdd0 | Implement goal and goal category management services, repositories, and REST controllers |     | 22/06/2025 |
 | TimeBloom-platform | master | ff7a5cc103e198e2f84d4b8d4438d5400dbf6a61 | Merge pull request #1 from Aplicaciones-Web-Grupo-2/feat/Goals |     | 22/06/2025 |
 
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En esta entrega se avanzó significativamente en el desarrollo de funcionalidades clave tanto del frontend como del backend. En la interfaz de usuario se implementaron las secciones de tareas, Pomodoro, frases motivacionales, misión del día y metas personales, mejorando la experiencia del usuario y sentando las bases del flujo principal de uso. 
+
+**Evidencias de ejecucióm**
+
+ <img src="assets/Captura de pantalla 2025-06-22 114735.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114758.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114820.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114840.png" alt="Evidence front" />
+
+  <img src="assets/Captura de pantalla 2025-06-22 114908.png" alt="Evidence front" />
+  
+A nivel de backend, se desarrollaron y probaron los endpoints relacionados a la gestión de metas y tareas, lo que permitió establecer la conexión entre la lógica del sistema y la interfaz visual. Cada integrante del equipo asumió la implementación de componentes específicos, consolidando la integración de módulos y reflejando el avance coordinado del proyecto.
+
+**Evidencias de ejecucióm**
+
+ <img src="assets/Captura de pantalla 2025-06-22 120906.png" alt="Evidence back" />
+ 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
