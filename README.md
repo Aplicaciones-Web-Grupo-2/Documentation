@@ -2300,6 +2300,9 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 ## 5.4. Video about the product.
 
+En este video se presenta una visión general de TimeBloom, una aplicación enfocada en el bienestar y la productividad personal. Mostramos cómo el usuario puede gestionar sus tareas diarias, establecer metas personales, realizar sesiones Pomodoro, recibir frases motivacionales y cumplir su misión del día. A través de una navegación fluida por las secciones principales de la interfaz, se demuestra el funcionamiento actual del producto, reflejando el progreso alcanzado hasta el Sprint 3.
+
+[https://youtu.be/UGJGYn7-V7Y](https://youtu.be/UGJGYn7-V7Y)
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
