@@ -1933,11 +1933,11 @@ En el Sprint 3 se continuo con el desarrollo de mas funcionalidades, asi como la
 | Location       | Virtual - Meet               |
 | Prepared By    | Elverth Vasquez Villalobos              |
 | Attendees (to planning meeting)| Milenio Huaman, Fatima Asmad, Nelson Guerrero, Ayrton Inga, Sebastian Tello                |
-| Sprint n - 2 Review Summary    | Discutimos las diferentes observaciones que nos hizo el profesor respecto a nuestro despliegue de frontend e informe.                                            |
-| Sprint n - 2 Retrospective Summary | Creemos que que se pudo realizar con exito las mejoras que teniamos planeados para este projecto, asi como una mejor division de tareas realizadas.      |
+| Sprint n - 3 Review Summary    | Discutimos las diferentes observaciones que nos hizo el profesor respecto a nuestro despliegue de frontend e informe.                                            |
+| Sprint n - 3 Retrospective Summary | Creemos que que se pudo realizar con exito las mejoras que teniamos planeados para este projecto, asi como una mejor division de tareas realizadas.      |
 | Sprint 3 Goal                  | En este sprint se espera la implementación de la primera versión del backend de nuestro proyecto. |
-| Sprint 3 Velocity              | Nuestro equipo puede aceptar hasta -- Story Points.                                                  |
-| Sum of Story Points            | La suma de Story Points atendidos es de --.                 
+| Sprint 3 Velocity              | Nuestro equipo puede aceptar hasta 30 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de 27.                 
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
@@ -1954,27 +1954,28 @@ En este sprint nos centramos en el desarrollo inicial del backend, asi como la m
 
 #### 5.2.3.3. Sprint Backlog 3
 
-| **Sprint 3**   |   |             |             |             |             |             |             |
+| **Sprint 3**   |             |             |             |             |             |             |             |
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | **User Story** |             | **Work-Item/task** |             |             |             |             |             |
 | **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
-| US-03 | Comenzar sesión de enfoque | W01 | Creación de tareas | Desarrollo del backend para el bounded context de tasks | 4 | Elverth Vasquez  | Done |
-| US-03 | Comenzar sesión de enfoque | W02 | Gestión de tareas | Desarrollo del backend para el bounded context de tasks | 2 | Elverth Vasquez  | Done |
+| US-03 | Comenzar sesión de enfoque | T-031 | Diseñar UI para Pomodoro Timer              | Maquetar interfaz con controles de inicio, pausa y reinicio. | 4 | Frontend Dev | En progreso |
+|       |                            | T-032 | Implementar lógica de temporizador         | Manejar cuenta regresiva y ciclos Pomodoro (25/5). | 5 | Frontend Dev | En progreso |
+|       |                            | T-033 | Conectar con backend (crear sesión)        | Llamar a endpoint POST (US-16). | 2 | Frontend Dev | Pendiente |
+| US-04 | Recibir frases motivacionales | T-041 | Crear componente de frase motivacional     | Mostrar frase aleatoria al iniciar o terminar tarea. | 2 | Frontend Dev | Pendiente |
+|       |                               | T-042 | Implementar servicio de frases             | Usar lista local o servicio externo temporal. | 2 | Frontend Dev | Pendiente |
+| US-08 | Definir metas personales | T-081 | Crear formulario de creación de metas       | Inputs para nombre, categoría, duración estimada. | 3 | Frontend Dev | En progreso |
+|       |                          | T-082 | Lógica de validación y envío               | Validaciones básicas y POST al backend. | 2 | Frontend Dev | Pendiente |
+|       |                          | T-083 | Endpoint POST para crear meta              | Implementar en backend con persistencia. | 3 | Backend Dev | Completado |
+|       |                          | T-084 | Endpoint PUT para actualizar metas         | Permitir editar metas existentes. | 3 | Backend Dev | Completado |
+| US-17 | Obtener tareas del usuario | T-171 | Endpoint GET para tareas del usuario       | Filtrado por usuario, tareas activas, etc. | 3 | Backend Dev | Completado |
+|       |                           | T-172 | Conectar frontend al endpoint              | Visualizar tareas en el tablero. | 3 | Frontend Dev | En progreso |
+|       |                           | T-173 | Componente visual para tareas             | Maquetación de tarjeta de tarea, estado, etc. | 4 | Frontend Dev | En progreso |
+| US-21 | Misión del día | T-211 | Generar reto diario (mock)                  | Mostrar mensaje personalizado diario. | 2 | Frontend Dev | Pendiente |
+|       |                | T-212 | Componente de visualización                | Diseño y maquetación de sección “Misión del Día”. | 3 | Frontend Dev | Pendiente |
+| US-05 | Ver progreso semanal | T-051 | Implementar visual de progreso semanal     | Gráfica o resumen semanal de logros. | 4 | Frontend Dev | Pendiente |
+|       |                      | T-052 | Endpoint GET para resumen de progreso      | Lógica para generar resumen (mock o real). | 3 | Backend Dev | Pendiente |
+| US-16 | Crear sesión de enfoque | T-161 | Endpoint POST para crear sesión Pomodoro   | Registrar hora de inicio y duración. | 3 | Backend Dev | Completado |
 
-#### 5.2.3.4. Development Evidence for Sprint Review
-
-En esta sección presentamos el flujo de trabajo para la creación y primer desarrollo del backend.
-
-| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
-|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
-| TimeBloom-platform | master | fb765a52c856e58d958646ff4d4a7e459b2d13f1 | Agregar .gitattributes y .gitignore. |     | 21/06/2025 |
-| TimeBloom-platform | master | 1791535756b3c95751e25d96ac1d55ef9f0f8eb8 | Agregar archivos de proyecto. |     | 21/06/2025 |
-| TimeBloom-platform | feat/Goals | c2be83b3e3cf1e1fc30f9c63683b10acff0cbdd0 | Implement goal and goal category management services, repositories, and REST controllers |     | 22/06/2025 |
-| TimeBloom-platform | master | ff7a5cc103e198e2f84d4b8d4438d5400dbf6a61 | Merge pull request #1 from Aplicaciones-Web-Grupo-2/feat/Goals |     | 22/06/2025 |
-
-#### 5.2.3.5. Execution Evidence for Sprint Review
-
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
