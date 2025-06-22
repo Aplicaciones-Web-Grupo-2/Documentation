@@ -2165,6 +2165,20 @@ FrontEnd Para el FrontEnd, se hizo el mismo proceso y estas son las evidenciqas:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040941.png" alt="Colab3"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab2"/>
+</p>
+
+<p align="center">
+  <img src="assets/Captura de pantalla 2025-06-22 124319.png" alt="Colab2"/>
+</p>
+
 ## 5.3. Validations Interviews.
 
 ### 5.3.1. Diseño de entrevistas
