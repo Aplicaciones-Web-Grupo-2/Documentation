@@ -1921,6 +1921,49 @@ En este sprint el desarollo de la aplicación web se dividió en los diferentes 
   <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab2"/>
 </p>
 
+### 5.2.3. Sprint 3 
+#### 5.2.3.1. Sprint Planning 3
+
+En el Sprint 3 se continuo con el desarrollo de mas funcionalidades, asi como la creacion del backend. Tuvimos reuniones en las cuales a cada integrante del equipo se le asignó ciertas partes del proyecto a mejorar. Seleccionamos las user stories según indica nuestro product backlog.
+
+| Sprint #                             | Sprint 3                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-06-13      |
+| Time           | 11:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Elverth Vasquez Villalobos              |
+| Attendees (to planning meeting)| Milenio Huaman, Fatima Asmad, Nelson Guerrero, Ayrton Inga, Sebastian Tello                |
+| Sprint n - 2 Review Summary    | Discutimos las diferentes observaciones que nos hizo el profesor respecto a nuestro despliegue de frontend e informe.                                            |
+| Sprint n - 2 Retrospective Summary | Creemos que que se pudo realizar con exito las mejoras que teniamos planeados para este projecto, asi como una mejor division de tareas realizadas.      |
+| Sprint 3 Goal                  | En este sprint se espera la implementación de la primera versión del backend de nuestro proyecto. |
+| Sprint 3 Velocity              | Nuestro equipo puede aceptar hasta -- Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de --.                 
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este sprint nos centramos en el desarrollo inicial del backend, asi como la mejora de funcionalidades en el frontend. Para llegar a realizar todo el desarrollo hubo una organización previa en el equipo en el cual se aginaron roles y responsabilidades
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) |Aspect Name 2 (L/C)
+|------------------------------------------|-------------------|---------------------|---------------------|
+| Elvert Vasquez | ElvDev05  | L  |  L  |
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  C         | 
+| Milenio Huaman   | Milenioupc    | C         | C         | 
+| Ayrton Inga       | DamianIH     | C         | C         |  
+| Sebastian Tello   | SRT0808 | C         | C         | 
+| Nelson Guerrero   | Nelsoondev | C         | C         | 
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
