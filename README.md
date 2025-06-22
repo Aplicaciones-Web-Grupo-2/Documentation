@@ -2183,10 +2183,21 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 
 ### 5.3.1. Diseño de entrevistas
 
-- ¿Qué aspectos de mejora puedes encontrar en la aplicación?
-- ¿Hubo un paso de la navegación no muy intuitivo?
-- ¿Qué otra funcionalidad sería conveniente agregar?
-- ¿Cree que nuestra aplicación podrá ayudar en la mejora de eficacia de tareas?
+1 ¿Te resultó clara la forma en que se organizan las tareas dentro de la app?
+
+2 ¿Qué tan útil te pareció la función Pomodoro para concentrarte en tus estudios o tareas?
+
+3 ¿Leíste los consejos motivacionales diarios? ¿Sientes que te aportaron algo?
+
+4 ¿Hubo un paso de la navegación no muy intuitivo?
+
+5 ¿Qué otra funcionalidad sería conveniente agregar?
+
+6 ¿Cree que nuestra aplicación podrá ayudar en la mejora de eficacia de tareas?
+
+7 ¿La interfaz te pareció visualmente agradable y cómoda de usar?
+
+8 ¿Qué opinas del diseño en cuanto a colores, botones y organización visual?
 
 ### 5.3.2. Registro de entrevistas
 
@@ -2200,9 +2211,61 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 |Distrito| Lima |
 |Minuto de inicio|00:00:01|
 |Captura de la entrevista| ![Entrevista 1 - Sprint 3](imagenes/entrevistas/Entrevista1Sprint3.png) |
+
 |Link de la entrevista| https://www.youtube.com/watch?v=6fhc8HsbXuk |
+| **Entrevista 2** ||
+|:-:|:-:|
+| Nombre | Liz |
+|Edad| 20 |
+|Departamento| Lima |
+|Distrito| Lima |
+|Minuto de inicio|00:00:01|
+|Captura de la entrevista| ![Entrevista 1 - Sprint 3](imagenes/entrevistas/entrrevista.png) |
+|Link de la entrevista| https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c245_upc_edu_pe/EWRUr9-5qQZOoM5o99cFQUcBx8r3foDJrBeHkkpu38bpwQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mHoV5p |
+
 
 ### 5.3.3. Evaluaciones según heurísticas
+#### 5.3.3 Evaluaciones según heurísticas
+
+1. **Visibilidad del estado del sistema**  
+   - **Fortaleza:** El temporizador Pomodoro muestra tiempos de trabajo y descanso de forma clara y en tiempo real, lo que mantiene al usuario informado sobre su progreso en cada sesión.  
+   - **Oportunidad:** Incluir indicadores o animaciones más sutiles (por ejemplo, una barra de progreso continua) para reforzar visualmente el estado actual sin depender únicamente de números.
+
+2. **Compatibilidad entre el sistema y el mundo real**  
+   - **Fortaleza:** El uso de metáforas conocidas (temporizador Pomodoro, recompensas tipo “medallas”) facilita la comprensión intuitiva de las funciones.  
+   - **Oportunidad:** Revisar términos técnicos en la interfaz (p. ej. “snooze” o “reset”) para sustituirlos por versiones en español más cercanas al usuario objetivo.
+
+3. **Control y libertad del usuario**  
+   - **Fortaleza:** El usuario puede pausar o reiniciar sesiones en cualquier momento y ajustar la duración de los ciclos.  
+   - **Oportunidad:** Añadir un botón claro de “Deshacer última acción” o confirmar antes de descartar datos de sesión para evitar cierres accidentales de ciclos activos.
+
+4. **Consistencia y estándares**  
+   - **Fortaleza:** La interfaz sigue un estilo minimalista y uniforme (tipografías, paleta de colores, iconografía) según las directrices de estilo.  
+   - **Oportunidad:** Verificar consistencia en todos los módulos (p. ej. iconos de notificaciones versus iconos de recompensas) y unificar nomenclaturas (“historial” vs. “estadísticas”).
+
+5. **Prevención de errores**  
+   - **Fortaleza:** Las configuraciones predeterminadas del Pomodoro reducen la probabilidad de establecer tiempos inadecuados.  
+   - **Oportunidad:** Implementar validaciones en los campos de entrada (por ejemplo, prohibir valores negativos o excesivamente largos) y avisos antes de eliminar hábitos o metas.
+
+6. **Reconocimiento en lugar de recuerdo**  
+   - **Fortaleza:** Los iconos y etiquetas (pomodoro, recompensas, estadísticas) son explícitos y legibles, minimizando la carga de memoria.  
+   - **Oportunidad:** Incluir micro-tutoriales contextuales o tooltips en iconos menos evidentes (p. ej. “añadir hábito”) para reforzar la orientación inicial.
+
+7. **Flexibilidad y eficiencia de uso**  
+   - **Fortaleza:** Permite atajos para usuarios avanzados, como reconfiguración rápida de temporizadores y navegación directa al dashboard.  
+   - **Oportunidad:** Ofrecer funciones de personalización más avanzadas (p. ej. teclas rápidas, perfiles de ciclo guardados) para optimizar el flujo de usuarios recurrentes.
+
+8. **Diseño estético y minimalista**  
+   - **Fortaleza:** La estética “limpia y moderna” se mantiene sin elementos superfluos, favoreciendo el foco en el contenido relevante.  
+   - **Oportunidad:** Reducir el texto explicativo en pantallas de alta densidad de información y utilizar más gráficas o iconos para representar datos clave.
+
+9. **Ayuda a reconocer, diagnosticar y recuperarse de errores**  
+   - **Fortaleza:** Los mensajes de error (p. ej. al tratar de guardar un hábito sin nombre) aparecen de forma resaltada y clara.  
+   - **Oportunidad:** Mejorar la claridad de los mensajes de error incluyendo sugerencias de corrección (“Ingresa un nombre de hábito con al menos 3 caracteres”).
+
+10. **Ayuda y documentación**  
+    - **Fortaleza:** Existe una sección de “Help” en el menú principal con enlaces a vídeos y FAQs.  
+    - **Oportunidad:** Incorporar una guía interactiva o “Primeros pasos” directamente en la app, adaptada a los dos segmentos (estudiantes vs. jóvenes profesionales), para acelerar la adopción.  
 
 #### Escala de Severidad
 
