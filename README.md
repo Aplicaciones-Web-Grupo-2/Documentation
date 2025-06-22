@@ -1976,6 +1976,16 @@ En este sprint nos centramos en el desarrollo inicial del backend, asi como la m
 |       |                      | T-052 | Endpoint GET para resumen de progreso      | Lógica para generar resumen (mock o real). | 3 | Backend Dev | Pendiente |
 | US-16 | Crear sesión de enfoque | T-161 | Endpoint POST para crear sesión Pomodoro   | Registrar hora de inicio y duración. | 3 | Backend Dev | Completado |
 
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección presentamos el flujo de trabajo para la creación y primer desarrollo del backend.
+
+| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
+|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
+| TimeBloom-platform | master | fb765a52c856e58d958646ff4d4a7e459b2d13f1 | Agregar .gitattributes y .gitignore. |     | 21/06/2025 |
+| TimeBloom-platform | master | 1791535756b3c95751e25d96ac1d55ef9f0f8eb8 | Agregar archivos de proyecto. |     | 21/06/2025 |
+| TimeBloom-platform | feat/Goals | c2be83b3e3cf1e1fc30f9c63683b10acff0cbdd0 | Implement goal and goal category management services, repositories, and REST controllers |     | 22/06/2025 |
+| TimeBloom-platform | master | ff7a5cc103e198e2f84d4b8d4438d5400dbf6a61 | Merge pull request #1 from Aplicaciones-Web-Grupo-2/feat/Goals |     | 22/06/2025 |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
