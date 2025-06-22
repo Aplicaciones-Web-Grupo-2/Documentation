@@ -2008,8 +2008,114 @@ A nivel de backend, se desarrollaron y probaron los endpoints relacionados a la 
 **Evidencias de ejecucióm**
 
  <img src="assets/Captura de pantalla 2025-06-22 120906.png" alt="Evidence back" />
+
  
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Se realizó el despliegue de la version actualizada de la **landing page** del proyecto *TimeBloom*, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
+
+##### Actividades Realizadas
+
+- Configuración del repositorio **GitHub** y definición de la estructura inicial de carpetas.
+- Implementación del flujo de trabajo **Git Flow**, manteniendo los cambios en la rama *develop*.
+- Realización de un **merge** desde *develop* hacia la rama *main*, siguiendo las convenciones definidas en la sección *5.1.2*.
+- Activación de **GitHub Pages** como servicio de despliegue estático, apuntando al contenido de la rama *main*.
+- Publicación exitosa de la **landing page**, accesible mediante una URL pública.
+
+##### Evidencias Visuales
+
+* Configuración del repositorio GitHub y estructura inicial de carpetas.
+  * Creamos un repositorio para la landing page dentro de la organizacion. La configuramos para que sea de tipo publico:
+  <p align="center">
+  <img src="imagenes/diagramas/config1.png" alt="Config1"/>
+  </p>
+
+  * Una vez dentro copiamos la direccion HTTPS del repositorio y la clonamos en nuestro entorno local con el comando git clone. Preparamos una estructura de carpetas similar a la siguiente en nuestra maquina:
+
+* Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
+
+  * Desde la consola, creamos un push inicial en la rama remota main usando el comando git push origin main con un mensaje commit descriptivo.
+  initial-commit-landing
+
+  * El siguiente paso es crear la rama local develop usando el comando git checkout -b develop, la creamos de manera remota con git push origin develop. Las ramas feature/* se crearan de la misma forma, pero hay que tener en cuenta que siempre se deben crear a partir de la rama develop, por lo que un paso previo es asegurarnos que estamos en la rama correcta con git checkout develop.
+
+* Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+
+  * Antes de realizar el merge, se revisaron los cambios mediante un pull request en GitHub, asegurando que no existieran conflictos y que el código cumpliera con los estándares definidos.
+
+  * Se realizaron pruebas manuales usando la extension Live Server para verificar la funcionalidad de la landing page antes de fusionar los cambios.
+
+* Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+
+  * En la configuración del repositorio, se seleccionó la rama main como fuente para GitHub Pages. Esto se realizó desde la pestaña "Settings" > "Pages" en GitHub.
+
+  * Se verificó que la URL generada por GitHub Pages estuviera activa y mostrara correctamente el contenido de la landing page.
+
+  <p align="center">
+  <img src="imagenes/diagramas/config2.png" alt="Config2"/>
+</p>
+
+  * Publicacion exitosa de la Landing Page
+
+  <p align="center">
+  <img src="imagenes/diagramas/pages1.png" alt="Menu"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages2.png" alt="Nosotros"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages3.png" alt="Servicios"/>
+</p>
+
+<p align="center">
+  <img src="imagenes/diagramas/pages4.png" alt="Contacto"/>
+</p>
+
+**FrontEnd** 
+
+<p align="center">
+  <img src="assets/deployment1.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment2.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment3.jpgimagenes/diagramas/pages4.png" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment4.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment5.jpg" alt="Contacto"/>
+</p>
+
+El Frontend desplegada:
+
+<p align="center">
+  <img src="assets/deployment6.jpg" alt="Contacto"/>
+</p>
+
+<p align="center">
+  <img src="assets/deployment7.jpg" alt="Contacto"/>
+</p>
+
+FrontEnd Para el FrontEnd, se hizo el mismo proceso y estas son las evidenciqas: 
+
+ <img src="assets/Captura de pantalla 2025-06-22 114735.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114758.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114820.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114840.png" alt="Evidence front" />
+
+  <img src="assets/Captura de pantalla 2025-06-22 114908.png" alt="Evidence front" />
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
