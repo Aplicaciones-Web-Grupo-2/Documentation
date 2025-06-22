@@ -1964,6 +1964,50 @@ En este sprint nos centramos en el desarrollo inicial del backend, asi como la m
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+## 5.3. Validations Interviews.
+### 5.3.1. Diseño de entrevistas
+
+- ¿Qué aspectos de mejora puedes encontrar en la aplicación?
+- ¿Hubo un paso de la navegación no muy intuitivo?
+- ¿Qué otra funcionalidad sería conveniente agregar?
+- ¿Cree que nuestra aplicación podrá ayudar en la mejora de eficacia de tareas?
+
+### 5.3.2. Registro de entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+
+#### Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: Es poco común o fácil de sortear por el usuario. No requiere atención inmediata, salvo que haya tiempo disponible. |
+| 2     | Problema menor: Puede presentarse con mayor frecuencia o resultar algo más complicado para el usuario. Es recomendable resolverlo, aunque con baja prioridad, en futuras versiones. |
+| 3     | Problema mayor: Sucede con regularidad o el usuario no puede resolverlo por sí mismo. Debe ser atendido con prioridad alta.. |
+| 4     | Problema muy grave: errores que impiden que el usuario continúe utilizando la herramienta. Debe repararse antes del lanzamiento.. |
+
+#### Tabla Resumen
+
+| # | Problema                                                                 | Escala de severidad | Heurística/Principio violado       | Tarea evaluada                                  |
+|---|---------------------------------------------------------------------------|----------------------|-------------------------------------|-------------------------------------------------|
+| 1 |  Datos demasiado grandes y poco ordenados                  | 2                    | Eficiencia y satisfacción del usuario | Navegación de la página        |
+| 2 | Diseño de la página       | 2                    | Diseño estético y cohesivo           | Navegación dentro de la página    |
+| 3 | Cuadros de diálogo muy simples      | 1                    | Diseño estético y cohesivo           | Edición de la información      |
+
+#### Recomendaciones
+
+- **Problema 1: Datos demasiado grandes y poco ordenados**  
+  - **Tarea Evaluada:** Navegación de la página
+  - **Recomendación:** Modificar el tamaño de la información.
+
+- **Problema 2: Diseño de la página**  
+  - **Tarea Evaluada:** Navegación dentro de la página 
+  - **Recomendación:** Mejorar el diseño de la página agregando fondo.
+
+- **Problema 3: Cuadros de diálogo muy simples**  
+  - **Tarea Evaluada:** Edición de la información  
+  - **Recomendación:** Agregar íconos, etiquetas o elementos visuales que complementen y refuercen el propósito de cada acción del usuario.
+
+## 5.4. Video about the product.
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
