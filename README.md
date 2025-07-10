@@ -2239,6 +2239,43 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
   <img src="assets/Captura de pantalla 2025-06-22 124319.png" alt="Colab2"/>
 </p>
 
+### 5.2.4. Sprint 4
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 4.
+
+#### 5.2.4.1. Sprint Planning 4
+
+En el Sprint 4 se continuo con el desarrollo de mas funcionalidades, asi como la creacion del backend. Tuvimos reuniones en las cuales a cada integrante del equipo se le asignó ciertas partes del proyecto a mejorar. Seleccionamos las user stories según indica nuestro product backlog.
+
+
+| Sprint #                             | Sprint 3                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-06-27      |
+| Time           | 11:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Elverth Vasquez Villalobos              |
+| Attendees (to planning meeting)| Milenio Huaman, Fatima Asmad, Nelson Guerrero, Ayrton Inga, Sebastian Tello                |
+| Sprint n - 4 Review Summary    | Discutimos las diferentes observaciones que nos hizo el profesor respecto a nuestro despliegue de back e informe.                                            |
+| Sprint n - 4 Retrospective Summary | Creemos que que se pudo realizar con exito las mejoras que teniamos planeados para este projecto, asi como una mejor division de tareas realizadas.      |
+| Sprint 4 Goal                  | En este sprint se llevo acabo las ultimas versiones del front como del back y su conexion . |
+| Sprint 4 Velocity              | Nuestro equipo puede aceptar hasta 30 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de 20.                 
+
+#### 5.2.4.2. Sprint Backlog 4
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 ## 5.3. Validations Interviews.
 
 ### 5.3.1. Diseño de entrevistas
