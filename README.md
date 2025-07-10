@@ -2263,6 +2263,20 @@ En el Sprint 4 se continuo con el desarrollo de mas funcionalidades, asi como la
 
 #### 5.2.4.2. Sprint Backlog 4
 
+| **Sprint 4**   |             |             |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** |             | **Work-Item/task** |             |             |             |             |             |
+| **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
+| US-04 | Recibir frases motivacionales | T-043 | Crear endpoint para "favoriteQuotes" (POST) | Registrar frases favoritas del usuario en la base de datos. | 6 | Backend Dev | Completado |
+|       |                               | T-044 | Conectar frontend con favoriteQuotes        | Mostrar y enviar frases favoritas al backend. | 3 | Frontend Dev | Completado |
+| US-17 | Obtener tareas del usuario    | T-174 | Implementar endpoint PUT para tarea         | Permitir editar tareas específicas del usuario. | 3 | Backend Dev | Completado |
+|       |                               | T-175 | Implementar endpoint DELETE para tarea      | Permitir eliminar tareas del usuario. | 3 | Backend Dev | Completado |
+|       |                               | T-176 | Actualizar lógica de frontend (PUT/DELETE)  | Añadir opciones de editar y eliminar tareas en UI. | 4 | Frontend Dev | Completado|
+| US-01 | Iniciar Sesión                | T-011 | Validar conexión frontend-backend login     | Confirmar flujo correcto desde UI hasta DB. | 4 | Fullstack Dev | Completado |
+| US-02 | Registro de Usuario           | T-021 | Validar conexión frontend-backend registro  | Probar POST de nuevo usuario desde UI. | 2 | Fullstack Dev | Completado |
+| US-11 | Explorar beneficios de la app | T-111 | Rediseñar sección "Nuestros Servicios"      | Actualizar contenido y diseño de landing page. | 3 | Frontend Dev | Completado |
+|       |                               | T-112 | Implementar mejoras visuales en la landing  | Aplicar nuevo estilo y revisar responsive. | 3 | Frontend Dev | Completado |
+
 #### 5.2.4.3. Development Evidence for Sprint Review
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
