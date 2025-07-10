@@ -2279,6 +2279,20 @@ En el Sprint 4 se continuo con el desarrollo de mas funcionalidades, asi como la
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
+En esta sección presentamos el flujo de trabajo para la mejora y conexion entre frontend y backend.
+
+| Repository         | Branch         | Commit ID | Commit Message                                                | Commit Message Body | Committed on (Date) |
+|--------------------|----------------|-----------|----------------------------------------------------------------|----------------------|----------------------|
+| TimeBloom-platform | feat/FavoriteQuote | 8d961a1  | Merge pull request #2 from Aplicaciones-Web-Grupo-2/feat/FavoriteQuote | Implement favorite quote context | 09/07/2025 |
+| TimeBloom-platform | feat/FavoriteQuote | 6af4753  | fix: fix goal and task                                         |                      | 09/07/2025 |
+| TimeBloom-platform | master          | 3204edf  | feat: backend + frontend                                       |                      | 09/07/2025 |
+| TimeBloom-platform | develop         | aa35804  | Merge branch 'master' of https://github.com/Aplicaciones-Web-Grupo-2/TimeBloom---Frontend into develop |                      | 09/07/2025 |
+| TimeBloom-platform | develop         | 2589372  | fix: db json fixedk                                            |                      | 09/07/2025 |
+| TimeBloom-platform | feat/goals      | 74ba988  | Merge pull request #8 from Aplicaciones-Web-Grupo-2/feat/goals |                      | 22/06/2025 |
+| TimeBloom-platform | feat/goals      | 2f6ce41  | fix: update user IDs to strings, enhance goal management UI, and improve CSV export functionality |                      | 22/06/2025 |
+| TimeBloom-platform | feat/goals      | 1cd7c9d  | Merge pull request #7 from Aplicaciones-Web-Grupo-2/feat/goals |                      | 22/06/2025 |
+| TimeBloom-platform | feat/goals      | 728c06d  | fix: goals management                                          |                      | 22/06/2025 |
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
