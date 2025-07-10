@@ -2316,6 +2316,9 @@ A nivel de backend, se desarrollaron y probaron los endpoints relacionados a la 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
 Durante el Sprint 3 se avanzó con la implementación de los servicios backend correspondientes a los módulos de **Goals** (metas) y **Tasks** (tareas), elementos fundamentales dentro del flujo principal de la aplicación *TimeBloom*. Para garantizar la trazabilidad y comprensión de los servicios expuestos, se utilizó **Swagger UI**, lo que permitió documentar, visualizar y probar los endpoints directamente desde el navegador, facilitando así el proceso de revisión y validación por parte del equipo.
 
 A continuación, se detalla la evidencia de los servicios desarrollados:
@@ -2368,8 +2371,6 @@ Todos estos endpoints fueron documentados y expuestos en **Swagger**, permitiend
 Este enfoque permitió al equipo técnico y al Product Owner verificar rápidamente el progreso y la funcionalidad desarrollada, asegurando transparencia y calidad técnica en el backend de *TimeBloom*.
 
 
-
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
