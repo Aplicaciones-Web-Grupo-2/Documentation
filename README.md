@@ -2261,7 +2261,20 @@ En el Sprint 4 se continuo con el desarrollo de mas funcionalidades, asi como la
 | Sprint 4 Velocity              | Nuestro equipo puede aceptar hasta 30 Story Points.                                                  |
 | Sum of Story Points            | La suma de Story Points atendidos es de 20.                 
 
-#### 5.2.4.2. Sprint Backlog 4
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+En este sprint nos centramos en el desarrollo inicial del backend, asi como la mejora de funcionalidades en el frontend. Para llegar a realizar todo el desarrollo hubo una organización previa en el equipo en el cual se aginaron roles y responsabilidades
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) |Aspect Name 2 (L/C)
+|------------------------------------------|-------------------|---------------------|---------------------|
+| Elvert Vasquez | ElvDev05  | L  |  L  |
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  C         | 
+| Milenio Huaman   | Milenioupc    | C         | C         | 
+| Ayrton Inga       | DamianIH     | C         | C         |  
+| Sebastian Tello   | SRT0808 | C         | C         | 
+| Nelson Guerrero   | Nelsoondev | C         | C         | 
+
+#### 5.2.4.3. Sprint Backlog 4
 
 | **Sprint 4**   |             |             |             |             |             |             |             |
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
@@ -2277,7 +2290,7 @@ En el Sprint 4 se continuo con el desarrollo de mas funcionalidades, asi como la
 | US-11 | Explorar beneficios de la app | T-111 | Rediseñar sección "Nuestros Servicios"      | Actualizar contenido y diseño de landing page. | 3 | Frontend Dev | Completado |
 |       |                               | T-112 | Implementar mejoras visuales en la landing  | Aplicar nuevo estilo y revisar responsive. | 3 | Frontend Dev | Completado |
 
-#### 5.2.4.3. Development Evidence for Sprint Review
+#### 5.2.4.4. Development Evidence for Sprint Review
 
 En esta sección presentamos el flujo de trabajo para la mejora y conexion entre frontend y backend.
 
@@ -2292,8 +2305,6 @@ En esta sección presentamos el flujo de trabajo para la mejora y conexion entre
 | TimeBloom-platform | feat/goals      | 2f6ce41  | fix: update user IDs to strings, enhance goal management UI, and improve CSV export functionality |                      | 22/06/2025 |
 | TimeBloom-platform | feat/goals      | 1cd7c9d  | Merge pull request #7 from Aplicaciones-Web-Grupo-2/feat/goals |                      | 22/06/2025 |
 | TimeBloom-platform | feat/goals      | 728c06d  | fix: goals management                                          |                      | 22/06/2025 |
-
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
