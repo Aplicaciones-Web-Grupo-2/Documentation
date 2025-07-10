@@ -48,6 +48,8 @@
 - **URL del repositorio del informe:**  
   [https://github.com/Aplicaciones-Web-Grupo-2/Documentation](https://github.com/Aplicaciones-Web-Grupo-2/Documentation)
 
+## TB1:
+
 Todas las tareas correspondientes a la entrega de la TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Para la elaboración del informe, cada integrante del equipo se encargó de redactar y generar gráficos en formato Markdown, según los puntos que le fueron asignados, realizando commits para dejar constancia del progreso en el repositorio.
 
 Aquí se pueden visualizar todos los commits realizados para la TB1, lo cual evidencia el trabajo colaborativo del equipo.
@@ -64,16 +66,47 @@ A lo largo del desarrollo de la TB1, trabajamos exclusivamente en la rama develo
   <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 035244.png" alt="Colab2"/>
 </p>
 
----
+## TP:
 
+Todas las tareas correspondientes a la entrega del TP han sido completadas y se encuentran debidamente documentadas en el repositorio de GitHub de la organización del equipo. Para la elaboración del informe, cada integrante asumió la responsabilidad de redactar y generar gráficos en formato Markdown según los puntos asignados, realizando commits que evidencian el avance individual dentro del repositorio.
+
+A continuación, se muestran todos los commits realizados durante el desarrollo del TP, lo que refleja claramente el trabajo colaborativo del equipo:
+
+
+
+Con el fin de facilitar el proceso de trabajo, decidimos aplicar la metodología Gitflow. En este contexto, cada subtítulo del informe fue tratado como una funcionalidad específica. Sin embargo, en lugar de generar ramas individuales para cada una, todos los miembros trabajamos directamente sobre la rama develop. Esta dinámica permitió una colaboración más fluida, con revisiones constantes entre los integrantes que garantizaron la calidad del contenido. Al finalizar cada sección, se realizaba una revisión en conjunto, y tras alcanzar un consenso, se procedía con el merge a la rama develop.
+
+Asimismo, organizamos las tareas teniendo en cuenta su nivel de complejidad, lo que nos permitió distribuirlas de forma equitativa entre todos los integrantes.
+
+Durante todo el desarrollo del TP, trabajamos exclusivamente sobre la rama develop, sin crear ramas adicionales innecesarias. Solo utilizamos las ramas main, develop, feature y release según lo requerido por el flujo de trabajo. Este enfoque nos permitió mantener un orden claro y fomentar la colaboración continua, asegurando que cada sección del informe fuera desarrollada y validada antes de su integración final.
+
+
+
+## TB2:
+
+Todas las tareas correspondientes a la entrega de la TB2 han sido completadas y están debidamente documentadas en el repositorio de GitHub de la organización del equipo. Para la elaboración del informe, cada integrante asumió la responsabilidad de redactar y generar gráficos en formato Markdown según los puntos asignados, realizando commits que permiten evidenciar el avance individual dentro del repositorio.
+
+A continuación, se muestran todos los commits realizados durante el desarrollo de la TB2, reflejando el trabajo colaborativo del equipo:
+
+
+
+Para facilitar el proceso de desarrollo, optamos por seguir el flujo de trabajo Gitflow. En este enfoque, cada subtítulo del informe fue tratado como una feature, aunque en lugar de generar ramas específicas para cada una, todos los miembros trabajamos directamente en la rama develop. Esta dinámica permitió una colaboración más fluida, con revisiones constantes entre los integrantes que aseguraron la calidad del contenido. Una vez finalizada cada sección, el equipo revisaba el contenido en conjunto y, tras obtener el consenso, se realizaba el merge hacia la rama develop.
+
+También organizamos las tareas según su nivel de dificultad, lo cual permitió una distribución equitativa del trabajo entre los miembros del equipo.
+
+Durante el desarrollo de la TB2, trabajamos exclusivamente sobre la rama develop, evitando la creación innecesaria de ramas adicionales. Solo se utilizaron las ramas main, develop, feature y release según lo requerido por el flujo Gitflow. Este enfoque nos permitió mantener el orden, fomentar el trabajo colaborativo y asegurar que cada parte del informe fuera desarrollada y revisada antes de su integración final.
+
+
+
+---
 
 # CONTENIDO
 
 # Tabla de Contenidos
 
 1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
-   1.1. [Startup Profile](#startup-profile)<br>
-      1.1.1. [Descripción de la Startup](#descripción-de-la-startup)<br>
+     1.1. [Startup Profile](#startup-profile)<br>
+        1.1.1. [Descripción de la Startup](#descripción-de-la-startup)<br>
       1.1.2. [Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)<br>
    1.2. [Solution Profile](#solution-profile)<br>
       1.2.1. [Antecedentes y problemática](#antecedentes-y-problemática)<br>
@@ -147,11 +180,38 @@ A lo largo del desarrollo de la TB1, trabajamos exclusivamente en la rama develo
          5.2.1.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)<br>
          5.2.1.7. [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)<br>
          5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)<br>
-          5.3. [Validation Interviews](#team-collaboration-insights-during-sprint)<br>
-         5.3.1. [Diseño de Entrevistas](#team-collaboration-insights-during-sprint)<br>
-         5.3.2. [Registro de Entrevistas](#team-collaboration-insights-during-sprint)<br>
-         5.3.3. [Evaluaciones según heurísticas](#team-collaboration-insights-during-sprint)<br>
-         5.4. [Video About-the-Product.](#team-collaboration-insights-during-sprint)<br>
+      5.2.2. [Sprint 2](#sprint-2)
+        5.2.2.1. [Sprint Planning 2](#sprint-planning-2)  
+        5.2.2.2. [Sprint Backlog 2](#sprint-backlog-2)  
+        5.2.2.3. [Development Evidence for Sprint Review](#development-evidence-sprint2)  
+        5.2.2.4. [Testing Suite Evidence for Sprint Review](#testing-suite-sprint2)  
+        5.2.2.5. [Execution Evidence for Sprint Review](#execution-evidence-sprint2)  
+        5.2.2.6. [Services Documentation Evidence for Sprint Review](#services-doc-sprint2)  
+        5.2.2.7. [Software Deployment Evidence for Sprint Review](#deployment-evidence-sprint2)  
+        5.2.2.8. [Team Collaboration Insights during Sprint](#team-collab-sprint2)
+      5.2.3. [Sprint 3](#sprint-3)
+        5.2.3.1. [Sprint Planning 3](#sprint-planning-3)  
+        5.2.3.2. [Sprint Backlog 3](#sprint-backlog-3)  
+        5.2.3.3. [Development Evidence for Sprint Review](#development-evidence-sprint3)  
+        5.2.3.4. [Testing Suite Evidence for Sprint Review](#testing-suite-sprint3)  
+        5.2.3.5. [Execution Evidence for Sprint Review](#execution-evidence-sprint3)  
+        5.2.3.6. [Services Documentation Evidence for Sprint Review](#services-doc-sprint3)  
+        5.2.3.7. [Software Deployment Evidence for Sprint Review](#deployment-evidence-sprint3)  
+        5.2.3.8. [Team Collaboration Insights during Sprint](#team-collab-sprint3)
+     5.2.4. [Sprint 4](#sprint-4)
+        5.2.4.1. [Sprint Planning 4](#sprint-planning-4)  
+        5.2.4.2. [Sprint Backlog 4](#sprint-backlog-4)  
+        5.2.4.3. [Development Evidence for Sprint Review](#development-evidence-sprint4)  
+        5.2.4.4. [Testing Suite Evidence for Sprint Review](#testing-suite-sprint4)  
+        5.2.4.5. [Execution Evidence for Sprint Review](#execution-evidence-sprint4)  
+        5.2.4.6. [Services Documentation Evidence for Sprint Review](#services-doc-sprint4)  
+        5.2.4.7. [Software Deployment Evidence for Sprint Review](#deployment-evidence-sprint4)  
+        5.2.4.8. [Team Collaboration Insights during Sprint](#team-collab-sprint4)  
+     5.3. [Validation Interviews](#team-collaboration-insights-during-sprint)<br>
+       5.3.1. [Diseño de Entrevistas](#team-collaboration-insights-during-sprint)<br>
+       5.3.2. [Registro de Entrevistas](#team-collaboration-insights-during-sprint)<br>
+       5.3.3. [Evaluaciones según heurísticas](#team-collaboration-insights-during-sprint)<br>
+     5.4. [Video About-the-Product.](#team-collaboration-insights-during-sprint)<br>
 [Conclusiones](#conclusiones)<br>
   [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)<br>
 [Video About-the-Team](#video-about-the-team)<br>
@@ -167,8 +227,8 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Ayrton Inga Hernández y Sebastián Ramirez Tello: Asumieron el rol de facilitadores en las reuniones, promoviendo la participación equitativa y asegurando que las decisiones se tomaran en consenso. Fatima Andrea Asmad Padilla: Impulsó iniciativas de mejora dentro del equipo, motivando a los demás a colaborar y fortalecer las propuestas en conjunto. Nelson Guerrero Tomas: Coordinó acciones entre el equipo y otros grupos, asegurando que las metas compartidas se alinearan y fortalecieran la colaboración intergrupal. Milenio Huaman Hinostroza: Apoyó al equipo asumiendo tareas técnicas complejas y brindando orientación a sus compañeros para alcanzar los objetivos comunes. Elverth Vásquez Villalobos: Fomentó un ambiente de trabajo colaborativo, mediando en las diferencias de opinión y buscando siempre el consenso grupal.| El equipo logró crear un entorno colaborativo e inclusivo mediante la distribución equitativa de tareas, la planificación organizada de actividades y el establecimiento de metas claras y alcanzables. Cada integrante aportó desde sus fortalezas, promoviendo la participación activa, el apoyo mutuo y la resolución conjunta de problemas. Gracias a una comunicación abierta y una coordinación efectiva, el equipo cumplió los objetivos propuestos dentro de los plazos establecidos, demostrando compromiso, adaptabilidad y enfoque en el trabajo grupal. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Nelson Guerrero Tomas: Fomentó un ambiente de respeto y participación durante las reuniones, promoviendo que todos los integrantes aportaran sus ideas. Elverth Jair Vásquez Villalobos: Propuso y ayudó a definir metas claras al inicio de cada fase del proyecto, asegurando que el equipo mantuviera una dirección común. Fatima Asmad Padilla: Se encargó de estructurar y distribuir tareas equitativamente entre los miembros, asegurando que las cargas de trabajo fueran justas. Milenio Huamán Hinostroza: Facilitó la integración de ideas diversas en las propuestas del equipo, garantizando que todas las voces fueran consideradas. Ayrton Inga Hernández: Apoyó la ejecución de tareas asignadas de manera puntual, contribuyendo al cumplimiento de los plazos establecidos. Sebastián Ramírez Tello: Realizó seguimientos periódicos del avance grupal, ayudando a identificar desviaciones y proponiendo acciones de mejora para alcanzar los objetivos. | El equipo logró crear un entorno colaborativo e inclusivo donde todos los miembros pudieron expresar sus ideas de manera respetuosa, fortaleciendo la participación activa. Se establecieron metas claras y se planificaron las tareas de forma organizada, lo que permitió distribuir responsabilidades equitativamente y mantener el enfoque en los objetivos del proyecto. La integración de diversas perspectivas enriqueció las soluciones propuestas, mientras que el seguimiento constante del avance facilitó la identificación oportuna de desvíos, asegurando así el cumplimiento exitoso de los objetivos establecidos. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **TB1**: Ayrton Inga Hernández y Sebastián Ramirez Tello: Asumieron el rol de facilitadores en las reuniones, promoviendo la participación equitativa y asegurando que las decisiones se tomaran en consenso. Fatima Andrea Asmad Padilla: Impulsó iniciativas de mejora dentro del equipo, motivando a los demás a colaborar y fortalecer las propuestas en conjunto. Nelson Guerrero Tomas: Coordinó acciones entre el equipo y otros grupos, asegurando que las metas compartidas se alinearan y fortalecieran la colaboración intergrupal. Milenio Huaman Hinostroza: Apoyó al equipo asumiendo tareas técnicas complejas y brindando orientación a sus compañeros para alcanzar los objetivos comunes. Elverth Vásquez Villalobos: Fomentó un ambiente de trabajo colaborativo, mediando en las diferencias de opinión y buscando siempre el consenso grupal. **TP**: Ayrton Inga Hernández y Sebastián Ramírez Tello coordinaron el desarrollo inicial del landing page, organizando reuniones de planificación. Fatima Andrea Asmad Padilla estructuró los entregables y definió criterios visuales comunes. Milenio Huamán Hinostroza y Elverth Vásquez Villalobos apoyaron la integración de componentes iniciales. Nelson Guerrero Tomás documentó los acuerdos técnicos. <br>**TB2**: El equipo se dividió por Bounded Contexts para avanzar con el backend, coordinando a través de reuniones ágiles y seguimiento en GitHub. <br> **TF** : Todos los miembros trabajaron de forma integrada para consolidar backend, frontend y landing, asumiendo roles técnicos y de revisión cruzada para garantizar la calidad. | A lo largo de las fases del proyecto, el equipo mostró una evolución positiva en el liderazgo colaborativo. Desde el TP, donde se establecieron las bases visuales y organizativas, hasta la integración completa en el TF, cada integrante asumió responsabilidades clave. El trabajo conjunto, la asignación clara de roles y la revisión constante permitieron desarrollar un producto sólido y alineado con los objetivos. La experiencia adquirida fortaleció la capacidad de liderazgo compartido del equipo. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Nelson Guerrero Tomas: Fomentó un ambiente de respeto y participación durante las reuniones, promoviendo que todos los integrantes aportaran sus ideas. Elverth Jair Vásquez Villalobos: Propuso y ayudó a definir metas claras al inicio de cada fase del proyecto, asegurando que el equipo mantuviera una dirección común. Fatima Asmad Padilla: Se encargó de estructurar y distribuir tareas equitativamente entre los miembros, asegurando que las cargas de trabajo fueran justas. Milenio Huamán Hinostroza: Facilitó la integración de ideas diversas en las propuestas del equipo, garantizando que todas las voces fueran consideradas. Ayrton Inga Hernández: Apoyó la ejecución de tareas asignadas de manera puntual, contribuyendo al cumplimiento de los plazos establecidos. Sebastián Ramírez Tello: Realizó seguimientos periódicos del avance grupal, ayudando a identificar desviaciones y proponiendo acciones de mejora para alcanzar los objetivos. **TP**: Nelson Guerrero Tomás promovió un ambiente participativo para definir el diseño del landing. Fatima Asmad Padilla organizó el backlog de tareas inicial. Sebastián Ramírez Tello y Ayrton Inga Hernández aseguraron la ejecución puntual del frontend básico. <br>**TB2**: Se definieron metas por contexto y se distribuyeron las tareas técnicas entre los miembros para avanzar con el backend. Elverth Vásquez Villalobos y Milenio Huamán Hinostroza colaboraron activamente en la implementación y documentación de los servicios. <br>**TF**: El equipo integró todos los componentes y estableció un cronograma detallado para pruebas, correcciones y mejoras. Se consolidaron los esfuerzos en la rama `develop`, asegurando entregas funcionales y a tiempo. | El trabajo en equipo fue clave para establecer y cumplir objetivos a lo largo de las fases. En el TP se generó un entorno colaborativo inicial que sentó las bases del proyecto. En el TB2 se evidenció una mayor madurez organizativa con división efectiva de responsabilidades. Finalmente, en el TF se alcanzó la integración total, reflejando una planificación rigurosa y ejecución disciplinada. El equipo mostró compromiso, inclusión y capacidad de adaptación, logrando una entrega final coherente y completa. |
 
 ---
 
