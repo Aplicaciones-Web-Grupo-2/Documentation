@@ -2295,6 +2295,9 @@ En esta sección presentamos el flujo de trabajo para la mejora y conexion entre
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
 En esta entrega se avanzó significativamente en el desarrollo de funcionalidades clave tanto del frontend como del backend. En la interfaz de usuario se implementaron las secciones de tareas, Pomodoro, frases motivacionales, misión del día y metas personales, mejorando la experiencia del usuario y sentando las bases del flujo principal de uso. 
 
 **Evidencias de ejecucióm**
@@ -2314,10 +2317,8 @@ A nivel de backend, se desarrollaron y probaron los endpoints relacionados a la 
 **Evidencias de ejecucióm**
 
 
-#### 5.2.4.5. Execution Evidence for Sprint Review
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
-
 
 Durante el Sprint 3 se avanzó con la implementación de los servicios backend correspondientes a los módulos de **Goals** (metas) y **Tasks** (tareas), elementos fundamentales dentro del flujo principal de la aplicación *TimeBloom*. Para garantizar la trazabilidad y comprensión de los servicios expuestos, se utilizó **Swagger UI**, lo que permitió documentar, visualizar y probar los endpoints directamente desde el navegador, facilitando así el proceso de revisión y validación por parte del equipo.
 
