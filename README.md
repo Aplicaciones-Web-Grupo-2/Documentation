@@ -2316,6 +2316,56 @@ A nivel de backend, se desarrollaron y probaron los endpoints relacionados a la 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 3 se avanzó con la implementación de los servicios backend correspondientes a los módulos de **Goals** (metas) y **Tasks** (tareas), elementos fundamentales dentro del flujo principal de la aplicación *TimeBloom*. Para garantizar la trazabilidad y comprensión de los servicios expuestos, se utilizó **Swagger UI**, lo que permitió documentar, visualizar y probar los endpoints directamente desde el navegador, facilitando así el proceso de revisión y validación por parte del equipo.
+
+A continuación, se detalla la evidencia de los servicios desarrollados:
+
+### Endpoints del módulo `FavoriteQuote`
+
+| Método | Endpoint                            | Descripción                                                  |
+|--------|-------------------------------------|--------------------------------------------------------------|
+| GET    | `/api/v1/favorite-quotes`          | Lista todas las citas favoritas registradas.                 |
+| POST   | `/api/v1/favorite-quotes`          | Permite registrar una nueva cita favorita.                   |
+| GET    | `/api/v1/favorite-quotes/{id}`     | Devuelve la información de una cita favorita específica.     |
+
+### Endpoints del módulo `Goal`
+
+| Método | Endpoint                        | Descripción                                      |
+|--------|----------------------------------|--------------------------------------------------|
+| GET    | `/api/v1/goals/user/{userId}`   | Obtiene todas las metas asociadas a un usuario específico. |
+| GET    | `/api/v1/goals/{id}`            | Retorna los detalles de una meta específica por su ID. |
+| POST   | `/api/v1/goals`                 | Crea una nueva meta personal, vinculada al usuario. |
+
+### Endpoints del módulo `GoalCategory`
+
+| Método | Endpoint                              | Descripción                                      |
+|--------|----------------------------------------|--------------------------------------------------|
+| GET    | `/api/v1/goalcategories`              | Lista todas las categorías de metas disponibles. |
+| POST   | `/api/v1/goalcategories`              | Permite registrar una nueva categoría de meta. |
+| GET    | `/api/v1/goalcategories/{id}`         | Devuelve la información de una categoría específica. |
+
+### Endpoints del módulo `Task`
+
+| Método | Endpoint                        | Descripción                                      |
+|--------|----------------------------------|--------------------------------------------------|
+| POST   | `/api/v1/task`                  | Registra una nueva tarea asociada al usuario. |
+| GET    | `/api/v1/task/{taskId}`         | Retorna los datos de una tarea específica por su ID. |
+
+### Endpoints del módulo `TaskCategory`
+
+| Método | Endpoint                                  | Descripción                                      |
+|--------|--------------------------------------------|--------------------------------------------------|
+| POST   | `/api/v1/task-category`                   | Permite crear una nueva categoría de tarea. |
+| GET    | `/api/v1/task-category/{taskCategoryId}`  | Obtiene información de una categoría específica de tarea. |
+
+### Swagger UI
+
+Todos estos endpoints fueron documentados y expuestos en **Swagger**, permitiendo:
+- Probar las operaciones CRUD con datos reales.
+- Visualizar los modelos de entrada y salida de forma clara.
+- Validar el correcto funcionamiento de las rutas antes de conectarlas con el frontend.
+
+Este enfoque permitió al equipo técnico y al Product Owner verificar rápidamente el progreso y la funcionalidad desarrollada, asegurando transparencia y calidad técnica en el backend de *TimeBloom*.
 
 
 
