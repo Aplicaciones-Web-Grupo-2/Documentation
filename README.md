@@ -72,7 +72,9 @@ Todas las tareas correspondientes a la entrega del TP han sido completadas y se 
 
 A continuación, se muestran todos los commits realizados durante el desarrollo del TP, lo que refleja claramente el trabajo colaborativo del equipo:
 
-
+<p align="center">
+  <img src="assets/web/203953.png" alt="Colab1"/>
+</p>
 
 Con el fin de facilitar el proceso de trabajo, decidimos aplicar la metodología Gitflow. En este contexto, cada subtítulo del informe fue tratado como una funcionalidad específica. Sin embargo, en lugar de generar ramas individuales para cada una, todos los miembros trabajamos directamente sobre la rama develop. Esta dinámica permitió una colaboración más fluida, con revisiones constantes entre los integrantes que garantizaron la calidad del contenido. Al finalizar cada sección, se realizaba una revisión en conjunto, y tras alcanzar un consenso, se procedía con el merge a la rama develop.
 
@@ -80,7 +82,9 @@ Asimismo, organizamos las tareas teniendo en cuenta su nivel de complejidad, lo 
 
 Durante todo el desarrollo del TP, trabajamos exclusivamente sobre la rama develop, sin crear ramas adicionales innecesarias. Solo utilizamos las ramas main, develop, feature y release según lo requerido por el flujo de trabajo. Este enfoque nos permitió mantener un orden claro y fomentar la colaboración continua, asegurando que cada sección del informe fuera desarrollada y validada antes de su integración final.
 
-
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab1"/>
+</p>
 
 ## TB2:
 
@@ -88,13 +92,33 @@ Todas las tareas correspondientes a la entrega de la TB2 han sido completadas y 
 
 A continuación, se muestran todos los commits realizados durante el desarrollo de la TB2, reflejando el trabajo colaborativo del equipo:
 
-
+<p align="center">
+  <img src="assets/web/203953.png" alt="Colab1"/>
+</p>
 
 Para facilitar el proceso de desarrollo, optamos por seguir el flujo de trabajo Gitflow. En este enfoque, cada subtítulo del informe fue tratado como una feature, aunque en lugar de generar ramas específicas para cada una, todos los miembros trabajamos directamente en la rama develop. Esta dinámica permitió una colaboración más fluida, con revisiones constantes entre los integrantes que aseguraron la calidad del contenido. Una vez finalizada cada sección, el equipo revisaba el contenido en conjunto y, tras obtener el consenso, se realizaba el merge hacia la rama develop.
 
 También organizamos las tareas según su nivel de dificultad, lo cual permitió una distribución equitativa del trabajo entre los miembros del equipo.
 
 Durante el desarrollo de la TB2, trabajamos exclusivamente sobre la rama develop, evitando la creación innecesaria de ramas adicionales. Solo se utilizaron las ramas main, develop, feature y release según lo requerido por el flujo Gitflow. Este enfoque nos permitió mantener el orden, fomentar el trabajo colaborativo y asegurar que cada parte del informe fuera desarrollada y revisada antes de su integración final.
+
+<p align="center">
+  <img src="imagenes/diagramas/Captura de pantalla 2025-04-27 040140.png" alt="Colab1"/>
+</p>
+
+## TF:
+
+Todas las tareas correspondientes a la entrega del TF han sido completadas y se encuentran correctamente documentadas en el repositorio de GitHub de la organización del equipo. Para la elaboración del informe, cada miembro se encargó de redactar y generar gráficos en formato Markdown de acuerdo con los puntos asignados, realizando commits que registran el progreso individual en el repositorio.
+
+A continuación, se presentan todos los commits realizados durante el desarrollo del TF, lo cual demuestra el trabajo colaborativo del equipo:
+
+<p align="center"> <img src="assets/web/203953.png"/> </p>
+
+Para optimizar el proceso de trabajo, decidimos emplear el flujo Gitflow. Bajo este esquema, tratamos cada subtítulo del informe como una funcionalidad. No obstante, en lugar de crear ramas específicas para cada uno, todos trabajamos directamente sobre la rama develop. Esto permitió una colaboración más ágil, con revisiones constantes por parte del equipo, lo que aseguró la calidad del contenido. Una vez completada una sección, el equipo la revisaba en conjunto y, tras llegar a un consenso, se realizaba el merge a la rama develop.
+
+Además, las tareas se distribuyeron teniendo en cuenta su nivel de dificultad, logrando así una asignación equitativa entre todos los integrantes.
+
+Durante todo el desarrollo del TF, se trabajó exclusivamente en la rama develop, evitando la proliferación de ramas innecesarias. Solo se emplearon las ramas main, develop, feature y release, según lo requerido por el flujo de trabajo. Esta organización nos permitió mantener una dinámica ordenada y colaborativa, garantizando que cada parte del informe fuera desarrollada y validada antes de su integración definitiva.
 
 
 
@@ -2327,7 +2351,7 @@ A nivel de backend, se desarrollaron y probaron los endpoints relacionados a la 
 
 **Evidencias de ejecucióm**
 
-
+  <img src="assets/web/a6b6e5f0.jpg" alt="Evidence front" />
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -2382,7 +2406,7 @@ Todos estos endpoints fueron documentados y expuestos en **Swagger**, permitiend
 
 Este enfoque permitió al equipo técnico y al Product Owner verificar rápidamente el progreso y la funcionalidad desarrollada, asegurando transparencia y calidad técnica en el backend de *TimeBloom*.
 
-
+  <img src="assets/web/a6b6e5f0.jpg" alt="Evidence front" />
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
@@ -2443,6 +2467,10 @@ Este enfoque permitió al equipo técnico y al Product Owner verificar rápidame
   <img src="imagenes/diagramas/pages4.png" alt="Contacto"/>
 </p>
 
+<p align="center">
+  <img src="assets/web/bccb827d.jpg" alt="Contacto"/>
+</p>
+
 **FrontEnd** 
 
 <p align="center">
@@ -2487,9 +2515,15 @@ FrontEnd Para el FrontEnd, se hizo el mismo proceso y estas son las evidenciqas:
 
   <img src="assets/Captura de pantalla 2025-06-22 114908.png" alt="Evidence front" />
 
+El Backend desplegada:
+
+  <img src="assets/web/a6b6e5f0.jpg" alt="Evidence front" />
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+
+  <img src="assets/web/204127.png" alt="Evidence front" />
 
 ## 5.3. Validations Interviews.
 
