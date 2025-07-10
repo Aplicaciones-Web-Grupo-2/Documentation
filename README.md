@@ -2295,7 +2295,29 @@ En esta sección presentamos el flujo de trabajo para la mejora y conexion entre
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+En esta entrega se avanzó significativamente en el desarrollo de funcionalidades clave tanto del frontend como del backend. En la interfaz de usuario se implementaron las secciones de tareas, Pomodoro, frases motivacionales, misión del día y metas personales, mejorando la experiencia del usuario y sentando las bases del flujo principal de uso. 
+
+**Evidencias de ejecucióm**
+
+ <img src="assets/Captura de pantalla 2025-06-22 114735.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114758.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114820.png" alt="Evidence front" />
+
+ <img src="assets/Captura de pantalla 2025-06-22 114840.png" alt="Evidence front" />
+
+  <img src="assets/Captura de pantalla 2025-06-22 114908.png" alt="Evidence front" />
+  
+A nivel de backend, se desarrollaron y probaron los endpoints relacionados a la gestión de metas y tareas, lo que permitió establecer la conexión entre la lógica del sistema y la interfaz visual. Cada integrante del equipo asumió la implementación de componentes específicos, consolidando la integración de módulos y reflejando el avance coordinado del proyecto.
+
+**Evidencias de ejecucióm**
+
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
